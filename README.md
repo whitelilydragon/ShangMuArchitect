@@ -6,7 +6,8 @@ Click here to jump to the issues page: https://github.com/whitelilydragon/ShangM
 ---------------
 
 When reporting bugs, please refer to this bugs classification list when tagging your reports:
-	A)
+```
+  A)
 		Game crashes
 		System crashes
 		Asset data loads with corruption
@@ -21,6 +22,7 @@ When reporting bugs, please refer to this bugs classification list when tagging 
   D)
     This bug may be seen as a minor nuisance, such as sound effects bleeding, or sounds playing louder than the volume settings defined
     A combat move being imbalanced, or a graphical tile is misplaced compared to where it should be.)
+```
 
 Community Suggestions
 ---------------------
