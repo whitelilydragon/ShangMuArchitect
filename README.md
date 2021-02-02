@@ -1,3 +1,5 @@
+# Shang Mu Architect Issue Tracker
+
 Issue tracker and suggestions page for the Freedom Planet fan game, Shang Mu Architect
 
 Click here to jump to the issues page: https://github.com/whitelilydragon/ShangMuArchitect/issues
@@ -7,18 +9,18 @@ Click here to jump to the issues page: https://github.com/whitelilydragon/ShangM
 
 When reporting bugs, please refer to this bugs classification list when tagging your reports:
 ```
-A)
+Class A)
   Game crashes
   Save/map data corrupts 
   Asset data loads with corruption
   Other catastrophic scenarios that prevent the game from executing more code
-B)
+Class B)
   Game doesn't crash, but softlocks, or the editor becomes unusable during play
-C)
+Class C)
   Collision issues, such as clipping through floors or walls
   Graphical user interface problems
   Enemies misbehave
-D)
+Class D)
   This bug may be seen as a minor nuisance, such as sound mastering issues
   A combat move is imbalanced
   Graphical tiles misplaced compared to where they should be
@@ -27,7 +29,7 @@ D)
 
 # Community Suggestions
 
-When reporting suggestions for the game, or feature wishlists, tag them as "Feature Suggestion". If the developers consider the suggestion as part of the game's future updates, they will be copied here, and the opened ticket will be tagged as "Closed", so as to improve the visibility of critical bugs being reported on the issues page.
+When reporting suggestions for the game, or feature wishlists, tag them as "Feature Suggestion". If the developers consider the suggestion as part of the game's future updates, they will be copied here, and the opened ticket will be tagged as "Closed", to improve the visibility of critical bugs being reported on the issues page.
 
 ## Accepted suggestions are detailed here
 
@@ -43,4 +45,4 @@ When reported in-game behavior differs from Freedom Planet, use the "Accuracy" t
 
 Inaccuracy reports are dealt with on a case-by-case basis. Many cases of innaccuracy were unintended, and should be brought to light with your reports, while some in-game behaviors differ from Freedom Planet intentionally, with justifications specific to Shang Mu Architect.
   
-The former will be considered, while the latter may be labeled as #wontfix, with a detailed explanation as to why a specific behavior was deviated from. Please report accuracy issues in any case, it is vital for the betterment of the project!
+The former will be considered, while the latter may be labeled as #wontfix, with a detailed explanation as to why a specific behavior was deviated from. Please report accuracy issues in any case, it is vital for the betterment of the project, and a heightened community understanding of the game's accuracy goals!
