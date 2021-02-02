@@ -39,7 +39,7 @@ When reporting suggestions for the game, or feature wishlists, tag them as "Feat
 
 # Accuracy Issues
 
-When reported in-game behavior differs from Freedom Planet, use the "Accuracy" tag to your reports.
+When reported in-game behavior differs from Freedom Planet, use the "Accuracy" tag for your reports.
 
 Inaccuracy reports are dealt with on a case-by-case basis. Many cases of innaccuracy were unintended, and should be brought to light with your reports, while some in-game behaviors differ from Freedom Planet intentionally, with justifications specific to Shang Mu Architect.
   
