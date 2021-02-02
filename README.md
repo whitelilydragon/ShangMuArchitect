@@ -8,21 +8,21 @@ Click here to jump to the issues page: https://github.com/whitelilydragon/ShangM
 When reporting bugs, please refer to this bugs classification list when tagging your reports:
 ```
 A)
-	Game crashes
-	System crashes
-	Asset data loads with corruption
-	Other catastrophic scenarios that prevent the game from executing more code
+  Game crashes
+  System crashes
+  Asset data loads with corruption
+  Other catastrophic scenarios that prevent the game from executing more code
 B)
-	Game doesn't crash, but progression is impossible. (For instance, a loop that doesn't work and stops the player from finishing the level.)
-	Save files or map data corrupts
+  Game doesn't crash, but progression is impossible. (For instance, a loop that doesn't work and stops the player from finishing the level.)
+  Save files or map data corrupts
 C)
-	Game doesn't crash and progression is still possible, but the technical workings of certain features are distinctly not polished
-	Menus and notification messages don't behave as well as they should
-	Collision physics issues, such as clipping through floors or walls
+  Game doesn't crash and progression is still possible, but the technical workings of certain features are distinctly not polished
+  Menus and notification messages don't behave as well as they should
+  Collision physics issues, such as clipping through floors or walls
 D)
-	This bug may be seen as a minor nuisance, such as sound effects bleeding, or sounds playing louder than the volume settings defined
-	A combat move is imbalanced, or a graphical tile is misplaced compared to where it should be.)
-	A combat move is working correctly, but its exact behavior is inaccurate when compared to Freedom Planet
+  This bug may be seen as a minor nuisance, such as sound effects bleeding, or sounds playing louder than the volume settings defined
+  A combat move is imbalanced, or a graphical tile is misplaced compared to where it should be.)
+  A combat move is working correctly, but its exact behavior is inaccurate when compared to Freedom Planet
 ```
 
 Community Suggestions
