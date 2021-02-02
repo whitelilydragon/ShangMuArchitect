@@ -9,24 +9,39 @@ When reporting bugs, please refer to this bugs classification list when tagging 
 ```
 A)
   Game crashes
-  System crashes
+  Save/map data corrupts 
   Asset data loads with corruption
   Other catastrophic scenarios that prevent the game from executing more code
 B)
-  Game doesn't crash, but progression is impossible. (For instance, a loop that doesn't work and stops the player from finishing the level.)
-  Save files or map data corrupts
+  Game doesn't crash, but softlocks, or the editor becomes unusable during play
 C)
-  Game doesn't crash and progression is still possible, but the technical workings of certain features are distinctly not polished
-  Menus and notification messages don't behave as well as they should
-  Collision physics issues, such as clipping through floors or walls
+  Collision issues, such as clipping through floors or walls
+  Graphical user interface problems
+  Enemies misbehave
 D)
-  This bug may be seen as a minor nuisance, such as sound effects bleeding, or sounds playing louder than the volume settings defined
-  A combat move is imbalanced, or a graphical tile is misplaced compared to where it should be.)
-  A combat move is working correctly, but its exact behavior is inaccurate when compared to Freedom Planet
+  This bug may be seen as a minor nuisance, such as sound mastering issues
+  A combat move is imbalanced
+  Graphical tiles misplaced compared to where they should be
+  Any cosmetic or technical detail that is lacking attention
+Accuracy)
+  Reported in-game behavior differs from Freedom Planet
+
+  Inaccuracy reports are dealt with on a case-by-case basis. Many cases of
+  innaccuracy were unintended, and should be brought to light with the #Accuracy
+  tag, while some in-game behaviors differ from Freedom Planet intentionally,
+  with justifications specific to Shang Mu Architect.
+  
+  The former will be considered, while the latter may be labeled as #wontfix.
+  Please report accuracy issues in any case, it is vital for the betterment of
+  the project!
+  
 ```
 
-Community Suggestions
----------------------
+# Community Suggestions
+
+When reporting suggestions for the game, or feature wishlists, tag them as "Feature Suggestion". If the developers consider the suggestion as part of the game's future updates, they will be copied here, and the opened ticket will be tagged as "Closed", so as to improve the visibility of critical bugs being reported on the issues page.
+
+## Accepted suggestions are detailed here
 
 Ability to rotate tiles in 90° increments -Deckard
 
