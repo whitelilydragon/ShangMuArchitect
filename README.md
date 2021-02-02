@@ -6,14 +6,14 @@ Click here to jump to the issues page: https://github.com/whitelilydragon/ShangM
 ---------------
 
 When reporting bugs, please refer to this bugs classification list when tagging your reports:
-  A)
-    Game crashes
-    System crashes
-    Asset data loads with corruption
-    Other catastrophic scenarios that prevent the game from executing more code
-  B)
-    Game doesn't crash, but progression is impossible. (For instance, a loop that doesn't work and stops the player from finishing the level.)
-    Save files or map data corrupts
+	A)
+		Game crashes
+		System crashes
+		Asset data loads with corruption
+		Other catastrophic scenarios that prevent the game from executing more code
+	B)
+		Game doesn't crash, but progression is impossible. (For instance, a loop that doesn't work and stops the player from finishing the level.)
+ 		Save files or map data corrupts
   C)
     Game doesn't crash and progression is still possible, but the technical workings of certain features are distinctly not polished
     Menus and notification messages don't behave as well as they should
