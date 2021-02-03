@@ -39,6 +39,8 @@ When reporting suggestions for the game, or feature wishlists, tag them as "Feat
 - Allow Lilac's uppercut to work on walls and ceilings in the way that it does in Freedom Planet 2 -Deckard
 - A transition system which allows a level to span multiple map files, instead of one, both to defeat the 16,000 tile limitation *and* create a sensation of progression in stages. This could be done via stage.map, stage.sub1, stage.sub2, etc, file naming, so that the game can distinguish "sub-world" maps from maps that start a stage, or only have one map file.
 - Level names could be longer -NBlast
+- Make the d-pad snap the cursor to the editor's sidebar -Nacho
+- Improve Lilac's uppercut attack so that it can launch Lilac from walls as well as ceilings, like it can in FP2 -Deckard
 
 # Accuracy Issues
 
