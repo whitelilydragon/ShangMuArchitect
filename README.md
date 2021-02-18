@@ -33,7 +33,7 @@ When reporting suggestions for the game, or feature wishlists, tag them as "Feat
 
 ## Accepted suggestions are detailed here
 
-- Ability to rotate tiles in 90° increments -Deckard
+- Ability to rotate tiles in 90° increments -Deckard and Treya
 - A loop logic controller for wall-running, as well as running on the ground -frogmoss10
 - Make the dpad on the controller snap to editor options to the right -El_Nacho
 - Allow Lilac's uppercut to work on walls and ceilings in the way that it does in Freedom Planet 2 -Deckard
