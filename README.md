@@ -45,25 +45,15 @@ When reporting suggestions for the game, or feature wishlists, tag them as "Feat
 
 # Accuracy Issues
 
-When reported in-game behavior differs from Freedom Planet, use the "Accuracy" tag for your reports.
+Collision issues and physics bugs are more than valid for bug reports, but reports about accuracy related to character movement or behavior are no longer accepted. (For instance, if the animation speeds of Lilac's attacks are off by 5%, or if there is a two pixel difference in her uppercut's jump height.) Any reports of this variety will be labeled as #Won't Fix and closed.
 
-Inaccuracy reports are dealt with on a case-by-case basis. Many cases of innaccuracy were unintended, and should be brought to light with your reports, while some in-game behaviors differ from Freedom Planet intentionally, with justifications specific to Shang Mu Architect.
-  
-The former will be considered, while the latter may be labeled as #wontfix, with a detailed explanation as to why a specific behavior was deviated from. Please report accuracy issues in any case, it is vital for the betterment of the project, and a heightened community understanding of the game's accuracy goals!
+The accuracy tag for this issue tracker was used exclusively for the last stretch of 1.0's development. For as much as accuracy was attempted for this project, I do not have forever and a day to get *everything* right, nor was it the goal. (Many things were rebalanced intentionally within the context of the project.) Nor was it feasible for one person to get everything right; perfectionism is little different from poison to a multimedia project like this.
+
+Freedom Planet is a very complex game to rebuild from the ground up without reverse-engineering or decompiling. I had to work backwards for years to get this project where it is today, and that time invested still would not have meant as much if not for all of the help and insight from others I had along the way. At some point, I had to stop with slavish chasings for accuracy.
+
+For these reasons, I am far more concerned about critical collision issues, GUI issues, crashes, and the creation of more content for the game.
 
 # Frequently Asked Questions
-
-### I am experiencing vertical tearing and/or my frame-rate is below 60 FPS
-
-Shang Mu Architect checks if your OS is Windows 10 or above, and if it succeeds at detecting Windows 10, enables alternate sync. Alternate sync works best for many players by default, but not all, and you may need alternate sync even if you are not running Windows 10; this greatly depends on your hardware.
-
-To enable or disable alternate sync, cycle through vertical sync methods with the F8 key, and see if normal sync or no sync resolves your tearing issues. Alternate sync can also be enabled or disabled via "AlternateSyncMethod" in the options.ini file.
-
-### My frame-rate is still below 60 FPS
-
-Shang Mu Architect's sleep margin is left at default, to lessen how much battery life the game might demand on laptops, but for some computers, this can affect performance. Open the options.ini file, in the fan game's root directory, and modify "SleepMargin=1" to "SleepMargin=10", then disable AlternateSyncMethod by setting it to 0.
-
-This is a common performance tweak used by commerical Game Maker games, such as N uclear Throne and Rivals of A ether. Some games alternatively use a sleep margin of 15 to maintain performance across more computers.
 
 ### Windows tells me that the "page" is unavailable, or "Your IT Administrator has limited access to some areas of this app", and refuses the launch the fan game
 
