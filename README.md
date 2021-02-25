@@ -42,6 +42,7 @@ When reporting suggestions for the game, or feature wishlists, tag them as "Feat
 - Improve Lilac's uppercut attack so that it can launch Lilac from walls as well as ceilings, like it can in FP2 -Deckard
 - Difficulty tags in stage descriptions -benjistring
 - Allow players to stick shields/item inside grass tiles, so that Milla can dig them up later -benjistring
+- Allow all menu elements outside of editor mode to be clickable by the mouse -LillyDragon
 
 # Accuracy Issues
 
