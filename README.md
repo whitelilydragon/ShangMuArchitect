@@ -33,7 +33,7 @@ When reporting suggestions for the game, or feature wishlists, tag them as "Feat
 
 ## Accepted suggestions are detailed here
 
-- Undo/Redo buttons on the editor HUD -LillyDrago
+- Undo/Redo buttons on the editor HUD -LillyDragon
 - Ability to rotate tiles in 90° increments -Deckard and Treya
 - A loop logic controller for wall-running, as well as running on the ground -frogmoss10
 - Make the dpad on the controller snap to editor options to the right -El_Nacho
