@@ -46,6 +46,7 @@ When reporting suggestions for the game, or feature wishlists, tag them as "Feat
 - Mass delete tiles via a selection rectangle, much like how tiling tiles works -Deckard
 - Pushable puzzle blocks -LillyDragon
 - Reimplement all items as their own independent objects, to de-convolute the engine's interactions with items, and greater simplify the collision system -LillyDragon
+- Make hangbars easier to attach to -NBlast
 
 # Accuracy Issues
 
