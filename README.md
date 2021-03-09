@@ -52,7 +52,9 @@ When reporting suggestions for the game, or feature wishlists, tag them as "Feat
 
 Collision issues and physics bugs are more than valid for bug reports, but reports about accuracy related to character movement or behavior are no longer accepted. (For instance, if the animation speeds of Lilac's attacks are off by 5%, or if there is a two pixel difference in her uppercut's jump height.) Any reports of this variety will be labeled as #Won't Fix and closed.
 
-The accuracy tag for this issue tracker was used exclusively for the last stretch of 1.0's development. For as much as accuracy was attempted for this project, I am one person and do not have the luxury of time to get *everything* right, nor was it the goal. (Many things were rebalanced intentionally within the context of the project.) Perfectionism is little different from poison to a multimedia project like this; it genuinely takes away so much precious time that could have been used to create more content.
+The accuracy tag for this issue tracker was used exclusively for the last stretch of 1.0's development. For as much as accuracy was attempted for this project, I am one person and do not have the luxury of time to get *everything* right, nor was it the goal. (Many things were rebalanced intentionally within the context of the project.)
+
+Perfectionism is little different from poison to a multimedia project like this; it genuinely takes away so much precious time that could have been used to create more content.
 
 Freedom Planet is a very complex game to rebuild from the ground up without reverse-engineering or decompiling. I had to work backwards for four years to get this project where it is today, and that time invested still would not have meant as much if not for all of the help and insight from others I had along the way.
 
