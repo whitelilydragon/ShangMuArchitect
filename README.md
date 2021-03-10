@@ -4,10 +4,44 @@ Issue tracker and suggestions page for the Freedom Planet fan game, Shang Mu Arc
 
 Click here to jump to the issues page: https://github.com/whitelilydragon/ShangMuArchitect/issues
 
+# Frequently Asked Questions
+
+### Where is the source code?
+
+For many reasons, some of which are of an obvious legal nature, the source can't be made public, I'm sorry. I am an open-source advocate myself, and largely use open-source software for much of my creative work, but this project in particular must remain closed source. GitHub is simply a convenient archive for uploaded builds and issue tracking. Once this fan game's goals have been achieved, I will archive this "repo" and keep the game itself mirrored elsewhere in its final state.
+
+Some future projects of mine, however, will likely be open-sourced! Please look forward to that.
+
+### Can I report issues related to the fan game's accuracy to Freedom Planet?
+
+Please refer to this section of the readme:
+
+https://github.com/whitelilydragon/ShangMuArchitect#accuracy-issues
+
+### Why can't I tag my bug reports?
+
+For some reason, only contributors on a GitHub page can label posts, so don't worry about which bug classes your reports fit into! I or another contributor can label them appropriately for you. Just give us the details of the report, and we'll determine its severity/priority!
+
+### Can I make a suggestion for the game?
+
+Yes, you can! Simply make an open issue about your suggestion, and then, the developer will determine whether or not they will work on it for future updates of the game. If they accept it, the post will be tagged "Feature Suggestion", then the ticket is closed as the suggestion is added to this list:
+
+https://github.com/whitelilydragon/ShangMuArchitect#accepted-suggestions-are-detailed-here
+
+Please check this to avoid duplicate requests, and perhaps feel validated in that you weren't the first to ask for certain features! The latter may likely mean that the suggested feature is already being worked on!
+
+### Windows tells me that the "page" is unavailable, or "Your IT Administrator has limited access to some areas of this app", and refuses the launch the fan game
+
+This has been known by our community to trigger because of anti-virus apps, like AVG. You can create an exception for the game's directory from within your anti-virus's control panel, which will allow the fan game to run without these messages appearing.
+
+### Windows Smartscreen prevents me from running the game
+
+Click "more" on the prompt, then "run anyway" should appear. This has thus far only happened with installer packages for the game, not portable builds.
+
 **Bug Classes**
 ---------------
 
-When reporting bugs, please refer to this bugs classification list when tagging your reports:
+Contributors! When reporting bugs, please refer to this bugs classification list when tagging your reports:
 ```
 Class A)
   Game crashes
@@ -61,13 +95,3 @@ Freedom Planet is a very complex game to rebuild from the ground up without reve
 It takes a lot more time to rebuild someone else's game from scratch than to prototype your own game. At some point, I had to stop poking at Freedom Planet with Freedom Trainer, of which I invested 200+ hours doing on Steam for the sake of Shang Mu Architect. Practicality has to come before slavish chasings for accuracy, unfortunately, for as much as I cared about it myself.
 
 For these reasons, I am more concerned about critical collision issues, GUI issues, crashes, and the creation of more content for the game.
-
-# Frequently Asked Questions
-
-### Windows tells me that the "page" is unavailable, or "Your IT Administrator has limited access to some areas of this app", and refuses the launch the fan game
-
-This has been known by our community to trigger because of anti-virus apps, like AVG. You can create an exception for the game's directory from within your anti-virus's control panel, which will allow the fan game to run without these messages appearing.
-
-### Windows Smartscreen prevents me from running the game
-
-Click "more" on the prompt, then "run anyway" should appear. This has thus far only happened with installer packages for the game, not portable builds.
