@@ -4,6 +4,8 @@ Issue tracker and suggestions page for the Freedom Planet fan game, Shang Mu Arc
 
 Click here to jump to the issues page: https://github.com/whitelilydragon/ShangMuArchitect/issues
 
+We also have a separate updater project created by Leo! It can be found here: https://github.com/Leo40Git/SMALauncher
+
 # Frequently Asked Questions
 
 ### Where is the source code?
