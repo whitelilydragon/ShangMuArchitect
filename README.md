@@ -40,6 +40,10 @@ This has been known by our community to trigger because of anti-virus apps, like
 
 Click "more" on the prompt, then "run anyway" should appear. This has thus far only happened with installer packages for the game, not portable builds.
 
+### The game is taking a while to launch when I click on it?
+
+This is a known bug with Game Maker Studio 1.4's runner for Game Maker games. Some audio devices or audio setups can cause a delay in games booting up in a more timely manner than 3 to 5 seconds; there is nothing I can do about this on my end, I apologize. On PCs with fewer connected audio devices, (and no hybrid audio systems, such as Intel/RealTek active simultaneously) the game should still load near-instantly, at least.
+
 **Bug Classes**
 ---------------
 
@@ -76,19 +80,4 @@ When reporting suggestions for the game, or feature wishlists, tag them as "Feat
 - Make the d-pad snap the cursor to the editor's sidebar -Nacho
 - Difficulty tags in stage descriptions -benjistring
 - Allow players to stick shields/item inside grass tiles, so that Milla can dig them up later -benjistring
-- Allow all menu elements outside of editor mode to be clickable by the mouse -LillyDragon
 - Mass delete tiles via a selection rectangle, much like how tiling tiles works -Deckard
-
-# Accuracy Issues
-
-Collision issues and physics bugs are more than valid for bug reports, but reports about accuracy related to character movement or behavior are no longer accepted. (For instance, if the animation speeds of Lilac's attacks are off by 5%, or if there is a two pixel difference in her uppercut's jump height.) Any reports of this variety will be labeled as #Won't Fix and closed.
-
-The accuracy tag for this issue tracker was used exclusively for the last stretch of 1.0's development. For as much as accuracy was attempted for this project, I am one person and do not have the luxury of time to get *everything* right, nor was it the goal. (Many things were rebalanced intentionally within the context of the project.)
-
-Perfectionism is little different from poison to a multimedia project like this; it genuinely takes away so much precious time that could have been used to create more content.
-
-Freedom Planet is a very complex game to rebuild from the ground up without reverse-engineering or decompiling. I had to work backwards for four years to get this project where it is today, and that time invested still would not have meant as much if not for all of the help and insight from others I had along the way.
-
-It takes a lot more time to rebuild someone else's game from scratch than to prototype your own game. At some point, I had to stop poking at Freedom Planet with Freedom Trainer, of which I invested 200+ hours doing on Steam for the sake of Shang Mu Architect. Practicality has to come before slavish chasings for accuracy, unfortunately, for as much as I cared about it myself.
-
-For these reasons, I am more concerned about critical collision issues, GUI issues, crashes, and the creation of more content for the game.
