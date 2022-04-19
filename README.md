@@ -10,15 +10,13 @@ We also have a separate updater project created by Leo! It can be found here: ht
 
 ### Where is the source code?
 
-For many reasons, some of which are of an obvious legal nature, the source can't be made public, I'm sorry. I am an open-source advocate myself, and largely use open-source software for much of my creative work, but this project in particular must remain closed source. GitHub is simply a convenient archive for uploaded builds and issue tracking. Once this fan game's goals have been achieved, I will archive this "repo" and keep the game itself mirrored elsewhere in its final state.
+For many reasons, some of which are of an obvious legal nature, the source can't be made public, I'm sorry. I am an open-source advocate myself, and largely use open-source software for much of my creative work, but this project in particular must remain closed source. GitHub is simply a convenient archive for uploaded builds and issue tracking.
 
 Some future projects of mine, however, will likely be open-sourced! Please look forward to that.
 
 ### Can I report issues related to the fan game's accuracy to Freedom Planet?
 
-Please refer to this section of the readme:
-
-https://github.com/whitelilydragon/ShangMuArchitect#accuracy-issues
+We are no longer accepting accuracy-related reports, especially now that Shang Mu Architect has diverged so much from its source as to be an outright fan-made midquel.
 
 ### Why can't I tag my bug reports?
 
