@@ -77,4 +77,3 @@ When reporting suggestions for the game, or feature wishlists, tag them as "Feat
 - Make the d-pad snap the cursor to the editor's sidebar -Nacho
 - Difficulty tags in stage descriptions -benjistring
 - Allow players to stick shields/item inside grass tiles, so that Milla can dig them up later -benjistring
-- Mass delete tiles via a selection rectangle, much like how tiling tiles works -Deckard
