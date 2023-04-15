@@ -16,7 +16,7 @@ Some future projects of mine, however, will likely be open-sourced! Please look 
 
 ### Can I report issues related to the fan game's accuracy to Freedom Planet?
 
-We are no longer accepting accuracy-related reports, especially now that Shang Mu Architect has diverged so much from its source as to be an outright fan-made midquel.
+We are no longer accepting accuracy-related reports, especially now that Shang Mu Architect is a mix of Freedom Planet 1 and 2's gameplay, with some of its own intentional (and unintentional) improvements to FP's gameplay (Such as making FP1 speedrun tech easier to execute)
 
 ### Why can't I tag my bug reports?
 
@@ -24,7 +24,7 @@ For some reason, only contributors on a GitHub page can label posts, so don't wo
 
 ### Can I make a suggestion for the game?
 
-Yes, you can! Simply make an open issue about your suggestion, and then, the developer will determine whether or not they will work on it for future updates of the game. If they accept it, the post will be tagged "Feature Suggestion", then the ticket is closed as the suggestion is added to this list:
+Yes, you can! Simply make an open issue about your suggestion, and then, I will determine whether or not I might work on it for future updates of the game. If I accept it, the post will be tagged "Feature Suggestion", then the ticket is closed as the suggestion is added to this list:
 
 https://github.com/whitelilydragon/ShangMuArchitect#accepted-suggestions-are-detailed-here
 
@@ -67,12 +67,12 @@ Class D)
 
 # Community Suggestions
 
-When reporting suggestions for the game, or feature wishlists, tag them as "Feature Suggestion". If the developers consider the suggestion as part of the game's future updates, they will be copied here, and the opened ticket will be tagged as "Closed", to improve the visibility of critical bugs being reported on the issues page.
+When reporting suggestions for the game, or feature wishlists, tag them as "Feature Suggestion". If I consider the suggestion as part of the game's future updates, they will be copied here, and the opened ticket will be tagged as "Closed", to improve the visibility of critical bugs being reported on the issues page.
 
 ## Accepted suggestions are detailed here
 
 - Undo/Redo buttons on the editor HUD -LillyDragon
-- Ability to rotate tiles in 90° increments -Deckard and Treya
+- Ability to rotate tiles in 90° increments -Deckard and Treylina
 - Allow Lilac's uppercut to work on walls and ceilings in the way that it does in Freedom Planet 2 -Deckard
 - Make the d-pad snap the cursor to the editor's sidebar -Nacho
 - Difficulty tags in stage descriptions -benjistring
