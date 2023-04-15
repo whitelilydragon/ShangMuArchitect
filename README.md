@@ -36,7 +36,7 @@ This has been known by our community to trigger because of anti-virus apps, like
 
 ### Windows Smartscreen prevents me from running the game
 
-Click "more" on the prompt, then "run anyway" should appear. This has thus far only happened with installer packages for the game, not portable builds.
+Click "more" on the prompt, then "run anyway" should appear. This has thus far only happened with installer packages for the game.
 
 ### The game is taking a while to launch when I click on it?
 
