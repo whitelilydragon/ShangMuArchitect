@@ -9,6 +9,7 @@ last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/
 update_version_current="1171"
 update_version_previous="1169"
 update_description="-Balance improvements for bosses#-Bugfixes for Spade#-New tiles and nodes!"
+update_exe_name = "Shang_Mu_Architect_1-1-9-3.exe"
 [rolling_branch]
 curr_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.6.8/Shang_Mu_Architect_1-1-6-8.zip"
 last_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.6.7/Shang_Mu_Architect_1-1-6-7.zip"
@@ -16,3 +17,4 @@ last_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.6.7/S
 update_version_current="1168"
 update_version_previous="1167"
 update_description="More improvements and content updates leading up to the SAGE build!"
+update_exe_name = "Shang_Mu_Architect_1-1-9-3.exe"
