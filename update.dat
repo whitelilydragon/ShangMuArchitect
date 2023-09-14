@@ -1,4 +1,3 @@
-## Latest and Previous (Stable Builds)
 [update_file]
 hardlink = "https://github.com/whitelilydragon/ShangMuArchitect/blob/master/update.dat"
 [stable_branch]
@@ -6,16 +5,13 @@ curr_md5="b70a0c55c387a63ff5b34f49f2d81f42"
 last_md5="8b31d587fdc0d6ffb2f3549ff7a8e664"
 curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.7.1/Shang_Mu_Architect_1-1-7-1.zip"
 last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.6.9/Shang_Mu_Architect_1-1-6-9.zip"
-## Update Descriptions
 [stable_description]
 update_version_current="1171"
 update_version_previous="1169"
 update_description="Balance improvements for bosses#Bugfixes for Spade#New tiles and nodes!"
-## Latest and Previous (Rolling Builds)
 [rolling_branch]
 curr_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.6.8/Shang_Mu_Architect_1-1-6-8.zip"
 last_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.6.7/Shang_Mu_Architect_1-1-6-7.zip"
-## Update Descriptions
 [rolling_description]
 update_version_current="1168"
 update_version_previous="1167"
