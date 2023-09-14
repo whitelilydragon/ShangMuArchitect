@@ -8,7 +8,7 @@ last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/
 [stable_description]
 update_version_current="1171"
 update_version_previous="1169"
-update_description="Balance improvements for bosses#Bugfixes for Spade#New tiles and nodes!"
+update_description="-Balance improvements for bosses#-Bugfixes for Spade#-New tiles and nodes!"
 [rolling_branch]
 curr_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.6.8/Shang_Mu_Architect_1-1-6-8.zip"
 last_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.6.7/Shang_Mu_Architect_1-1-6-7.zip"
