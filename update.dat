@@ -1,6 +1,6 @@
 ## Latest and Previous (Stable Builds)
 [update_file]
-hardlink = "https://github.com/whitelilydragon/ShangMuArchitect/raw/master/update.dat"
+hardlink = "https://github.com/whitelilydragon/ShangMuArchitect/blob/master/update.dat"
 [stable_branch]
 curr_md5="b70a0c55c387a63ff5b34f49f2d81f42"
 last_md5="8b31d587fdc0d6ffb2f3549ff7a8e664"
