@@ -1,15 +1,15 @@
 [update_file]
 hardlink = "https://github.com/whitelilydragon/ShangMuArchitect/blob/master/update.dat"
 [stable_branch]
-curr_md5="b70a0c55c387a63ff5b34f49f2d81f42"
-last_md5="8b31d587fdc0d6ffb2f3549ff7a8e664"
-curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.7.1/Shang_Mu_Architect_1-1-7-1.zip"
-last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.6.9/Shang_Mu_Architect_1-1-6-9.zip"
+curr_md5="11a30264a4a64f0b3c1837d0bb41ae56"
+last_md5="b70a0c55c387a63ff5b34f49f2d81f42"
+curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.7.2/Shang_Mu_Architect_1-1-7-2.zip"
+last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.7.1/Shang_Mu_Architect_1-1-7-1.zip"
 [stable_description]
-update_version_current="1171"
-update_version_previous="1169"
+update_version_current="1172"
+update_version_previous="1171"
 game_mbs = "127MB"
-update_description="-Balance improvements for bosses#-Bugfixes for Spade#-New tiles and nodes!"
+update_description="-Items menu reorganized#-More bugfixes for Spade#-Cutscene text sounds adjusted#-Many bug fixes and adjustments!"
 update_exe_name = "Shang_Mu_Architect_1-1-9-3.exe"
 [rolling_branch]
 curr_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.6.8/Shang_Mu_Architect_1-1-6-8.zip"
