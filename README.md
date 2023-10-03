@@ -1,10 +1,17 @@
-# Shang Mu Architect Issue Tracker
+# Freedom Planet: Shang Mu Architect
 
-Issue tracker and suggestions page for the Freedom Planet fan game, Shang Mu Architect
+Release downloads, issue tracker, and suggestions page for the Freedom Planet fan game, Shang Mu Architect
 
-Click here to jump to the issues page: https://github.com/whitelilydragon/ShangMuArchitect/issues
+### Issues Page
+https://github.com/whitelilydragon/ShangMuArchitect/issues
 
-We also have a separate updater project created by Leo! It can be found here: https://github.com/Leo40Git/SMALauncher
+### Stable Release Downloads
+https://github.com/whitelilydragon/ShangMuArchitect/releases
+### Latest Launcher Download
+https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.0.0.2/SMALauncher.-.1002.zip
+
+### Alternate Python Launcher (By Leo40Git)
+https://github.com/Leo40Git/SMALauncher
 
 # Frequently Asked Questions
 
@@ -12,7 +19,7 @@ We also have a separate updater project created by Leo! It can be found here: ht
 
 For many reasons, some of which are of an obvious legal nature, the source can't be made public, I'm sorry. I am an open-source advocate myself, and largely use open-source software for much of my creative work, but this project in particular must remain closed source. GitHub is simply a convenient archive for uploaded builds and issue tracking.
 
-Some future projects of mine, however, will likely be open-sourced! Please look forward to that.
+Some supporting features for the game are open-source, however! The SMA Launcher's source code is packaged with every new build in the releases page, and I would like to make more components of the game open-ended with time!
 
 ### Can I report issues related to the fan game's accuracy to Freedom Planet?
 
