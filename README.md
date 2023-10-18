@@ -8,7 +8,7 @@ https://github.com/whitelilydragon/ShangMuArchitect/issues
 ### Stable Release Downloads
 https://github.com/whitelilydragon/ShangMuArchitect/releases
 ### Latest Launcher Download
-https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.0.0.2/SMALauncher.-.1002.zip
+https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.0.0.3/SMALauncher.-.1003.zip
 
 ### Alternate Python Launcher (By Leo40Git)
 https://github.com/Leo40Git/SMALauncher
