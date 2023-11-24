@@ -9,7 +9,7 @@ last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/
 update_version_current="1180"
 update_version_previous="1172"
 game_mbs = "129MB"
-update_description="-A host of major changes for the editor!#More new gimmicks!#More new tiles for Taishan Mountain's tile set!#Many bugfixes and adjustments!"
+update_description="-A host of major changes for the editor!#-More new gimmicks!#-More new tiles for Taishan Mountain's tile set!#-Many bugfixes and adjustments!"
 update_exe_name = "Shang_Mu_Architect_1-1-9-3.exe"
 [rolling_branch]
 curr_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.7.9/Shang_Mu_Architect_1-1-7-9.zip"
