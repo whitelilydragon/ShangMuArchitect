@@ -3,13 +3,13 @@ hardlink = "https://github.com/whitelilydragon/ShangMuArchitect/blob/master/upda
 [stable_branch]
 curr_md5="11a30264a4a64f0b3c1837d0bb41ae56"
 last_md5="b70a0c55c387a63ff5b34f49f2d81f42"
-curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.8.0/Shang_Mu_Architect_1-1-8-0.zip"
-last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.7.2/Shang_Mu_Architect_1-1-7-2.zip"
+curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.8.2/Shang_Mu_Architect_1-1-8-2.zip"
+last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.8.0/Shang_Mu_Architect_1-1-8-0.zip"
 [stable_description]
-update_version_current="1180"
-update_version_previous="1172"
+update_version_current="1182"
+update_version_previous="1180"
 game_mbs = "129MB"
-update_description="-A host of major changes for the editor!#-More new gimmicks!#-More new tiles for Taishan Mountain's tile set!#-Many bugfixes and adjustments!"
+update_description="-A complete makeover for the stage editor with even more tools than before!#-Sprindog is here!#-A lot of new bugfixes and improvements for the editor!"
 update_exe_name = "Shang_Mu_Architect_1-1-9-3.exe"
 [rolling_branch]
 curr_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.8.1/Shang_Mu_Architect_1-1-8-1.zip"
