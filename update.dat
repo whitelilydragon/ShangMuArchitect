@@ -3,13 +3,13 @@ hardlink = "https://github.com/whitelilydragon/ShangMuArchitect/blob/master/upda
 [stable_branch]
 curr_md5="11a30264a4a64f0b3c1837d0bb41ae56"
 last_md5="b70a0c55c387a63ff5b34f49f2d81f42"
-curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.8.2/Shang_Mu_Architect_1-1-8-2.zip"
-last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.8.0/Shang_Mu_Architect_1-1-8-0.zip"
+curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.9.7/Shang_Mu_Architect_1-1-9-7.zip"
+last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.1.8.2/Shang_Mu_Architect_1-1-8-2.zip"
 [stable_description]
-update_version_current="1182"
-update_version_previous="1180"
+update_version_current="1197"
+update_version_previous="1182"
 game_mbs = "129MB"
-update_description="-A complete makeover for the stage editor with even more tools than before!#-Sprindog is here!#-A lot of new bugfixes and improvements for the editor!"
+update_description="-A new boss is available to play with, called the Stone Guardian!#-Countless bugfixes and adjustments for the editor#-Brazillian Portuguese and Polish are now available as language options!"
 update_exe_name = "Shang_Mu_Architect_1-1-9-3.exe"
 [rolling_branch]
 curr_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.1.9.6/Shang_Mu_Architect_1-1-9-6.zip"
