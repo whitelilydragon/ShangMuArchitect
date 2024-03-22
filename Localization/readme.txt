@@ -19,5 +19,5 @@ A: Yes, you can! If you are more-than-familiar with GitHub's workflow, as well a
 
 Q: I am new to using GitHub, where can I ask questions if I am stuck?
 A: GitHub does not hae a Direct Message feature (anymore), our SMA Discord server is available for this purpose, where we all collaborate on the game together. If neither Twitter DMs or Discord is appealing, you may contact me via email!
-Email Address: velacosmos@proton.me
+Email Address: velacosmos @ proton.me
 SMA Discord: https://discord.gg/Z855AHw
