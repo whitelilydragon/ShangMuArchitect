@@ -343,8 +343,8 @@ lang_gui[2,108] = "Platformy"
 lang_gui[2,109] = "Kolejna Mapa"
 lang_gui[2,110] = "Poprz. Mapa"
 lang_gui[2,111] = "Usuń Zaznaczone"
-lang_gui[2,112] = "Delete Tiles on Layer "
-lang_gui[2,113] = "Delete Objects"
+lang_gui[2,112] = "Usuń Płytki z Wartstwy "
+lang_gui[2,113] = "Usuń Obiekty"
 
 //Spanish
 lang_gui[3,0]  = "Menú"

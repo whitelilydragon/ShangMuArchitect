@@ -206,7 +206,7 @@ lang_gui[2,52] = "Sensytywność"
 lang_gui[2,53] = "Latwy"
 lang_gui[2,54] = "Normalny"
 lang_gui[2,55] = "Trudny"
-lang_gui[2,56] = "Koszmar"
+lang_gui[2,56] = "Koszmarny"
 lang_gui[2,57] = "Szalony"
 //Saving Prompts
 lang_gui[2,58] = "Zapisywanie     .     .     ."

@@ -24,9 +24,9 @@ lang_gui[2,1] = "Wróć"
 lang_gui[2,2] = "tylko"
 lang_gui[2,3] = "Motocykl"
 lang_gui[2,4] = "Przytrzymaj aby Zmienić Postać!"
-lang_gui[2,5] = "Zniszcz     cele!"
-lang_gui[2,6] = "Dotrzyj     do     celu"
-lang_gui[2,7] = "Pokonaj     bossa"
+lang_gui[2,5] = "Zniszcz     Cele!"
+lang_gui[2,6] = "Dotrzyj     do     Celu"
+lang_gui[2,7] = "Pokonaj     Bossa"
 
 //Spanish
 lang_gui[3,0] = "Comenznar"
