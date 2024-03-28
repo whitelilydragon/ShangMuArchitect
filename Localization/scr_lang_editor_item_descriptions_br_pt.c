@@ -733,3 +733,7 @@ lang_gui_name[lang_num,349] = "One-Way Pusher - Left"
 lang_gui_desc[lang_num,349] = lang_gui_desc[lang_num,347]
 lang_gui_name[lang_num,350] = "One-Way Pusher - Right"
 lang_gui_desc[lang_num,350] = lang_gui_desc[lang_num,347]
+lang_gui_name[lang_num,351] = "Stinger Nest"
+lang_gui_desc[lang_num,351] = "A stinger nest that spawns several stingers at a time!"
+lang_gui_name[lang_num,352] = "Wasp Nest"
+lang_gui_desc[lang_num,352] = "A wasp nest that spawns three wasps at a time!"
