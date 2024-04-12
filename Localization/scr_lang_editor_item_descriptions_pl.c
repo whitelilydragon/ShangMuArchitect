@@ -718,4 +718,4 @@ lang_gui_desc[lang_num,351] = "Gniazdo z którego może wylecieć kilka Stinger�
 lang_gui_name[lang_num,352] = "Gniazdo Waspów"
 lang_gui_desc[lang_num,352] = "Gniazdo z którego może wylecieć do trzech os naraz!"
 lang_gui_name[lang_num,353] = "Mirdin"
-lang_gui_desc[lang_num,353] = "Mirdin is a cheerful traveling entertainer; an acrobat by trade, a jester by passion. She serves the three kingdoms' whims and fancies with a cheeky smile. Are you not entertained?"
+lang_gui_desc[lang_num,353] = "Mirdin jest podróżującą błazenką z pasją dla akrobacji. W swoich podróżach sprawia radość i ubaw mieszkańcom trzech królestw, zawsze niosąc jej charakterystyczny uśmiech."
