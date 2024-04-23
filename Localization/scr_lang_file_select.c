@@ -24,7 +24,7 @@ lang_gui[2,5] = "Wróć"
 lang_gui[2,6] = "Usuń"
 //Spanish
 lang_gui[3,0] = "Seleccionar Archivo"
-lang_gui[3,1] = "Delete this file?"
+lang_gui[3,1] = "Borrar Este Archivo?"
 lang_gui[3,2] = ""
 lang_gui[3,3] = "Confirmar"
 lang_gui[3,4] = "Cancelar"
