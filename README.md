@@ -1,6 +1,6 @@
 # Freedom Planet: Shang Mu Architect
 
-Release downloads, issue tracker, and suggestions page for the Freedom Planet fan game, Shang Mu Architect
+Release downloads, issue tracker, translation project, and suggestions page for the Freedom Planet fan game, Shang Mu Architect
 
 ### Issues Page
 https://github.com/whitelilydragon/ShangMuArchitect/issues
