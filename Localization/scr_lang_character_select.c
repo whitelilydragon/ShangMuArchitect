@@ -24,7 +24,7 @@ lang_gui[2,5] = "Wróć"
 lang_gui[2,6] = "Paleta"
 //Spanish
 lang_gui[3,0] = "Seleccionar Personaje"
-lang_gui[3,1] = "Escenario Tutorial"
+lang_gui[3,1] = "Nivel Tutorial"
 lang_gui[3,2] = "Disfraces"
 lang_gui[3,3] = "Confirmar"
 lang_gui[3,4] = "Cancelar"
