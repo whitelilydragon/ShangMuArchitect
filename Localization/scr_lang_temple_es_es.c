@@ -100,7 +100,7 @@ o.display_description_item[o.display_page_four,19] = "Unknown Tile 7"
 
 //Tile Descriptions (Page 5)
 o.display_description_item[o.display_page_five,0] = "Ambiente - Puente 1"
-o.display_description_item[o.display_page_five,1] = "Ambiente - Columnan"
+o.display_description_item[o.display_page_five,1] = "Ambiente - Columna"
 o.display_description_item[o.display_page_five,2] = "Ambiente - Arbol 1"
 o.display_description_item[o.display_page_five,3] = "Ambiente - Rejilla"
 o.display_description_item[o.display_page_five,4] = "Ambiente - Fondo"
