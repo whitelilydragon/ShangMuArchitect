@@ -237,8 +237,8 @@ lang_gui[3,14] = "Idioma"
 lang_gui[3,15] = "Configuraciones     de     Jugabilidad.   .   ."
 lang_gui[3,16] = "OK"
 //On/Off
-lang_gui[3,17] = "Apagado"
-lang_gui[3,18] = "Sobre"
+lang_gui[3,17] = "Desactivar"
+lang_gui[3,18] = "Activar"
 //Control Settings
 lang_gui[3,19] = "(ESC - Reiniciar al defecto)"
 lang_gui[3,20] = "Arriba"
@@ -255,7 +255,7 @@ lang_gui[3,30] = "ESPECIAL"
 lang_gui[3,31] = "CAMBIAR"
 lang_gui[3,32] = "COMENZAR"
 lang_gui[3,33] = "(ESC - Reiniciar al defecto)"
-lang_gui[3,34] = "(Press/Scroll Up or Down)"
+lang_gui[3,34] = "(Pulsa/Arrastra Arriba o Abajo)"
 //Editor Control Settings
 lang_gui[3,35] = "COLOCAR"
 lang_gui[3,36] = "COPIAR"
@@ -280,15 +280,15 @@ lang_gui[3,53] = "Fácil"
 lang_gui[3,54] = "Normal"
 lang_gui[3,55] = "Difícil"
 lang_gui[3,56] = "Severo"
-lang_gui[3,57] = "Chiflado"
+lang_gui[3,57] = "Insanidad"
 //Saving Prompts
-lang_gui[3,58] = "Ahorro     .     .     ."
-lang_gui[3,59] = "Saving     Defaults     .     .     ."
+lang_gui[3,58] = "Guardando     .     .     ."
+lang_gui[3,59] = "Guardando     Defecto     .     .     ."
 //Language
 lang_gui[3,60] = "Idioma: Español"
 lang_gui[3,61] = "Tipo"
 //Freeze Frames
-lang_gui[3,62] = "Freeze     Frames"
+lang_gui[3,62] = "Frames     de     Impacto"
 
 //German
 lang_gui[4,0] = "Play"
