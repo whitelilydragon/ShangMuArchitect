@@ -734,4 +734,4 @@ lang_gui_desc[lang_num,359] = "Kopalniany wagonik pełen klejnotów! Możesz go 
 lang_gui_name[lang_num,360] = "Zniszczalne Kolce"
 lang_gui_desc[lang_num,360] = "Kolce które można zniszczyć atakiem!"
 lang_gui_name[lang_num,361] = "Millie"
-lang_gui_desc[lang_num,361] = "An archeologist by trade, an adventurer in spirit. Millie is a busy wolf in search of water dragon relics on behalf of the Shang Tu Museum. Whle her demeanor is seen as soft and reluctant, she keeps a strong heart on her travels."
+lang_gui_desc[lang_num,361] = "Z zawodu archeolog, z ducha poszukiwaczka przygód. Millie jest zapracowaną wilczycą poszukującą reliktów wodnych smoków dla Muzeum Shang Tu. Typowo cicha i ostrożna, posiada silną charyzmę w sytuacjach kiedy jest ona potrzebna."
