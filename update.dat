@@ -3,13 +3,13 @@ hardlink = "https://github.com/whitelilydragon/ShangMuArchitect/blob/master/upda
 [stable_branch]
 curr_md5="11a30264a4a64f0b3c1837d0bb41ae56"
 last_md5="b70a0c55c387a63ff5b34f49f2d81f42"
-curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.2.0.8/Shang_Mu_Architect_1-2-0-8.zip"
-last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.2.0.7/Shang_Mu_Architect_1-2-0-7.zip"
+curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.2.1.0/Shang_Mu_Architect_1-2-1-0.zip"
+last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.2.0.8/Shang_Mu_Architect_1-2-0-8.zip"
 [stable_description]
-update_version_current="1208"
-update_version_previous="1207"
+update_version_current="1210"
+update_version_previous="1208"
 game_mbs = "129MB"
-update_description="-More bugfixes, refinements for Taishan Peaks, and balance changes + a new move for the Guardian boss fight!"
+update_description="-2 new story mode cutscenes!#Lagoon Hub is now available!#More bugfixes, refinements for Taishan Peaks!"
 update_exe_name = "Shang_Mu_Architect_1-1-9-3.exe"
 [rolling_branch]
 curr_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.2.0.4/Shang_Mu_Architect_1-2-0-4.zip"
