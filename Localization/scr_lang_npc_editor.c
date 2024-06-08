@@ -20,11 +20,11 @@ lang_gui[2,3] = "Emocja - "
 lang_gui[2,4] = "Biegnący NPC"
 
 //Spanish
-lang_gui[3,0] = "Facing Right"
-lang_gui[3,1] = "Facing Left"
-lang_gui[3,2] = "Following"
-lang_gui[3,3] = "Emote - "
-lang_gui[3,4] = "Running NPC"
+lang_gui[3,0] = "Mirando a la Derecha"
+lang_gui[3,1] = "Mirando a la Izquierda"
+lang_gui[3,2] = "Siguiendo"
+lang_gui[3,3] = "Emoción - "
+lang_gui[3,4] = "NPC Corriendo"
 
 //German
 lang_gui[4,0] = "Facing Right"
