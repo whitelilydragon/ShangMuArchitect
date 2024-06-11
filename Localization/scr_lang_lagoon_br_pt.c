@@ -9,6 +9,7 @@ o.display_page_description[2] = "Rampas"
 o.display_page_description[3] = "Exterior"
 o.display_page_description[4] = "Decoração 1"
 o.display_page_description[5] = "Decoração 2"
+o.display_page_description[6] = "Extra 1"
 
 //Tile Descriptions (Page 1)
 o.display_description_item[o.display_page_one,0] = "Areia - Borda da Superfície Esquerdo"
