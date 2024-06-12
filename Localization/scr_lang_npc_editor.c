@@ -27,8 +27,8 @@ lang_gui[3,3] = "Emoción - "
 lang_gui[3,4] = "NPC Corriendo"
 
 //German
-lang_gui[4,0] = "Facing Right"
-lang_gui[4,1] = "Facing Left"
-lang_gui[4,2] = "Following"
+lang_gui[4,0] = "Rechts gerichtet "
+lang_gui[4,1] = "Links gerichtet"
+lang_gui[4,2] = "Folgen"
 lang_gui[4,3] = "Emote - "
-lang_gui[4,4] = "Running NPC"
+lang_gui[4,4] = "Rennender NPC"
