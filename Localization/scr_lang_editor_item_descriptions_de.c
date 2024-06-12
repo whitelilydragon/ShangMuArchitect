@@ -739,4 +739,4 @@ lang_gui_desc[lang_num,360] = "A spike hazard that can be destroyed by attacking
 lang_gui_name[lang_num,361] = "Millie"
 lang_gui_desc[lang_num,361] = "An archeologist by trade, an adventurer in spirit. Millie is a busy wolf in search of water dragon relics on behalf of the Shang Tu Museum. Whle her demeanor is seen as soft and reluctant, she keeps a strong heart on her travels."
 lang_gui_name[lang_num,362] = "Umbrella Stand"
-lang_gui_desc[lang_num,362] = ""
+lang_gui_desc[lang_num,362] = "An interactable umbrella that can be popped open by simply attacking it! The umbrella acts as a floating platform when unfurled; it can also appear to fly with propellers if it's not placed directly on the ground."
