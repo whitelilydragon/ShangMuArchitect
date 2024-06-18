@@ -120,6 +120,7 @@ lang_gui[0,117] = "Hard"
 lang_gui[0,118] = "Hardcore"
 lang_gui[0,119] = "Insanity"
 lang_gui[0,120] = "Difficulty"
+lang_gui[0,121] = "Jiang Cruise"
 
 //Portuguese
 lang_gui[1,0] = "Mais"
@@ -243,6 +244,7 @@ lang_gui[1,117] = "Difícil"
 lang_gui[1,118] = "Muito      Difícil"
 lang_gui[1,119] = "Insano"
 lang_gui[1,120] = "Dificuldade"
+lang_gui[1,121] = "Jiang Cruise"
 
 //Polish
 lang_gui[2,0]  = "Plik"
@@ -366,6 +368,7 @@ lang_gui[2,117] = "Trudny"
 lang_gui[2,118] = "Koszmarny"
 lang_gui[2,119] = "Szalony"
 lang_gui[2,120] = "Poziom Trudności"
+lang_gui[2,121] = "Jiang Cruise"
 
 //Spanish
 lang_gui[3,0]  = "Menú"
@@ -489,6 +492,7 @@ lang_gui[3,117] = "Difícil"
 lang_gui[3,118] = "Severo"
 lang_gui[3,119] = "Insanidad"
 lang_gui[3,120] = "Dificultad"
+lang_gui[3,121] = "Jiang Cruise"
 
 //German
 lang_gui[4,0]  = "Spiel"
@@ -612,3 +616,4 @@ lang_gui[4,117] = "Schwer"
 lang_gui[4,118] = "Hardcore"
 lang_gui[4,119] = "Wahnsinn"
 lang_gui[4,120] = "Schwierigkeit"
+lang_gui[4,121] = "Jiang Cruise"
