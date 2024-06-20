@@ -388,7 +388,7 @@ lang_gui_desc[lang_num,187] = "Sawy Marigold jest dyrektorką projektu ekspansji
 lang_gui_name[lang_num,188] = "Maria Notte"
 lang_gui_desc[lang_num,188] = "Światła! Kamera! Akcja! Maria Notte to repoterka dla stacji Three Kingdom News. Najnowsze wieści nigdy nie uciekną tej zaciętej nietoperzej reporterce! Z kim tym razem poprowadzi wywiad?"
 lang_gui_name[lang_num,189] = "Neera Li"
-lang_gui_desc[lang_num,189] = ""
+lang_gui_desc[lang_num,189] = "The most stalwart of Shang Tu's royal police force, Neera Li represents her kingdom with incredible strength. Loyal perhaps to a fault, and a penchant for anger, but always taking on crisis with fierce composure."
 //P10
 lang_gui_name[lang_num,190] = "Kwiat Energetycznych Klejnotów"
 lang_gui_desc[lang_num,190] = "Przy uderzeniu wypada z niego kilka energetycznych klejnotów! Kryształy te mogą podnieść pasek energii aż do 150% po zebraniu."
