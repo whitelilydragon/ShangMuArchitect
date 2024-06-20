@@ -388,7 +388,7 @@ lang_gui_desc[lang_num,187] = "Hola! Tu jefe está llamando! Conoce a Savvy Mari
 lang_gui_name[lang_num,188] = "Maria Notte"
 lang_gui_desc[lang_num,188] = "Luz! Camara! Es Maria Notte, reportando en vivo! Maria es la reportera de la Red de Noticias Tri-Kingdom. No hay primicia que se le escape a esta audaz chica murciélago! A quién entrevistará a continuación? Tú decides!"
 lang_gui_name[lang_num,189] = "Neera Li"
-lang_gui_desc[lang_num,189] = ""
+lang_gui_desc[lang_num,189] = "The most stalwart of Shang Tu's royal police force, Neera Li represents her kingdom with incredible strength. Loyal perhaps to a fault, and a penchant for anger, but always taking on crisis with fierce composure."
 //P10
 lang_gui_name[lang_num,190] = "Flor de Gemas de Impulso"
 lang_gui_desc[lang_num,190] = "Brota varias gemas doradas al recibir daño! Las gemas de impulso incrementan la barra de energía hasta el 150%!"
