@@ -389,7 +389,7 @@ lang_gui_desc[lang_num,187] = "Hey! Es ist Ihr Chef, der anruft! Treffen Sie Sav
 lang_gui_name[lang_num,188] = "Maria Notte"
 lang_gui_desc[lang_num,188] = "Licht! Kamera! Es ist Maria Notte, sie ist für den Fall zuständig! Maria ist Nachrichtenreporterin für das Tri-Kingdom News Network. Der neueste Knüller ist für diese kühne Fledermausdame nie außer Reichweite! Wen wird sie als nächstes interviewen?"
 lang_gui_name[lang_num,189] = "Neera Li"
-lang_gui_desc[lang_num,189] = ""
+lang_gui_desc[lang_num,189] = "The most stalwart of Shang Tu's royal police force, Neera Li represents her kingdom with incredible strength. Loyal perhaps to a fault, and a penchant for anger, but always taking on crisis with fierce composure."
 //P10
 lang_gui_name[lang_num,190] = "Boost Kristalledelsteinblume"
 lang_gui_desc[lang_num,190] = "Sprossen mit mehreren Goldedelsteinen, wenn sie angegriffen werden! Boost-Edelsteine ​​können die Ausdauerleiste um bis zu 150 % erhöhen."
