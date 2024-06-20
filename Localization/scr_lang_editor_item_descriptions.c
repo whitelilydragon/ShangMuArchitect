@@ -388,7 +388,7 @@ lang_gui_desc[lang_num,187] = "Hey! It's your boss calling! Meet Savvy Marigold,
 lang_gui_name[lang_num,188] = "Maria Notte"
 lang_gui_desc[lang_num,188] = "Lights! Camera! It's Maria Notte, on the case! Maria is a news reporter for the Tri-Kingdom News Network. The latest scoop is never out of reach for this bold lady bat! Who will she interview next? It's up to you!"
 lang_gui_name[lang_num,189] = "Neera Li"
-lang_gui_desc[lang_num,189] = ""
+lang_gui_desc[lang_num,189] = "The most stalwart of Shang Tu's royal police force, Neera Li represents her kingdom with incredible strength. Loyal perhaps to a fault, and a penchant for anger, but always taking on crisis with fierce composure."
 //P10
 lang_gui_name[lang_num,190] = "Boost Crystal Gem Flower"
 lang_gui_desc[lang_num,190] = "Sprouts with several gold gems when attacked! Boost gems can push the stamina bar up to 150%"
