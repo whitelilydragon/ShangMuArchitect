@@ -1,4 +1,4 @@
-//Language Array (Pause Menu); 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German
+//Language Array (Pause Menu); 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
 lang_gui[0,0] = "Character Select"
 lang_gui[0,1] = "Tutorial Stage"
 lang_gui[0,2] = "Costumes"
@@ -38,3 +38,12 @@ lang_gui[4,3] = "Bestät."
 lang_gui[4,4] = "Abbrechen"
 lang_gui[4,5] = "Zurück"
 lang_gui[4,6] = "Farben"
+
+//Russian
+lang_gui[5,0] = "Character Select"
+lang_gui[5,1] = "Tutorial Stage"
+lang_gui[5,2] = "Costumes"
+lang_gui[5,3] = "Confirm"
+lang_gui[5,4] = "Cancel"
+lang_gui[5,5] = "Return"
+lang_gui[5,6] = "Palettes"
