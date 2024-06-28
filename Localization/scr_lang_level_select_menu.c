@@ -1,4 +1,4 @@
-//Language Array (Pause Menu); 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German
+//Language Array (Pause Menu); 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
 lang_gui[0,0] = "Start"
 lang_gui[0,1] = "Return"
 lang_gui[0,2] = "only"
@@ -47,3 +47,13 @@ lang_gui[4,4] = "Halten zum Charakterwechsel"
 lang_gui[4,5] = "Triff     die     Ziele!"
 lang_gui[4,6] = "Erreiche     die     Ziele!"
 lang_gui[4,7] = "Besiege    den     Boss!"
+
+//Russian
+lang_gui[5,0] = "Start"
+lang_gui[5,1] = "Return"
+lang_gui[5,2] = "only"
+lang_gui[5,3] = "Carol's Bike"
+lang_gui[5,4] = "Hold To Change Character"
+lang_gui[5,5] = "Hit     The     Targets!"
+lang_gui[5,6] = "Reach     The     Target!"
+lang_gui[5,7] = "Defeat     The     Boss!"
