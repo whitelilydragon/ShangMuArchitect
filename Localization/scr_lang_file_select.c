@@ -1,4 +1,4 @@
-//Language Array (Pause Menu); 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German
+//Language Array (Pause Menu); 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
 lang_gui[0,0] = "File Select"
 lang_gui[0,1] = "Delete this file?"
 lang_gui[0,2] = ""
@@ -38,3 +38,11 @@ lang_gui[4,3] = "Bestä."
 lang_gui[4,4] = "Abbrechen"
 lang_gui[4,5] = "Zurück"
 lang_gui[4,6] = "Löschen"
+//Russian
+lang_gui[5,0] = "File Select"
+lang_gui[5,1] = "Delete this file?"
+lang_gui[5,2] = ""
+lang_gui[5,3] = "Confirm"
+lang_gui[5,4] = "Cancel"
+lang_gui[5,5] = "Return"
+lang_gui[5,6] = "Delete"
