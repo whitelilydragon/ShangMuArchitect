@@ -1,4 +1,4 @@
-//Language Array (Pause Menu); 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German
+//Language Array (Pause Menu); 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
 lang_gui[0,0] = "Stage Select"
 lang_gui[0,1] = "Tutorial Stage"
 lang_gui[0,2] = ""
@@ -48,3 +48,13 @@ lang_gui[4,5] = "Zurück"
 lang_gui[4,6] = "Start?"
 lang_gui[4,7] = "Ja"
 lang_gui[4,8] = "Nein"
+//Russian
+lang_gui[5,0] = "Stage Select"
+lang_gui[5,1] = "Tutorial Stage"
+lang_gui[5,2] = ""
+lang_gui[5,3] = "Confirm"
+lang_gui[5,4] = "Cancel"
+lang_gui[5,5] = "Return"
+lang_gui[5,6] = "Start?"
+lang_gui[5,7] = "Yes"
+lang_gui[5,8] = "No"
