@@ -1,4 +1,4 @@
-//Language Array (NPC Editor Menu); 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German
+//Language Array (NPC Editor Menu); 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
 lang_gui[0,0] = "Facing Right"
 lang_gui[0,1] = "Facing Left"
 lang_gui[0,2] = "Following"
@@ -32,3 +32,10 @@ lang_gui[4,1] = "Links gerichtet"
 lang_gui[4,2] = "Folgen"
 lang_gui[4,3] = "Emote - "
 lang_gui[4,4] = "Rennender NPC"
+
+//Russian
+lang_gui[5,0] = "Facing Right"
+lang_gui[5,1] = "Facing Left"
+lang_gui[5,2] = "Following"
+lang_gui[5,3] = "Emote - "
+lang_gui[5,4] = "Running NPC"
