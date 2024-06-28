@@ -13,6 +13,8 @@ switch(use_tileset_preview_set_increment)
                     scr_lang_temple_es_es();
                 if parent.user_language_mode = 4
                     scr_lang_temple_de_de();
+                if parent.user_language_mode = 5
+                    scr_lang_temple_ru_ru();
                 break;
             }
         case 1:
@@ -27,6 +29,8 @@ switch(use_tileset_preview_set_increment)
                     scr_lang_city_es_es();
                 if parent.user_language_mode = 4
                     scr_lang_city_de_de();
+                if parent.user_language_mode = 5
+                    scr_lang_city_ru_ru();
                 break;
             }
         case 2:
@@ -41,6 +45,8 @@ switch(use_tileset_preview_set_increment)
                     scr_lang_sewers_es_es();
                 if parent.user_language_mode = 4
                     scr_lang_sewers_de_de();
+                if parent.user_language_mode = 5
+                    scr_lang_sewers_ru_ru();
                 break;
             }
         case 3:
@@ -55,6 +61,8 @@ switch(use_tileset_preview_set_increment)
                     scr_lang_mountain_es_es();
                 if parent.user_language_mode = 4
                     scr_lang_mountain_de_de();
+                if parent.user_language_mode = 5
+                    scr_lang_mountain_ru_ru();
                 break;
             }
         case 4:
@@ -69,6 +77,8 @@ switch(use_tileset_preview_set_increment)
                     scr_lang_lagoon_es_es();
                 if parent.user_language_mode = 4
                     scr_lang_lagoon_de_de();
+                if parent.user_language_mode = 5
+                    scr_lang_lagoon_ru_ru();
                 break;
             }
         case 5:
@@ -83,6 +93,8 @@ switch(use_tileset_preview_set_increment)
                     scr_lang_platforms_es_es();
                 if parent.user_language_mode = 4
                     scr_lang_platforms_de_de();
+                if parent.user_language_mode = 5
+                    scr_lang_platforms_ru_ru();
                 break;
             }
     }
