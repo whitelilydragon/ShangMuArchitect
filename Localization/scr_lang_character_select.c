@@ -41,7 +41,7 @@ lang_gui[4,6] = "Farben"
 
 //Russian
 lang_gui[5,0] = "Выбор Персонажа"
-lang_gui[5,1] = "Туториал"
+lang_gui[5,1] = "Обучение"
 lang_gui[5,2] = "Костюмы"
 lang_gui[5,3] = "Подтвердить"
 lang_gui[5,4] = "Отмена"
