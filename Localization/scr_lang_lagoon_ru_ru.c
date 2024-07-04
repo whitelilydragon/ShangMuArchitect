@@ -10,6 +10,7 @@ o.display_page_description[3] = "Outdoors"
 o.display_page_description[4] = "Scenery 1"
 o.display_page_description[5] = "Scenery 2"
 o.display_page_description[6] = "Extra 1"
+o.display_page_description[7] = "Pier"
 
 //Tile Descriptions (Page 1)
 o.display_description_item[o.display_page_one,0] = "Sand - Surface Edge Left"
