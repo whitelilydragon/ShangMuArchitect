@@ -10,6 +10,7 @@ o.display_page_description[3] = "Zewnątrz"
 o.display_page_description[4] = "Sceneria 1"
 o.display_page_description[5] = "Sceneria 2"
 o.display_page_description[6] = "Extra 1"
+o.display_page_description[7] = "Pier"
 
 //Tile Descriptions (Page 1)
 o.display_description_item[o.display_page_one,0] = "Piasek - Lewa Krawędź"
