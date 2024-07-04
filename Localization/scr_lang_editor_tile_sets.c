@@ -97,4 +97,20 @@ switch(use_tileset_preview_set_increment)
                     scr_lang_platforms_ru_ru();
                 break;
             }
+        case 6:
+            {
+                //use_tileset_preview_set = ui_tileset_platform;
+                scr_set_mall_definition_table();
+                if parent.user_language_mode = 1
+                    scr_lang_mall_br_pt();
+                if parent.user_language_mode = 2
+                    scr_lang_mall_pl_pl();
+                if parent.user_language_mode = 3
+                    scr_lang_mall_es_es();
+                if parent.user_language_mode = 4
+                    scr_lang_mall_de_de();
+                if parent.user_language_mode = 5
+                    scr_lang_mall_ru_ru();
+                break;
+            }
     }
