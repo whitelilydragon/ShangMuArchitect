@@ -10,6 +10,7 @@ o.display_page_description[3] = "Exterior"
 o.display_page_description[4] = "Decoración 1"
 o.display_page_description[5] = "Decoración 2"
 o.display_page_description[6] = "Extra 1"
+o.display_page_description[7] = "Pier"
 
 //Tile Descriptions (Page 1)
 o.display_description_item[o.display_page_one,0] = "Arena - Esquina Superficial Izquierda"
