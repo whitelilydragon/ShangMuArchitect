@@ -122,6 +122,7 @@ lang_gui[0,119] = "Insanity"
 lang_gui[0,120] = "Difficulty"
 lang_gui[0,121] = "Jiang Cruise"
 lang_gui[0,122] = "Shang Mu Mall"
+lang_gui[0,123] = "Mall"
 
 //Portuguese
 lang_gui[1,0] = "Mais"
@@ -247,6 +248,7 @@ lang_gui[1,119] = "Insano"
 lang_gui[1,120] = "Dificuldade"
 lang_gui[1,121] = "Jiang Cruise"
 lang_gui[1,122] = "Shang Mu Mall"
+lang_gui[1,123] = "Mall"
 
 //Polish
 lang_gui[2,0]  = "Plik"
@@ -372,6 +374,7 @@ lang_gui[2,119] = "Szalony"
 lang_gui[2,120] = "Poziom Trudności"
 lang_gui[2,121] = "Jiang Cruise"
 lang_gui[2,122] = "Shang Mu Mall"
+lang_gui[2,123] = "Mall"
 
 //Spanish
 lang_gui[3,0]  = "Menú"
@@ -497,6 +500,7 @@ lang_gui[3,119] = "Insanidad"
 lang_gui[3,120] = "Dificultad"
 lang_gui[3,121] = "Jiang Cruise"
 lang_gui[3,122] = "Shang Mu Mall"
+lang_gui[3,123] = "Mall"
 
 //German
 lang_gui[4,0]  = "Spiel"
@@ -622,6 +626,7 @@ lang_gui[4,119] = "Wahnsinn"
 lang_gui[4,120] = "Schwierigkeit"
 lang_gui[4,121] = "Jiang Cruise"
 lang_gui[4,122] = "Shang Mu Mall"
+lang_gui[4,123] = "Mall"
 
 //Russian
 lang_gui[5,0]  = "File"
@@ -747,3 +752,4 @@ lang_gui[5,119] = "Insanity"
 lang_gui[5,120] = "Difficulty"
 lang_gui[5,121] = "Jiang Cruise"
 lang_gui[5,122] = "Shang Mu Mall"
+lang_gui[5,123] = "Mall"
