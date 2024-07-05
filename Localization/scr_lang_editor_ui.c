@@ -372,9 +372,9 @@ lang_gui[2,117] = "Trudny"
 lang_gui[2,118] = "Koszmarny"
 lang_gui[2,119] = "Szalony"
 lang_gui[2,120] = "Poziom Trudności"
-lang_gui[2,121] = "Jiang Cruise"
-lang_gui[2,122] = "Shang Mu Mall"
-lang_gui[2,123] = "Mall"
+lang_gui[2,121] = "Rejs Jiang"
+lang_gui[2,122] = "Galeria Handlowa Shang Mu"
+lang_gui[2,123] = "Galeria"
 
 //Spanish
 lang_gui[3,0]  = "Menú"
