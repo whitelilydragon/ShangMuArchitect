@@ -49,6 +49,18 @@ Click "more" on the prompt, then "run anyway" should appear. This has thus far o
 
 This is a known bug with Game Maker Studio 1.4's runner for Game Maker games. Some audio devices or audio setups can cause a delay in games booting up in a more timely manner than 3 to 5 seconds; there is nothing I can do about this on my end, I apologize. On PCs with fewer connected audio devices, (and no hybrid audio systems, such as Intel/RealTek active simultaneously) the game should still load near-instantly, at least.
 
+### Will there be a Linux-native port? Android?
+
+Unfortunately, no, as per the investigation of our contributors.
+
+While our IDE, GameMaker Studio 1.4, does have Linux and Android compilers, this version of GameMaker is so old, it depends on x86 libraries that modern Linux distributions no longer ship with. (A disturbing trend, in my opinion.) As far as we are aware, there is no easy way for users to run a Linux version of this project.
+
+Android has similar, but far worse problems. Our anti-sandbox extensions cause the game to crash on Android, as per our contributors' investigations. It may be difficult to untangle modern storage permission problems with an app dev environment this old, as well, even if we did refactor the Android version to respect GameMaker's sandbox.
+
+There is no tenable path to upgrading this project to Game Maker LTS for modern OS ports, either. Shang Mu Architect is dependent on the legacy tile system that LTS, without any forewarning or community input, decidedly threw out and replaced with a whole new tile "engine". (In my opinion, the new system is even less accessible and compelling than the old one.) Rewriting the project's collision system and its editor component around the new tile "engine" is time we can't afford to set aside; this would take months, perhaps a year, to do.
+
+For now, Wine and Proton are the only ways to run this project on Linux.
+
 **Bug Classes**
 ---------------
 
