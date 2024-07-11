@@ -764,3 +764,7 @@ lang_gui_name[lang_num,373] = "Escalator (Middle Flipped)"
 lang_gui_desc[lang_num,373] = lang_gui_desc[lang_num,369]
 lang_gui_name[lang_num,374] = "Escalator (Bottom Flipped)"
 lang_gui_desc[lang_num,374] = lang_gui_desc[lang_num,369]
+lang_gui_name[lang_num,375] = "Floating Canoe"
+lang_gui_desc[lang_num,375] = "A simple boat that tilts and floats in the direction that the player tips it towards. It can be used as a moving, floating platform."
+lang_gui_name[lang_num,376] = "Camera Stop Plane"
+lang_gui_desc[lang_num,376] = "For those cases where you may not want the player to climb or fly above a wall, the stop plane can keep the camera (and the player) from scaling further up. This allows open areas to remain open without high ceilings, for instance."
