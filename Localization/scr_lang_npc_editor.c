@@ -34,8 +34,8 @@ lang_gui[4,3] = "Emote - "
 lang_gui[4,4] = "Rennender NPC"
 
 //Russian
-lang_gui[5,0] = "Facing Right"
-lang_gui[5,1] = "Facing Left"
-lang_gui[5,2] = "Following"
-lang_gui[5,3] = "Emote - "
-lang_gui[5,4] = "Running NPC"
+lang_gui[5,0] = "Смотрит Вправо"
+lang_gui[5,1] = "Смотрит Влево"
+lang_gui[5,2] = "Следующий"
+lang_gui[5,3] = "Эмоция - "
+lang_gui[5,4] = "Бегущий Персонаж"
