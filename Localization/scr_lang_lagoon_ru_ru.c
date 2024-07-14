@@ -5,7 +5,7 @@ var o = obj_level_editor;
 //Page Descriptions
 o.display_page_description[0] = "Песок"
 o.display_page_description[1] = "Платформы"
-o.display_page_description[2] = "Кхлоны"
+o.display_page_description[2] = "Склоны"
 o.display_page_description[3] = "Снаружи"
 o.display_page_description[4] = "Декорации 1"
 o.display_page_description[5] = "Декорации 2"
