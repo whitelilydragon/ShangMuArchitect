@@ -767,3 +767,7 @@ lang_gui_name[lang_num,375] = "Плавающее Каноэ"
 lang_gui_desc[lang_num,375] = "Простая лодка, плывущая в направлении, в котором игрок её наклоняет. Может быть использована как подыижная платформа."
 lang_gui_name[lang_num,376] = "Ограничение Камеры"
 lang_gui_desc[lang_num,376] = "На случай, если вы не хотите давать игроку возможеость забираться на стену за границей уровня, такая область может остановить камеру от масштабирования. Это позволяет открытой местности оставаться таковой без высоких потолков, например.."
+lang_gui_name[lang_num,377] = "Alternate Puzzle Door"
+lang_gui_desc[lang_num,377] = "These puzzle doors stay open once activated, rather than requiring a weighted object to keep them open like the normal puzzle doors."
+lang_gui_name[lang_num,378] = lang_gui_name[lang_num,377]
+lang_gui_desc[lang_num,378] = lang_gui_desc[lang_num,377]
