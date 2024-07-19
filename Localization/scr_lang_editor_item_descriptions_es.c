@@ -769,3 +769,7 @@ lang_gui_name[lang_num,375] = "Floating Canoe"
 lang_gui_desc[lang_num,375] = "A simple boat that tilts and floats in the direction that the player tips it towards. It can be used as a moving, floating platform."
 lang_gui_name[lang_num,376] = "Camera Stop Plane"
 lang_gui_desc[lang_num,376] = "For those cases where you may not want the player to climb or fly above a wall, the stop plane can keep the camera (and the player) from scaling further up. This allows open areas to remain open without high ceilings, for instance."
+lang_gui_name[lang_num,377] = "Alternate Puzzle Door"
+lang_gui_desc[lang_num,377] = "These puzzle doors stay open once activated, rather than requiring a weighted object to keep them open like the normal puzzle doors."
+lang_gui_name[lang_num,378] = lang_gui_name[lang_num,377]
+lang_gui_desc[lang_num,378] = lang_gui_desc[lang_num,377]
