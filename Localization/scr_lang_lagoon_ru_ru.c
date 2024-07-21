@@ -7,9 +7,9 @@ o.display_page_description[0] = "Песок"
 o.display_page_description[1] = "Платформы"
 o.display_page_description[2] = "Склоны"
 o.display_page_description[3] = "Снаружи"
-o.display_page_description[4] = "Декорации 1"
-o.display_page_description[5] = "Декорации 2"
-o.display_page_description[6] = "Дополнительные 1"
+o.display_page_description[4] = "Декор 1"
+o.display_page_description[5] = "Декор 2"
+o.display_page_description[6] = "Ещё1"
 o.display_page_description[7] = "Пирс"
 
 //Tile Descriptions (Page 1)
