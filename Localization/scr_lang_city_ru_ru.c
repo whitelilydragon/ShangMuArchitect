@@ -12,11 +12,11 @@ o.display_page_description[5] = "Декор 3"
 o.display_page_description[6] = "Декор 4"
 o.display_page_description[7] = "Декор 5"
 o.display_page_description[8] = "Обломки"
-o.display_page_description[9] = "Дополнительные 1"
-o.display_page_description[10] = "Дополнительные 2"
-o.display_page_description[11] = "Альт Кирпичи"
-o.display_page_description[12] = "Дополнительные 3"
-o.display_page_description[13] = "Дополнительные 4"
+o.display_page_description[9] = "Ещё 1"
+o.display_page_description[10] = "Ещё 2"
+o.display_page_description[11] = "Кирпичи"
+o.display_page_description[12] = "Ещё 3"
+o.display_page_description[13] = "Ещё 4"
 
 //Tile Descriptions (Page 1)
 o.display_description_item[o.display_page_one,0] = "Кирпичная Платформа 1"
@@ -144,11 +144,11 @@ o.display_description_item[o.display_page_six,11] = "Фонарный Столб
 o.display_description_item[o.display_page_six,12] = "Фонарный Столб 2"
 o.display_description_item[o.display_page_six,13] = "Фонарный Столб 3"
 o.display_description_item[o.display_page_six,14] = "Куст"
-o.display_description_item[o.display_page_six,15] = "Единственный В Своём Роде Баклажан"
+o.display_description_item[o.display_page_six,15] = "Тот Самый Баклажан"
 o.display_description_item[o.display_page_six,16] = "Бельевая Верёвка"
 o.display_description_item[o.display_page_six,17] = "Дорожный Знак Пешеходный Переход"
 o.display_description_item[o.display_page_six,18] = "Дорожный Сигнал Стоп"
-o.display_description_item[o.display_page_six,19] = "Мусорка"
+o.display_description_item[o.display_page_six,19] = "Мусорная Корзина"
 
 //Tile Descriptions (Page 7)
 o.display_description_item[o.display_page_seven,0] = "Жёлтая Опорная Балка - Целая 1"
@@ -192,7 +192,7 @@ o.display_description_item[o.display_page_eight,15] = "Металлически�
 o.display_description_item[o.display_page_eight,16] = "Металлические Шипы - 4"
 o.display_description_item[o.display_page_eight,17] = "Лестница 1"
 o.display_description_item[o.display_page_eight,18] = "Лестница 2"
-o.display_description_item[o.display_page_eight,19] = "Турник 1"
+o.display_description_item[o.display_page_eight,19] = "Перекладина 1"
 
 //Tile Descriptions (Page 9)
 o.display_description_item[o.display_page_nine,0] = "Кирпичная Платформа - Обломки 1"
