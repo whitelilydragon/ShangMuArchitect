@@ -4,7 +4,7 @@ var o = obj_level_editor;
 
 //Page Descriptions
 o.display_page_description[0] = "Платформы"
-o.display_page_description[1] = "Декорации"
+o.display_page_description[1] = "Декор"
 
 //Tile Descriptions (Page 1)
 o.display_description_item[o.display_page_one,0] = "Тонкая Стена"
