@@ -8,7 +8,7 @@ o.display_page_description[1] = "Шипы"
 o.display_page_description[2] = "Стёкла"
 o.display_page_description[3] = "Рельсы 1"
 o.display_page_description[4] = "Рельсы 2"
-o.display_page_description[5] = "Декорации"
+o.display_page_description[5] = "Декор"
 
 //Tile Descriptions (Page 1)
 o.display_description_item[o.display_page_one,0] = "Лестница 1"
