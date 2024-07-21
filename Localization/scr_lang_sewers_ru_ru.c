@@ -4,10 +4,10 @@ var o = obj_level_editor;
 
 //Page Descriptions
 o.display_page_description[0] = "Платформы"
-o.display_page_description[1] = "Трубопровод"
+o.display_page_description[1] = "Трубы"
 o.display_page_description[2] = "Декор"
-o.display_page_description[3] = "Трава/Земля"
-o.display_page_description[4] = "Дополнительные"
+o.display_page_description[3] = "Земля"
+o.display_page_description[4] = "Ещё"
 o.display_page_description[5] = "???"
 
 //Tile Descriptions (Page 1)
