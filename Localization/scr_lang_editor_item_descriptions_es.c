@@ -773,3 +773,7 @@ lang_gui_name[lang_num,377] = "Alternate Puzzle Door"
 lang_gui_desc[lang_num,377] = "These puzzle doors stay open once activated, rather than requiring a weighted object to keep them open like the normal puzzle doors."
 lang_gui_name[lang_num,378] = lang_gui_name[lang_num,377]
 lang_gui_desc[lang_num,378] = lang_gui_desc[lang_num,377]
+lang_gui_name[lang_num,379] = "Sea Turretus"
+lang_gui_desc[lang_num,379] = "The Sea Turretus is a formidable flying enemy. Like the turretus, save that it hunts for the player like a bird of prey, hence the Sea Turretus's appearance."
+lang_gui_name[lang_num,380] = "Snappy"
+lang_gui_desc[lang_num,380] = "Watch your toes! Snappy is here to snip at unsuspecting players. Similar to the Metal Pup in behavior, with a few differences, such as a slower movement speed, less HP, and overall shyness. Snappy is a perfect nuisance."
