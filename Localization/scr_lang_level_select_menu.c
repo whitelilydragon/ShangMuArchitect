@@ -50,7 +50,7 @@ lang_gui[4,7] = "Besiege    den     Boss!"
 
 //Russian
 lang_gui[5,0] = "Начать"
-lang_gui[5,1] = "Вернуться"
+lang_gui[5,1] = "Назад"
 lang_gui[5,2] = "только"
 lang_gui[5,3] = "Байк Кэрол"
 lang_gui[5,4] = "Зажмите Чтобы Изменить Персонажа"
