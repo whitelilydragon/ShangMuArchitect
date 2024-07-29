@@ -35,10 +35,10 @@ o.display_description_item[o.display_page_one,18] = "Мраморная Стен
 o.display_description_item[o.display_page_one,19] = "Мраморная Стена - Правая"
 
 //Tile Descriptions (Page 2)
-o.display_description_item[o.display_page_two,0] = "Деревянный Рельсы - 1"
-o.display_description_item[o.display_page_two,1] = "Деревянный Рельсы - 2"
-o.display_description_item[o.display_page_two,2] = "Деревянный Рельсы - 3"
-o.display_description_item[o.display_page_two,3] = "Деревянный Рельсы - 4"
+o.display_description_item[o.display_page_two,0] = "Деревянные Рельсы - 1"
+o.display_description_item[o.display_page_two,1] = "Деревянные Рельсы - 2"
+o.display_description_item[o.display_page_two,2] = "Деревянные Рельсы - 3"
+o.display_description_item[o.display_page_two,3] = "Деревянные Рельсы - 4"
 o.display_description_item[o.display_page_two,4] = "Старая Медная Опора 1"
 o.display_description_item[o.display_page_two,5] = "Старая Медная Опора 2"
 o.display_description_item[o.display_page_two,6] = "Деревянные Рельсы - Подъём 1"
