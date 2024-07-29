@@ -40,10 +40,10 @@ lang_gui[4,5] = "Zurück"
 lang_gui[4,6] = "Farben"
 
 //Russian
-lang_gui[5,0] = "Выбор Персонажа"
+lang_gui[5,0] = "Выбери Персонажа"
 lang_gui[5,1] = "Обучение"
 lang_gui[5,2] = "Костюмы"
-lang_gui[5,3] = "Выбрать"
+lang_gui[5,3] = "Выбор"
 lang_gui[5,4] = "Отмена"
 lang_gui[5,5] = "Назад"
 lang_gui[5,6] = "Палитры"
