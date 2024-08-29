@@ -13,6 +13,8 @@ o.display_page_description[6] = "Nieve"
 o.display_page_description[7] = "Templo 1"
 o.display_page_description[8] = "Templo 2"
 o.display_page_description[9] = "Interior"
+o.display_page_description[10] = "Extra 1"
+o.display_page_description[11] = "Extra 2"
 
 //Tile Descriptions (Page 1)
 o.display_description_item[o.display_page_one,0] = "Roca Plana 1"
