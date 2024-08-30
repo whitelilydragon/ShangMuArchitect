@@ -386,7 +386,7 @@ lang_gui[5,16] = "Ок"
 lang_gui[5,17] = "Выкл."
 lang_gui[5,18] = "Вкл."
 //Control Settings
-lang_gui[5,19] = "(ESC - Сбросить     Настройки)"
+lang_gui[5,19] = "(ESC - Сбросить Настройки)"
 lang_gui[5,20] = "Вверх"
 lang_gui[5,21] = "Вниз"
 lang_gui[5,22] = "Влево"
