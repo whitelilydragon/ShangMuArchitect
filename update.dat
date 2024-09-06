@@ -3,13 +3,13 @@ hardlink = "https://github.com/whitelilydragon/ShangMuArchitect/blob/master/upda
 [stable_branch]
 curr_md5="11a30264a4a64f0b3c1837d0bb41ae56"
 last_md5="b70a0c55c387a63ff5b34f49f2d81f42"
-curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.2.2.2/Shang_Mu_Architect_1-2-2-2.zip"
-last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.2.1.4/Shang_Mu_Architect_1-2-1-4.zip"
+curr_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.2.2.3/Shang_Mu_Architect_1-2-2-3.zip"
+last_url="https://github.com/whitelilydragon/ShangMuArchitect/releases/download/v1.2.2.2/Shang_Mu_Architect_1-2-2-3.zip"
 [stable_description]
-update_version_current="1222"
-update_version_previous="1214"
+update_version_current="1223"
+update_version_previous="1222"
 game_mbs = "129MB"
-update_description="-Liyu Lagoon is fully playable now!#-Bubble Orbiter is now available as an enemy!#-Improvements for Milla and crystal gems#-Localization updates for Polish and German"
+update_description="-13th cutscene is now viewable! Yay!#-More localization updates for both Spanish and Russian#-Fixed a bug where the Star Marine would keep falling after being KO'd, even while the game is paused"
 update_exe_name = "Shang_Mu_Architect_1-1-9-3.exe"
 [rolling_branch]
 curr_url="https://github.com/SMALauncher/SMARolling/releases/download/v1.2.1.2/Shang_Mu_Architect_1-2-1-2.zip"
