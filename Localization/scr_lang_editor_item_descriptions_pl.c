@@ -784,4 +784,4 @@ lang_gui_desc[lang_num,384] = "Malutki robot biegający w kółko przy obecnośc
 lang_gui_name[lang_num,385] = "Boja z Gejzerem"
 lang_gui_desc[lang_num,385] = "Pływająca boja, będąca jednocześnie platformą dla gracza! Co czyni ją wyjątkową? Ukryty pod nią gejzer, wyrzucający ją w powietrze!. Maksymalna wysokość to 256 pikseli, i można ograniczyć ją Limiterem Wiatru."
 lang_gui_name[lang_num,386] = "Bubble Orbiter"
-lang_gui_desc[lang_num,386] = "The Bubble Orbiter's bubbles may be dazzling, but they are deadly. She floats and waits for the player to touch her bubbles. Each attack removes a bubble until she is harmless. Note: The water shield is immune to her bubbles."
+lang_gui_desc[lang_num,386] = "Równie groźna jak piękna, Bubble Orbiter czeka na gracza wraz z jej pierścieniem trujących baniek. Każdy atak niszczy kolejną bańkę, aż będzie ona całkiem rozbrojona. Wodna tarcza jest kompletnie odporna na jej bańki!"
