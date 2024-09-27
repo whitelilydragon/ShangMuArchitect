@@ -123,6 +123,7 @@ lang_gui[0,120] = "Difficulty"
 lang_gui[0,121] = "Jiang Cruise"
 lang_gui[0,122] = "Shang Mu Mall"
 lang_gui[0,123] = "Mall"
+lang_gui[0,124] = "Beihai"
 
 //Portuguese
 lang_gui[1,0] = "Mais"
@@ -249,6 +250,7 @@ lang_gui[1,120] = "Dificuldade"
 lang_gui[1,121] = "Jiang Cruise"
 lang_gui[1,122] = "Shang Mu Mall"
 lang_gui[1,123] = "Mall"
+lang_gui[1,124] = "Beihai"
 
 //Polish
 lang_gui[2,0]  = "Plik"
@@ -375,6 +377,7 @@ lang_gui[2,120] = "Poziom Trudności"
 lang_gui[2,121] = "Rejs Jiang"
 lang_gui[2,122] = "Galeria Handlowa Shang Mu"
 lang_gui[2,123] = "Galeria"
+lang_gui[2,124] = "Beihai"
 
 //Spanish
 lang_gui[3,0]  = "Menú"
@@ -501,6 +504,7 @@ lang_gui[3,120] = "Dificultad"
 lang_gui[3,121] = "Crucero Jiang"
 lang_gui[3,122] = "Centro Comercial Shang Mu"
 lang_gui[3,123] = "Centro Comercial"
+lang_gui[3,124] = "Beihai"
 
 //German
 lang_gui[4,0]  = "Spiel"
@@ -627,6 +631,7 @@ lang_gui[4,120] = "Schwierigkeit"
 lang_gui[4,121] = "Jiang Cruise"
 lang_gui[4,122] = "Shang Mu Mall"
 lang_gui[4,123] = "Mall"
+lang_gui[4,124] = "Beihai"
 
 //Russian
 lang_gui[5,0]  = "Файл"
@@ -753,3 +758,4 @@ lang_gui[5,120] = "Сложность"
 lang_gui[5,121] = "Круиз Цзянь"
 lang_gui[5,122] = "Торговый Центр Шанг Му"
 lang_gui[5,123] = "Торговый Центр"
+lang_gui[5,124] = "Beihai"
