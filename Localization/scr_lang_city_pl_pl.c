@@ -13,10 +13,10 @@ o.display_page_description[6] = "Sceneria 4"
 o.display_page_description[7] = "Sceneria 5"
 o.display_page_description[8] = "Nieużytki"
 o.display_page_description[9] = "Extra 1"
-o.display_page_description[10] = "Extras 2"
+o.display_page_description[10] = "Extra 2"
 o.display_page_description[11] = "Alt. Cegły"
-o.display_page_description[12] = "Extras 3"
-o.display_page_description[13] = "Extras 4"
+o.display_page_description[12] = "Extra 3"
+o.display_page_description[13] = "Extra 4"
 
 //Tile Descriptions (Page 1)
 o.display_description_item[o.display_page_one,0] = "Ceglana Platforma 1"
