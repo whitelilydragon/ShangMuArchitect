@@ -412,7 +412,7 @@ lang_gui[5,40] = "ВПЕРЁД"
 lang_gui[5,41] = "РЕЖИМ ИГРЫ"
 lang_gui[5,42] = "ВЫХОД"
 lang_gui[5,43] = "СЛОЙ"
-lang_gui[5,44] = "ЩЁЛК"
+lang_gui[5,44] = "СЕТКА"
 lang_gui[5,45] = "ЗУМ"
 //Gameplay Settings
 lang_gui[5,46] = "Игровой Процесс"
