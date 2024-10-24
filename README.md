@@ -17,9 +17,11 @@ https://github.com/Leo40Git/SMALauncher
 
 ### Where is the source code?
 
-For many reasons, some of which are of an obvious legal nature, the source can't be made public, I'm sorry. I am an open-source advocate myself, and largely use open-source software for much of my creative work, but this project in particular must remain closed source. GitHub is simply a convenient archive for uploaded builds and issue tracking.
+Once the fan game is finished, the source code will be published here in full. For now, it would simply be too cumbersome to keep it up-to-date, with such an old version of Game Maker Studio. (1.4 is old enough that it doesn't support GitHub. Anyone remember SVN?)
 
-Some supporting features for the game are open-source, however! The SMA Launcher's source code is packaged with every new build in the releases page, and I would like to make more components of the game open-ended with time!
+The reason for this change of policy has to do with the Undertale/Deltarune modding scene. Modding tools for Undertale has matured so much, essentially any Game Maker game can be readily opened and modified with ease. (All that users of such mod tools are missing is comments in the original code; compiled games do not preverse code comments.)
+
+At this point in time, it's no longer possible (or necessary) to keep the source code private. We are simply waiting until the game is finished to post it all. In the meantime, the full source code for the SMA Launcher is available, and so are the language scripts for localization.
 
 ### Can I report issues related to the fan game's accuracy to Freedom Planet?
 
@@ -49,17 +51,21 @@ Click "more" on the prompt, then "run anyway" should appear. This has thus far o
 
 This is a known bug with Game Maker Studio 1.4's runner for Game Maker games. Some audio devices or audio setups can cause a delay in games booting up in a more timely manner than 3 to 5 seconds; there is nothing I can do about this on my end, I apologize. On PCs with fewer connected audio devices, (and no hybrid audio systems, such as Intel/RealTek active simultaneously) the game should still load near-instantly, at least.
 
-### Will there be a Linux-native port? Android?
+### Will there be a Linux-native port?
 
-Unfortunately, no, as per the investigation of our contributors.
+Despite Studio 1.4's advanced age, one of our contributors has found a way to build the game on Linux. And thus far, it works 1:1 with the Windows counterpart on Ubuntu-based Linux systems! Testing will remain tight-knit until we're sure it's ready for public consumption.
 
-While our IDE, GameMaker Studio 1.4, does have Linux and Android compilers, this version of GameMaker is so old, it depends on x86 libraries that modern Linux distributions no longer ship with. (A disturbing trend, in my opinion.) As far as we are aware, there is no easy way for users to run a Linux version of this project.
+We appreciate any patience on your part in the meanwhile. For now, Wine and Proton are the most frictionless way to run this project on Linux and Valve's SteamDeck.
 
-Android has similar, but far worse problems. Our anti-sandbox extensions cause the game to crash on Android, as per our contributors' investigations. It may be difficult to untangle modern storage permission problems with an app dev environment this old, as well, even if we did refactor the Android version to respect GameMaker's sandbox.
+### Will there be an Android port? Mac OS and/or M1 Mac ports?
 
-There is no tenable path to upgrading this project to Game Maker LTS for modern OS ports, either. Shang Mu Architect is dependent on the legacy tile system that LTS, without any forewarning or community input, decidedly threw out and replaced with a whole new tile "engine". (In my opinion, the new system is even less accessible and compelling than the old one.) Rewriting the project's collision system and its editor component around the new tile "engine" is time we can't afford to set aside; this would take months, perhaps a year, to do.
+While I do have legally-purchased exporters for some of these platforms, any ports beyond Linux are not in the plans. Game Maker Studio's Android exporter has a difficult history with the OS, and none of us have Macbooks to test prospective Mac ports.
 
-For now, Wine and Proton are the only ways to run this project on Linux.
+Game Maker Studio not only requires a Macintosh computer to be live on the local network, for the compilation process, I would like to assure Mac users that such a port works via thorough testing. I simply can't afford Apple's hardware, even from the aftermarket.
+
+An M1 Mac port is also simply not possible with such an old version of Studio, as well. The modern Studio LTS does support M1 Mac computers, but this game is too reliant on 1.4's tile system to be ported easily to modern versions of Game Maker. I won't say an M1 port can't happen; any engineering challenge is surmountable with time and effort.
+
+But for now, the challenge is beyond our available time and budget. Perhaps you could be the difference if you're an Apple developer and love Freedom Planet as much as we do? Contributors are always welcome!
 
 **Bug Classes**
 ---------------
