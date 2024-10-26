@@ -17,7 +17,7 @@ https://github.com/Leo40Git/SMALauncher
 
 ### Where is the source code?
 
-Once the fan game is finished, the source code will be published here in full. For now, it would simply be too cumbersome to keep it up-to-date, with such an old version of Game Maker Studio. (1.4 is old enough that it doesn't support GitHub. Anyone remember SVN?)
+Once the fan game is finished, the source code will be published here in full. For now, it would simply be too cumbersome to keep it up-to-date with such an old version of Game Maker Studio. (1.4 is old enough that it doesn't support GitHub. Anyone remember SVN?)
 
 The reason for this change of policy has to do with the Undertale/Deltarune modding scene. Modding tools for Undertale has matured so much, essentially any Game Maker game can be readily opened and modified with ease. (All that users of such mod tools are missing is comments in the original code; compiled games do not preverse code comments.)
 
@@ -61,7 +61,7 @@ We appreciate any patience on your part in the meanwhile. For now, Wine and Prot
 
 While I do have legally-purchased exporters for some of these platforms, any ports beyond Linux are not in the plans. Game Maker Studio's Android exporter has a difficult history with the OS, and none of us have Macbooks to test prospective Mac ports.
 
-Game Maker Studio not only requires a Macintosh computer to be live on the local network, for the compilation process, I would like to assure Mac users that such a port works via thorough testing. I simply can't afford Apple's hardware, even from the aftermarket.
+Game Maker Studio not only requires a Macintosh computer to be live on the local network for the compilation process, I would like to assure Mac users that such a port works via thorough testing. I simply can't afford Apple's hardware, even from the aftermarket.
 
 An M1 Mac port is also simply not possible with such an old version of Studio, as well. The modern Studio LTS does support M1 Mac computers, but this game is too reliant on 1.4's tile system to be ported easily to modern versions of Game Maker. I won't say an M1 port can't happen; any engineering challenge is surmountable with time and effort.
 
