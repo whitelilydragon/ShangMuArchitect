@@ -113,4 +113,36 @@ switch(use_tileset_preview_set_increment)
                     scr_lang_mall_ru_ru();
                 break;
             }
+        case 7:
+            {
+                //use_tileset_preview_set = ui_tileset_platform;
+                scr_set_beihai_definition_table();
+                if parent.user_language_mode = 1
+                    scr_lang_beihai_br_pt();
+                if parent.user_language_mode = 2
+                    scr_lang_beihai_pl_pl();
+                if parent.user_language_mode = 3
+                    scr_lang_beihai_es_es();
+                if parent.user_language_mode = 4
+                    scr_lang_beihai_de_de();
+                if parent.user_language_mode = 5
+                    scr_lang_beihai_ru_ru();
+                break;
+            }
+        case 8:
+            {
+                //use_tileset_preview_set = ui_tileset_platform;
+                scr_set_sapphire_definition_table();
+                if parent.user_language_mode = 1
+                    scr_lang_sapphire_br_pt();
+                if parent.user_language_mode = 2
+                    scr_lang_sapphire_pl_pl();
+                if parent.user_language_mode = 3
+                    scr_lang_sapphire_es_es();
+                if parent.user_language_mode = 4
+                    scr_lang_sapphire_de_de();
+                if parent.user_language_mode = 5
+                    scr_lang_sapphire_ru_ru();
+                break;
+            }
     }
