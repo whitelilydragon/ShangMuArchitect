@@ -3,10 +3,10 @@ gml_pragma("forcedinline")
 var o = obj_level_editor;
 
 //Page Descriptions
-o.display_page_description[0] = "Platforms"
-o.display_page_description[1] = "Walls"
-o.display_page_description[2] = "Slopes"
-o.display_page_description[3] = "Scenery"
+o.display_page_description[0] = "Plataformas"
+o.display_page_description[1] = "Paredes"
+o.display_page_description[2] = "Pendientes"
+o.display_page_description[3] = "Ambiente"
 o.display_page_description[4] = "Extras"
 o.display_page_description[5] = "???"
 
