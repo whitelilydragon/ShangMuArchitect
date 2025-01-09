@@ -508,7 +508,7 @@ lang_gui[3,121] = "Crucero Jiang"
 lang_gui[3,122] = "Centro Comercial Shang Mu"
 lang_gui[3,123] = "Centro Comercial"
 lang_gui[3,124] = "Beihai"
-lang_gui[3,125] = "Jungle"
+lang_gui[3,125] = "Jungla"
 
 //German
 lang_gui[4,0]  = "Spiel"
