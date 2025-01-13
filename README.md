@@ -15,14 +15,6 @@ https://github.com/Leo40Git/SMALauncher
 
 # Frequently Asked Questions
 
-### Where is the source code?
-
-Once the fan game is finished, the source code will be published here in full. For now, it would simply be too cumbersome to keep it up-to-date with such an old version of Game Maker Studio. (1.4 is old enough that it doesn't support GitHub. Anyone remember SVN?)
-
-The reason for this change of policy has to do with the Undertale/Deltarune modding scene. Modding tools for Undertale has matured so much, essentially any Game Maker game can be readily opened and modified with ease. (All that users of such mod tools are missing is comments in the original code; compiled games do not preverse code comments.)
-
-At this point in time, it's no longer possible (or necessary) to keep the source code private. We are simply waiting until the game is finished to post it all. In the meantime, the full source code for the SMA Launcher is available, and so are the language scripts for localization.
-
 ### Can I report issues related to the fan game's accuracy to Freedom Planet?
 
 We are no longer accepting accuracy-related reports, especially now that Shang Mu Architect is a mix of Freedom Planet 1 and 2's gameplay, with some of its own intentional (and unintentional) improvements to FP's gameplay (Such as making FP1 speedrun tech easier to execute)
