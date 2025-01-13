@@ -1,0 +1,9 @@
+var op = obj_game_logic;
+op.spade_animation_dash_direction = 0
+op.spade_dash_hor_speed = 0
+op.spade_dash_hor_limit = 0
+op.spade_dash_ver_speed = 0
+op.spade_affect_effects_timer = 16
+op.spade_animation_dash_timer = 0
+op.spade_dash_ver_timer = 0
+op.spade_dash_ver_limit = 0

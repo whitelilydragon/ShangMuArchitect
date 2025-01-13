@@ -1,0 +1,3 @@
+audio_stop_sound(ost_boss_battle_theme_synx)
+audio_stop_sound(ost_mini_boss_theme_dusky)
+audio_stop_sound(ost_mega_boss_theme_bobtheguy)

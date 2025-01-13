@@ -1,0 +1,10 @@
+use_stamp_list[0] = ui_stamp_0
+use_stamp_list[1] = ui_stamp_1
+use_stamp_list[2] = ui_stamp_2
+use_stamp_list[3] = ui_stamp_3
+use_stamp_list[4] = ui_stamp_4
+use_stamp_list[5] = ui_stamp_5
+use_stamp_list[6] = ui_stamp_6
+use_stamp_list[7] = ui_stamp_7
+use_stamp_list[8] = ui_stamp_8
+use_stamp_list[9] = ui_stamp_9

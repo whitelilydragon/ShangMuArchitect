@@ -1,0 +1,9 @@
+npc_dialog_iterate = 0
+npc_dialog_page = 0
+joy_flash = 0
+state = 0
+run_frame = idle_min
+run_enable = 0
+run_speed = 0
+gravity_speed = 0
+runaway_npc_prompt = 0

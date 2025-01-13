@@ -1,0 +1,13 @@
+//Stop All Ambiance SFX
+audio_stop_sound(snd_drowning)
+audio_stop_sound(snd_drowned)
+audio_stop_sound(snd_swimming)
+audio_stop_sound(snd_thunder)
+audio_stop_sound(snd_rain)
+audio_stop_sound(snd_tempest)
+audio_stop_sound(snd_flood_fill)
+audio_stop_sound(snd_birds_singing)
+audio_stop_sound(snd_city_park)
+audio_stop_sound(snd_train_passing_by)
+audio_stop_sound(snd_creepy_underworld)
+audio_stop_sound(snd_creepy_cave)
