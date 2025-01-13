@@ -1,0 +1,520 @@
+Shang Mu Architect was not produced entirely alone! A lot of wonderful people
+have directly made great contributions to the project's goals. This fan game
+has greatly benefitted from Game Maker extensions, as well.
+
+Below is a detailed list of everyone who left their mark on this fan game!
+
+Research Credits:
+-----------------
+
+Speedrunners who have provided their information and observations of the
+original game: If credit for information you have contributed is missing,
+please send an email with your alias and a summary of your data, so the credits
+list can be updated.
+
+SuccinctAndPunchy, Fladervy, Revolucion, Tris, Deckard, El_Nacho, and
+NitroSplint - Movement and frama data on Lilac, Carol, and Milla.
+
+Vibel - Documented Milla's advanced behavior in a PDF for beginners on
+Speedrun.com. This was immensely helpful in recreating Milla's flutter block
+tech, because I previously couldn't perform it on my own
+
+Fladervy - Created the FTrainer that was used to gather troves of frame
+data for the characters via its advanced data view. It was an invaluable tool
+in the process of developing this game.
+
+Operator1997 - Provided hundreds of personal photos from visits to Japan, to
+help inspire the Japanese-leaning art direction for the project. Many assets
+for the game were drawn based on real-life artifacts, architecture, and various
+objects from Japan! Thank you, friend!
+
+Artist Credits
+--------------
+
+While I did as much work as I could, other artists helped along the way,
+and they gave me a higher quality bar to aim for with the game's original
+assets. I learned a lot from their contributions!
+
+troopsushi - Created an promotional poster for SMA, created the game's logo
+from scratch, improved some original assets, designed Lilac's maker outfit, and
+greatly improved a work-in-progress background. Troop even inspired the shading
+style that all of the girls have in the game! Thank you so much for your help!
+---
+You can find more of TroopSushi's work here, as well as his work on his
+original game project, DownSouth!
+https://twitter.com/troopsush3
+
+WizToad - In general reshaded a lot of Shang Mu Architect's original assets,
+and gave it a much needed level of polish that was beyond my skill level. Thank
+you so much for your help!
+---
+You can find more of WizToad's work here!
+https://twitter.com/WizToad
+
+Prototype (Starbuster developer) - Created an entirely new background for Shang
+Mu Architect! We called it Liyu Lagoon, and it is a wonderful addition to the
+game. I am still so floored to see Proto's work in a Freedom Planet setting;
+his art style works so well with it, you would assume the background came from
+Freedom Planet 2 itself! Thank you, friend!
+---
+You can find more of Proto's work and his game project, Starbuster, here!
+https://twitter.com/Starbuster_Game
+
+Treylina - She has generally been an assistant pixel artist, colorist, and
+concept artist for various aspects of the project; Treylina even made new
+sprites for Spade. Any non-player characters that look especially good, you
+can likely thank Treylina for that! Thank you, friend!
+---
+You can follow her work on Twitter!
+https://twitter.com/TreyaZerros/
+
+PicsandPixels - Pixy handled cleanup work for Chiasa's sprites, as well as
+having professionally worked on the Freedom Planet 1 assets that Shang Mu
+Architect has borrowed. Pixy's wonderful to work with, she brings a lot of
+goodness to every project!
+---
+You can find more of her work, as well as her projects, on Twitter!
+https://twitter.com/pics_pixels
+
+HyperTails12 - Did a lot of spriting to help bring Carrie to life in Shang Mu
+Architect, as well as provided NPCs for the game. Thank you, friend!
+
+https://twitter.com/HyperTails12
+
+23Lief - Lief has done substantial work for the fan game, producing Lilac's
+*and* Milla's alt outfits, as well as various NPCs' assets! Lief is also
+responsible for fully animating Chiasa, so that she could become SMA's sixth
+fully playable character. (Instead of only the NPC sprites I produced for
+Chiasa.)
+
+We can thank Lief for many of the NPCs having sprites at all, as well as
+quality shading for them!
+---
+You can follow his sprite work on Twitter!
+https://twitter.com/23Lief
+
+RocketPotato - Worked on a lot of concept art for the game, as well as entirely
+new NPCs and boss sprites. Thank you so much, friend!
+
+HyperWerefox - Created FP1-styled versions of some of Carol's FP2 attacks and
+animations, which they offered for me to use in Shang Mu Architect! Thank you!
+---
+You can find more of his work here!
+https://www.deviantart.com/hyperwerefox/art/Custom-Carol-Sprites-Updated-875312814
+
+SlayerS - Produced new scenery pieces for various tile sets, as well as some
+new NPCs. Every piece helps build a complete game, thank you for your time,
+Slayer!
+---
+https://bsky.app/profile/fengtheslayer.bsky.social
+https://www.instagram.com/fengtheslayer/
+
+Composer Credits
+----------------
+
+Woofle - Gave me her blessing to use "Aqua Surface", a fantastic track that
+felt right as the game's main theme. It is exciting and humbling to have a
+musical piece from Freedom Planet's own composer in this fan game. Thank you!
+---
+If you are interested in hearing more of Woofle's work, here is a link to other
+places where you can find her music:
+https://leilawilson.bandcamp.com/
+https://soundcloud.com/leila-wilson-woofle
+
+benjistring - Remixed many of Freedom Planet's songs for Shang Mu Architect, as
+well as created an outstanding remix of Blitz Lunar's Kimono Witch's Castle!
+SMA's OST would still be sorely lacking if not for him, he is the sole reason
+we have a diverse range of music for the game!
+---
+If you are interested in hearing more of benjistring's work, here is a link to
+other places where you can find his music:
+https://twitter.com/benjistring
+https://soundcloud.com/benjistring
+
+Blitz Lunar - Gave permission to use his song "Kimono Witch's Castle". It is an
+amazing, fun piece of music that I'm honored to use for Shang Mu Architect,
+thank you!
+---
+If you are interested in hearing more of Blitz Lunar's work, here is a link to
+his website, and other places where you can find his music:
+https://www.iridescentaudio.co.uk
+https://blitzlunar.bandcamp.com
+https://soundcloud.com/blitzlunar
+https://www.youtube.com/channel/UCMNfFmPRzUqwvZloq9hAbkQ
+
+Dusky (HavocFox developer) - Gave permission to use her outstanding Aqua Tunnel
+remix and Fortune Night Elevator theme! She has also composed a new arrangement
+of the mid-boss theme!
+
+Dusky is a fantastic artist, and she has an equally strong footing in
+her composing work! I'm honored to have her work in this game, thank you so
+much! (She's also created excellent alt color palettes for Lilac, Carol, Milla,
+Carrie, and even Chiasa!)
+---
+If you are interested in hearing (and seeing!) more of Dusky's work, here are
+links to her website and game project!
+https://www.havocfoxgame.com/
+https://twitter.com/havocfoxgame
+https://www.youtube.com/channel/UCxJlU-F2OtEalRrhsWuHiBA
+
+BobTheGUYYYYY - Remixed Zao Land and Trap Hideout for a lively daytime variant
+of the West District theme! Much like Bob's artwork, his music is fantastic.
+I'm so happy he took the time to contribute such a great remix for this fan
+game!
+---
+If you are interested in hearing (and seeing!) more of Bob's work, here is a
+link to his Twitter, and other places where you can find his music:
+https://twitter.com/BobTheGUYYYYY
+https://soundcloud.com/bobtheguyyyyy
+
+Synx - Remixed one of FP1's boss battle themes for Shang Mu Architect, as well
+as rearranged the Results Screen's theme and Shang Mu Palace theme! I'm very
+happy to hear new takes on these themes, thank you!
+---
+If you are interested in hearing more of Synx's work, here is a link to their
+Soundcloud, and other places where you can find their music:
+https://soundcloud.com/synx-seven/
+https://www.youtube.com/channel/UCIxhLrsW94ADzMzlHRN_T1g
+
+Alestance - Contributed a new arrangement of Fortune Night, which brings an
+appreciably fresh atmosphere to the game! (Alestance also made all of the
+assets for the Fireworks Tank boss, and composed the original theme for
+Taishan Mountain!) Thank you!
+---
+https://twitter.com/alestance
+
+JJ MH (Ghost) - Composed a new song for the fan game! I can't wait to find a
+fitting place for it to be in the game, thank you, Ghost!
+---
+https://twitter.com/JJ_MHBE_20
+
+Voice Acting Credits
+--------------------
+
+Akkuyo1116 - Voiced Carrie the Wild Cat's in-game voice clips, and to great
+effect, too! Thank you for giving Carrie a voice of her own, Akkuyo!
+
+Velacosmos - I voiced Pixel myself! It was fun.
+
+Localization Credits
+--------------------
+
+Brazilian Portuguese
+---
+
+Akkuyo
+23Lief
+
+Polish
+---
+
+Kubo
+
+Spanish
+---
+
+CWNL
+spoopy
+peanutnoceda
+
+German
+---
+
+SkyVersa
+
+Russian
+---
+
+GreenTeaBay
+
+Testing Credits
+---------------
+
+Kain, Nacho, Scootles, SaladPants, Prototype, Eps, NBlast, Tris, Deckard,
+NitroSplint, benjistring, Noone, Frisktaker - Testing, and generally
+invaluable feedback throughout the fan game's development.
+
+Scootles and Nacho caught so many hilarious, amusing bugs that I would have
+never spotted on my own; I want to thank all of you for your time.
+
+Scootles - Co-author of the Tile-Collision Mask Editor. Wrote most, if not all,
+of the program's algorithms and backend code. I learned a lot while
+collaborating with Scootles! Much of the drawing algorithms are still used for
+Shang Mu Architect's drawing tools, too!
+
+Stage Design Credits
+--------------------
+
+Quite a few of our testers made their own complete levels to be included in
+Shang Mu Architect! I want to thank them all for their time!
+
+Eps
+Deckard
+NBlast
+Doggo
+
+Programming Credits
+-------------------
+
+Co-credit for SMA's update launcher goes to Leo! He was a big help with its
+production, and even produced his alternative launcher built in Python:
+
+https://github.com/Leo40Git/SMALauncher
+
+Leo is also responsible for the game's SMAMapListHelper applet, as well as the
+fan game's shine new SMAFS extension, which greatly streamlines the game's file
+management functionality on the backend.
+
+Another one of Leo's projects is a SMA rolling build scraper bot for Discord,
+which automatically grabs every weekly rolling build and uploads them publicly
+onto its own GitHub page. This is both public access outside of Discord, and
+assisting the fan game's launcher in keeping users up-to-date!
+
+You can find more of his work here!
+---
+https://github.com/Leo40Git
+
+Asset Ripping
+-------------
+
+RandomTalkingBush, Okamikurainya, Segatendo, and others created well organized
+sheets of their sprite rips from the original game on The Spriter's Resource.
+Their work saved me countless hours I would have otherwise spent ripping
+everything myself.
+
+Dazl - Provided a raw PNG dump of all of the game's graphics assets in a zip
+archive. While this was rather dizzying to navigate, it was immensely helpful
+in extracting clean rips of many sprites that have additive alpha-blending
+applied to them in the game. It would have taken a lot of time to recreate
+those sprites without this dump.
+
+snickerbockers - Created the Freedom Planet extractor/archiver tool, which
+allowed others to provide me a ZIP of all the sound effects in the game. (I was
+too green in regards to Python to use it myself, unfortunately.) While I
+did record every sound effect I could directly from the game itself, they had
+too much bass compared to their source files, so this helped improve the
+quality of the sound effects in the engine itself
+
+Extension Credits
+-----------------
+
+YellowAfterLife - Produced the NSFS extension that Shang Mu Architect depends
+on, to free the game from Game Maker's sandbox; this allows maps and
+configuration files to be retrieved from the game's local folder, instead of
+the userdata folder. This greatly simplifies sharing maps! I don't know what I
+would have done without YellowAfterLife's work
+
+PixelatedPope - Produced the retro palette swapper shader that Shang Mu
+Architect is using to restore Lilac's, Carol's, and Milla's lost alt palettes
+from Freedom Planet 1! Thank you! It's also now being used to invert the
+sprites of enemies when they're hurt! This shader is priceless!
+
+Dazl also gifted me with YellowAfterLife's Apollo Lua scripting extension, to
+hopefully open up the possibilities of supporting mods for Shang Mu Architect!
+Thank you, friend!
+
+omicronrex - Created the great gms_scheduler_fix extension that allows SMA to
+function on more recent versions of Windows 10 without slowdowns or resorting
+to alt sync. (Which proved buggy for our testers on Windows 10.)
+
+I felt so lost after years of working on the game, only for recent Windows 10
+updates to break everything I had worked so hard to put together. omicronrex
+saved this project!
+
+skyfloogle - Created the gmsched extension for Studio 1.4, backporting Studio
+2.3.2's handling of the Windows scheduler for older versions of Game Maker! I
+plan to make great use of it for this project, once I understand how to use it
+effectively.
+
+This extension will also save Shang Mu Architect in the long run! Thank you so
+much for helping many of us, who have years-long projects that can't be ported
+to Game Maker Studio 2 easily
+
+Alt Color Palette Credits
+-------------------------
+
+PicsandPixels
+23Lief
+Akkuyo
+Alestance
+Dusky
+HappyGreenFrog
+HyperTails12
+JJ MH Ghost
+ADudeCalledLeo
+SahanovAzamat
+Treylina
+snowflake89
+Wheeled_Tank
+Mateo3770
+SmallWolf
+Synx
+Blue_Star
+Rubyline
+Leo
+LowPolyFire
+
+NPC Design Credits
+------------------
+
+HyperTails12 (Shyama, Astum, Carrie, Abby, Hyper, Alexis, Zeia, and Guage)
+WhiteFelineWonder (Shaded Abby and Alexis)
+Blue_Star (Axl, Beibo, Candy, Trip, Leela, and Umi)
+ItalianGamer97 (Xavier)
+Akkuyo1116 (Allister, Kyomi, Maika, Kyumi, Serena, Leone, Dexter, Flavio, Alan)
+23Lief (Tiwi, Hirage, NE5Server, Azuli, and Kyoti, Kii-Koo, Uny, Amy Steelhorn,)
+Prototype, Starbuster lead developer (Cook)
+TsukiBoyAdvance (Tsuki)
+Synx (Jamie)
+Sarakin (Cassandre)
+Onion (Kusei; Ryusei, art by HyperTails12)
+SpaceyBat (Neera, Scrapped Cowboy; renamed to Cutter Clyde)
+benjistring (Rhyme)
+Dr. Dean A (RocketPotatoL62)
+Gospel (Shen, Beldr, and Mei)
+Vivid (Rubyline)
+Glover (Garrett, Pat, Elric; art and animations by VadaPEGA / 23Lief)
+Leo (Leo; art by Leo)
+Slayer (Kai)
+SkyVersa (Mirdin)
+Creeperboy90 (Boss; shading by 23Lief)
+
+Enemy Design/Sprite Credits
+---------------------------
+
+23Lief (Wasp, Sprindog, Zaoment, and Ring Hammer)
+
+Patreon Credits
+---------------
+
+Argo
+Aronnax
+Atomic Emperor
+Blue_Star
+BONK
+Doggo
+Edgy Raven
+Edwyn Tiong
+Eli Abbott
+Eps
+Event Horizon
+Friend Pat
+Glover
+Kubo
+Kyle. P
+MetalSonicEXE/MetalVolt
+Mike Harvey
+missfluffy
+NBlast
+Onion
+Operator1997
+Phalen
+SSgt Myers
+Sephesly
+Siphillis
+Spree
+SyntaxTsundere
+Rocket Potato
+Rilao
+TBWinger92
+Operator1997
+yoda8582
+wheeled_tank
+wishnyan
+UnderNightPlumber
+Vectis
+Zori (Z-Marble)
+
+Sprite Font Credits
+-------------------
+
+23Lief
+GreenTeaBay
+VelaCosmos
+
+Special Thanks
+--------------
+
+Treylina - Improved the color palette for the bomb cubes, various bosses, improved
+1up fairies for Spade, generally invaluable feedback, as well as alt color
+palettes for Lilac, Carol, Milla, and Spade! Thank you so much for your help,
+friend!
+
+TysonTan - Tyson's outstanding outfit designs for Milla were so cute, I had to
+make the winter coat design Milla's SMA costume!
+
+Edwyn Tiong - Contributed many misc things for the project, such as a
+description for Spade, scream recordings for enemies, being a Patron, and much
+more! Edwyn is a wonderful friend and community treasure in GalaxyTrail's
+communities, thank you for everything you do!
+
+Argo - A patron and frequent member of the community! Argo also came up with
+the restaurant name for "Timmy Tuna" in Dragon Road, as well as Taishan Peeks!
+(Naming stages is hard!) Thank you, friend!
+
+Sound Effects Sources
+---------------------
+
+As part of SMA's goal to create a new and original-feeling Freedom Planet experience, many new sound effects were used for the fan game's various gimmicks, enemies, bosses, and cutscenes. Here is a list of direct links, should anyone reading this like these sound effects well enough to purchase them for their own projects!
+
+All Freedom Planet 2 SFX were used with direct permission from Sabrina DiDuro. Producers of FP2's SFX include:
+	https://www.fatbard.com/
+	https://www.extraterrible.com/
+
+https://sonniss.com/gameaudiogdc (A garden variety of sound effects from this free SFX bundle were mixed to create new SFX for SMA)
+
+https://www.sound-ideas.com/Product/409/hanna-barbera-sound-effects-library/ (A variety of classic cartoon sound effects from the official Hanna Barbara SFX library)
+---
+BITE, CARTOON - BIG CHOMP
+
+https://www.sound-ideas.com/Product/48/General-Series-6000-Extension-6
+---
+HUMAN, BLOW - CONCH SHELL HORN: BLOW 02
+
+Original SFX
+---
+Bird Guard Scream - Edwyn Tiong
+
+Royalty-Free SFX
+---
+https://pixabay.com/sound-effects/flush-toilet-lid-down-68571/
+https://pixabay.com/sound-effects/door-slam-172171/
+https://soundbible.com/850-Quick-Fart.html
+
+Commercially-Sourced SFX
+---
+https://www.pond5.com/sound-effects/item/51261080-female-scream-aaah
+https://www.pond5.com/sound-effects/item/8510393-train-passing-close-ll
+https://www.pond5.com/sound-effects/item/61440896-sci-fi-engine-powering
+https://www.pond5.com/sound-effects/item/167914061-television-old-television-switch-hum-and-buzz-switch-televis
+https://www.pond5.com/sound-effects/item/140542544-fairy-sparkle-ding-2
+https://www.pond5.com/sound-effects/item/132526420-chris-alan-astral-textures-charge-rising-synthesized-pitch-h
+https://www.pond5.com/sound-effects/item/80740787-photocopier-large-office-copier-warming
+https://www.pond5.com/sound-effects/item/41638469-skateboard-trick-jump-metal-rail-start-grind-slide
+https://www.pond5.com/sound-effects/item/79321781-basket-ball-bounces
+https://www.pond5.com/sound-effects/item/1081533-basket-ball-hand-hits
+https://www.pond5.com/sound-effects/item/85444578-female-40s-adult-reaction-surprise-amazement-feeling-amused
+https://www.pond5.com/sound-effects/item/51400663-beverage-can-empty-kicking-along-public-road-rattling-and-cl
+https://www.pond5.com/sound-effects/item/35797652-flooding-water
+https://www.pond5.com/sound-effects/item/116176979-hwamei-chinese-thrush-cu-caged-birds-whistling-and-singing-p
+https://www.pond5.com/sound-effects/item/60139041-rupture-glass_window_pane_a_break_large_05
+https://www.pond5.com/sound-effects/item/41440601-metal-and-glass-shatter-0003
+https://www.pond5.com/sound-effects/item/8639359-rapids-rushing-water-close
+https://www.pond5.com/sound-effects/item/84579943-heavy-wind-storm
+https://www.pond5.com/sound-effects/item/49673111-cat-purring-02
+https://www.pond5.com/sound-effects/item/5505264-creepy-low-atmosphere-ambiance
+https://www.pond5.com/sound-effects/item/5551814-thriller-cave-ambiance-high-tension
+https://www.pond5.com/sound-effects/item/55609463-evil-laugh
+https://www.pond5.com/sound-effects/item/173229377-mud-splat-02
+https://www.pond5.com/sound-effects/item/43064378-old-fishing-boat-chug-diesel-engine-splashing-water
+https://www.pond5.com/sound-effects/item/66803630-boats-marine-boat-speed-outboard-onboard-run-slow-speed-spla
+https://www.pond5.com/sound-effects/item/167817151-human-hit-frying-pan-impact-head-metal
+https://www.pond5.com/sound-effects/item/66869907-metal-hits-dong-bink-metal-hit-dong-dull-pan
+https://www.pond5.com/sound-effects/item/134585885-hey-female-voice
+https://www.pond5.com/sound-effects/item/155505311-fighting-game-designed-human-voice-vocalization-female-irina
+https://www.pond5.com/sound-effects/item/157946507-male-voice-hey-08
+https://www.pond5.com/sound-effects/item/75181909-huge-temple-bell-2
+https://www.pond5.com/sound-effects/item/40429400-crane-bird-scream
+https://www.pond5.com/sound-effects/item/72792156-cartoon-bird-scream-2
+https://www.pond5.com/sound-effects/item/225955136-buoy-bell-tings-light-ocean-activity-multiple-resonant-rings
+https://www.pond5.com/sound-effects/item/8771299-human-blow

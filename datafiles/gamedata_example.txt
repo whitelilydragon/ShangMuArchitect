@@ -1,0 +1,222 @@
+;//============Visual Settings==================//
+;fullscreen 			= Enables or disables fullscreen mode. 0 = Off; 1 = On
+;vblank     			= Enables the use of vertical sync, which prevents "tearing". 0 = Off; 1 = On; 2 = legacy v-sync; this is a legacy function
+;win10check				= Forces the game to automatically use legacy v-sync. "Yes" or "No" are valid parameters
+;window_scaling			= Resizes the window up to 3x scale, before resetting to 1x
+;performance_profile	= Enables or disables alpha blending and other effects
+;0 = "Low"; disables additive alpha blending on most sprites, lowers number of particles, deletes all decoration objects from the start of the stage, and disables drawing of certain temporary HUD elements
+;1 = "Normal"; visually intended experience with everything enabled
+;screen_shake			= Enables or disables screen shake. 0 = off; 1 = on
+;mouse_scale			= Increase or decreases the scale of the mouse cursor (0 = invisible, 0.5 = half-sized, 1 = full size)
+;user_language_mode, 0 = English, 1 = Brazilian Portuguese
+
+[main_settings]
+fullscreen="0"
+vblank="1"
+win10check="Yes"
+window_scaling="2"
+music_volume="50"
+sound_volume="50"
+performance_profile="1"
+enable_shaders="1"
+screen_shake="1"
+disable_grid = "0"
+reverse_mouse_buttons="0"
+mouse_scale="1"
+alt_skin_default="0"
+enemy_mode="0"
+first_time="1"
+
+[extended_settings]
+user_camera_shake_intensity="1"
+user_regen_health = "0"
+user_regen_health_timer = "0"
+user_enemy_level = "1"
+user_enemy_health_display = "0"
+user_move_list_display = "0"
+user_move_list_control_type = "0"
+user_turbo_mode = "0"
+user_language_mode = "0"
+user_freeze_frames = "1"
+
+[save_file_1]
+player_gems = "1000"
+potion_petal_potion = "8"
+potion_petal_core = "8"
+potion_stamina_drink = "4"
+potion_stamina_core = "2"
+potion_feather_potion = "1"
+potion_mystery_potion = "12"
+
+;//==============Keyboard Bindings==============//
+;key_left	= Assigns a keyboard key to left movement
+;key_down	= Assigns a keyboard key to down movement
+;key_right	= Assigns a keyboard key to right movement
+;key_up		= Assigns a keyboard key to up movement
+;key_a      = Assigns a keyboard key to attacking
+;key_b		= Assigns a keyboard key to jumping
+;key_c		= Assigns a keyboard key to special
+;key_start  = Assigns a keyboard key to the pause menu.
+
+;To modify these bindings by hand, please refer to an
+;ASCII key codes table, such as either of these:
+;http://www.theasciicode.com.ar/
+;https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+
+;Keyboard bindings for Shang Mu Architect's Player Mode
+[keyboard_bindings]
+key_left	= "37"
+key_right	= "39"
+key_up		= "38"
+key_down	= "40"
+key_a		= "67"
+key_b		= "88"
+key_c		= "90"
+key_d		= "83"
+key_start	= "13"
+
+;Keyboard bindings for Shang Mu Architect's Editor Mode
+[keyboard_editor_bindings]
+move_left  	= "65"
+move_right 	= "68"
+move_up	  	= "87"
+move_down  	= "83"
+alt_left  	= "37"
+alt_right 	= "39"
+alt_up	  	= "38"
+alt_down  	= "40"
+mode	  	= "16"
+delete	  	= "69"
+put_here	= "32"
+copy	  	= "67"
+layer_up  	= "81"
+layer_down	= "81"
+snap_up	  	= "17"
+snap_down	= "17"
+zoom		= "88"
+pause 		= "13"
+new_tile 	= "9"
+undo		= "90"
+redo		= "89"
+
+;//==============Mouse Bindings==============//
+;0 = Attack
+;2 = Jump
+;3 = Special 1
+;4 = Special 2
+;5 = Pause
+
+;Mouse bindings for Shang Mu Architect's Player Mode
+[mouse_bindings]
+mouse_left			= "0"
+mouse_right			= "2"
+mouse_middle		= "3"
+mouse_scroll_up		= "4"
+mouse_scroll_down	= "5"
+mouse_deadzone_up	 = "0"
+mouse_deadzone_down	 = "0"
+mouse_deadzone_left	 = "0"
+mouse_deadzone_right = "0"
+
+;//==============Xbox/PS4 Bindings==============//
+;//Modern controllers, such as the Xbox 360/Xbox One gamepads
+
+;joy_right 	= Assigns a d-pad direction to right movement
+;joy_up 	= Assigns a d-pad direction to up movement
+;joy_down 	= Assigns a d-pad direction to down movement
+;joy_x		= Assigns an analog axis to left/right movement
+;joy_y		= Assigns an analog axis to up/down movement
+;joy_a      = Assigns a joystick button to attacking
+;joy_b		= Assigns a joystick button to jumping
+;joy_c		= Assigns a joystick button to special
+;joy_start  = Assigns a joystick button to the pause menu.
+
+;===Button Name Constants Reference Table===;
+;To modify these bindings by hand, please refer to this
+;table of numbers that reference their controller buttons
+;gp_face1		Xbox A/PS Cross			= 32769
+;gp_face2       Xbox B/PS Circle	  	= 32770
+;gp_face3       Xbox X/PS Square	  	= 32771
+;gp_face4       Xbox Y/PS Triangle	  	= 32772
+;gp_shoulderl   Xbox LB/PS L1	  		= 32773
+;gp_shoulderr   Xbox RB/PS R1	 		= 32774
+;gp_shoulderlb  Xbox LT/PS L2	  		= 32775
+;gp_shoulderrb  Xbox RT/PS R2	 		= 32776
+;gp_select      Xbox  Back/PS Select	= 32777
+;gp_start       Xbox Start/PS Start		= 32778
+;gp_stickl      Xbox/PS Left Click	  	= 32779
+;gp_stickr      Xbox/PS Right Click	  	= 32780
+;gp_padu        Xbox/PS D-Pad Up	  	= 32781
+;gp_padd        Xbox/PS D-Pad Down	  	= 32782
+;gp_padl        Xbox/PS D-Pad Left	  	= 32783
+;gp_padr        Xbox/PS D-Pad Right	  	= 32784
+;gp_axislh      Xbox/PS Left Hor Axis	= 32785
+;gp_axislv      Xbox/PS Left Ver Axis	= 32786
+;gp_axisrh      Xbox/PS Right Hor Axis	= 32787
+;gp_axisrv      Xbox/PS Right Ver Axis	= 32788
+
+;Joystick bindings for Shang Mu Architect's Player Mode
+[joystick_modern_bindings]
+deadzone  = "0.15"
+joy_left  = "32783"
+joy_right = "32784"
+joy_up	  = "32781"
+joy_down  = "32782"
+joy_x	  = "32785"
+joy_y	  = "32786"
+joy_a	  = "32771"
+joy_b	  = "32769"
+joy_c	  = "32770"
+joy_d	  = "32774"
+joy_start = "32778"
+
+;Joystick bindings specifically for Shang Mu Architect's Editor Mode
+[joystick_modern_editor_bindings]
+sensitivity	= "0.15"
+move_left  	= "32783"
+move_right 	= "32784"
+move_up	  	= "32781"
+move_down  	= "32782"
+move_x	  	= "32785"
+move_y	  	= "32786"
+mode	  	= "32777"
+delete	  	= "32771"
+put_here	= "32769"
+copy	  	= "32770"
+layer_up  	= "32774"
+layer_down	= "32773"
+snap_up	  	= "32776"
+snap_down	= "32776"
+zoom		= "32775"
+pause 		= "32778"
+new_tile 	= "32772"
+undo 		= "32779"
+redo 		= "32780"
+
+;===Player Action Hotkeys Reference Table===;
+;These analog hotkeys allow the player to also have
+;alternative bindings for various actions while in
+;player mode
+;To modify analog hotkeys by hand, please refer to this
+;table of numbers that reference their actions
+
+;1 = Attack
+;2 = Jump
+;3 = Special
+;4 = Pause
+;5 = Move Left
+;6 = Move Right
+;7 = Move Up
+;8 = Move Down
+;9 = Switch Weapon
+
+[joystick_modern_hotkeys]
+enable_hotkeys		= "0"
+left_stick_left 	= "5"
+left_stick_right	= "6"
+left_stick_up		= "7"
+left_stick_down		= "8"
+right_stick_left	= "2"
+right_stick_right	= "3"
+right_stick_up		= "9"
+right_stick_down	= "9"

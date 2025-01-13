@@ -1,0 +1,18 @@
+===============================================================================
+                                  DISCLAIMER                                   
+===============================================================================
+
+This is a fan game created specially for the purpose of reviving the scrapped
+level editor that was originally planned for "Freedom Planet", which is an
+intellectual-property (IP) of GalaxyTrail. It is specialized in simulating
+behavior unique to the characters and world featured in "Freedom Planet", based
+on hundreds of hours of research and observation.
+
+This fan game is in no way endorsed, promoted, connected to, associated with,
+or supported by GalaxyTrail in any shape or form. Please support the official
+games.
+
+Shang Mu Architect is provided to you freely, as-is, without any warranty. By
+using this software, you agree to be solely responsible for the software's
+operation without any expectation of free support or compensation should the
+software malfunction.
