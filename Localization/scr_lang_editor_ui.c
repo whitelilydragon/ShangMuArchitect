@@ -125,6 +125,8 @@ lang_gui[0,122] = "Shang Mu Mall"
 lang_gui[0,123] = "Mall"
 lang_gui[0,124] = "Beihai"
 lang_gui[0,125] = "Jungle"
+lang_gui[0,126] = "Rapids"
+lang_gui[0,127] = "Ship"
 
 //Portuguese
 lang_gui[1,0] = "Mais"
@@ -253,6 +255,8 @@ lang_gui[1,122] = "Shang Mu Mall"
 lang_gui[1,123] = "Mall"
 lang_gui[1,124] = "Beihai"
 lang_gui[1,125] = "Jungle"
+lang_gui[1,126] = "Rapids"
+lang_gui[1,127] = "Ship"
 
 //Polish
 lang_gui[2,0]  = "Plik"
@@ -381,6 +385,8 @@ lang_gui[2,122] = "Galeria Handlowa Shang Mu"
 lang_gui[2,123] = "Galeria"
 lang_gui[2,124] = "Beihai"
 lang_gui[2,125] = "Jungle"
+lang_gui[2,126] = "Rapids"
+lang_gui[2,127] = "Ship"
 
 //Spanish
 lang_gui[3,0]  = "Menú"
@@ -509,6 +515,8 @@ lang_gui[3,122] = "Centro Comercial Shang Mu"
 lang_gui[3,123] = "Centro Comercial"
 lang_gui[3,124] = "Beihai"
 lang_gui[3,125] = "Jungla"
+lang_gui[3,126] = "Rapids"
+lang_gui[3,127] = "Ship"
 
 //German
 lang_gui[4,0]  = "Spiel"
@@ -637,6 +645,8 @@ lang_gui[4,122] = "Shang Mu Mall"
 lang_gui[4,123] = "Mall"
 lang_gui[4,124] = "Beihai"
 lang_gui[4,125] = "Jungle"
+lang_gui[4,126] = "Rapids"
+lang_gui[4,127] = "Ship"
 
 //Russian
 lang_gui[5,0]  = "Файл"
@@ -765,3 +775,5 @@ lang_gui[5,122] = "Торговый Центр Шанг Му"
 lang_gui[5,123] = "Торговый Центр"
 lang_gui[5,124] = "Бэй-Хай"
 lang_gui[5,125] = "Jungle"
+lang_gui[5,126] = "Rapids"
+lang_gui[5,127] = "Ship"
