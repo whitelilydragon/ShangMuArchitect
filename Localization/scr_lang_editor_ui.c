@@ -384,9 +384,9 @@ lang_gui[2,121] = "Rejs Jiang"
 lang_gui[2,122] = "Galeria Handlowa Shang Mu"
 lang_gui[2,123] = "Galeria"
 lang_gui[2,124] = "Beihai"
-lang_gui[2,125] = "Jungle"
-lang_gui[2,126] = "Rapids"
-lang_gui[2,127] = "Ship"
+lang_gui[2,125] = "Dżungla"
+lang_gui[2,126] = "Bystrza"
+lang_gui[2,127] = "Statek"
 
 //Spanish
 lang_gui[3,0]  = "Menú"
