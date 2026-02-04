@@ -11,26 +11,26 @@ o.display_page_six   = 5
 o.display_page_seven = 6
 
 o.display_page_max = 6
-var str_platform_edge   = "Platform Edge";
-var str_platform_floor  = "Platform Floor";
-var str_ship_wall       = "Ship Wall"; 
-var str_ship_ceiling    = "Ship Ceiling";
-var str_ship_corner     = "Ship Corner";
-var str_ship_float      = "Floating Platform";
-var str_gradual_slope   = "Ship Gradual Slope";
-var str_loop_piece      = "Loop Piece";
-var str_ship_ramp       = "Ship Ramp";
-var str_unknown_id      = "Unknown Tile";
-var str_background_wall = "Background Wall";
+var str_platform_edge   = "Platforma - Krawędź";
+var str_platform_floor  = "Platforma - Podłoga";
+var str_ship_wall       = "Statek - Ściana"; 
+var str_ship_ceiling    = "Statek - Sufit";
+var str_ship_corner     = "Statek - Krawędź";
+var str_ship_float      = "Latająca Platforma";
+var str_gradual_slope   = "Statek - Stok";
+var str_loop_piece      = "Część Pętli";
+var str_ship_ramp       = "Statek - Rampa";
+var str_unknown_id      = "Nieznana Płytka";
+var str_background_wall = "Tło";
 
 //Page Descriptions
-o.display_page_description[0] = "Interior 1"
-o.display_page_description[1] = "Interior 2"
-o.display_page_description[2] = "Interior 3"
-o.display_page_description[3] = "Slopes"
-o.display_page_description[4] = "Scenery 1"
-o.display_page_description[5] = "Scenery 2"
-o.display_page_description[6] = "Scenery 3"
+o.display_page_description[0] = "Wnętrze 1"
+o.display_page_description[1] = "Wnętrze 2"
+o.display_page_description[2] = "Wnętrze 3"
+o.display_page_description[3] = "Rampy"
+o.display_page_description[4] = "Sceneria 1"
+o.display_page_description[5] = "Sceneria 2"
+o.display_page_description[6] = "Sceneria 3"
 
 //Tile Descriptions (Page 1)
 o.display_description_item[o.display_page_one,0] = str_platform_edge
@@ -77,15 +77,15 @@ o.display_description_item[o.display_page_two,18] = str_ship_corner+" 10"
 o.display_description_item[o.display_page_two,19] = str_ship_corner+" 11"
 
 //Tile Descriptions (Page 3)
-o.display_description_item[o.display_page_three,0] = "Bridge Edge 1"
-o.display_description_item[o.display_page_three,1] = "Bridge Long Piece"
-o.display_description_item[o.display_page_three,2] = "Bridge Edge 2"
+o.display_description_item[o.display_page_three,0] = "Most - Krawędź 1"
+o.display_description_item[o.display_page_three,1] = "Most - Długi segment"
+o.display_description_item[o.display_page_three,2] = "Most - Krawędź 2"
 o.display_description_item[o.display_page_three,3] = str_ship_float+" 1"
 o.display_description_item[o.display_page_three,4] = str_ship_float+" 2"
 o.display_description_item[o.display_page_three,5] = str_ship_float+" 3"
 o.display_description_item[o.display_page_three,6] = str_ship_float+" 4"
-o.display_description_item[o.display_page_three,7] = "Bridge Support 1"
-o.display_description_item[o.display_page_three,8] = "Bridge Support 2"
+o.display_description_item[o.display_page_three,7] = "Podpora Mostu 1"
+o.display_description_item[o.display_page_three,8] = "Podpora Mostu 2"
 o.display_description_item[o.display_page_three,9] = str_gradual_slope+" 1"
 o.display_description_item[o.display_page_three,10] = str_gradual_slope+" 2"
 o.display_description_item[o.display_page_three,11] = str_loop_piece+" 1"
@@ -120,10 +120,10 @@ o.display_description_item[o.display_page_four,17] = str_ship_float+" 1"
 o.display_description_item[o.display_page_four,18] = str_ship_float+" 2"
 o.display_description_item[o.display_page_four,19] = str_ship_float+" 3"
 
-var str_background_wall = "Background Wall";
-var str_background_wall_rim = "Background Wall Window Rim";
-var str_background_wall_window = "Background Wall Window";
-var str_background_wall_corner = "Background Wall Corner";
+var str_background_wall = "Ściana w Tle";
+var str_background_wall_rim = "Ściana w Tle - Krawędź Okna";
+var str_background_wall_window = "Ściana w Tle - Okno";
+var str_background_wall_corner = "Ściana w Tle - Krawędź";
 
 //Tile Descriptions (Page 5)
 o.display_description_item[o.display_page_five,0] = str_background_wall_corner+" 1"
@@ -170,23 +170,23 @@ o.display_description_item[o.display_page_six,18] = str_background_wall+" 23"
 o.display_description_item[o.display_page_six,19] = str_background_wall+" 24"
 
 //Tile Descriptions (Page 7)
-o.display_description_item[o.display_page_seven,0] = "Operation Chamber"
-o.display_description_item[o.display_page_seven,1] = "Energy Plumbing"
-o.display_description_item[o.display_page_seven,2] = "Biohazard Barrel"
-o.display_description_item[o.display_page_seven,3] = "Manufacturing Arm"
-o.display_description_item[o.display_page_seven,4] = "Fuel Rod"
-o.display_description_item[o.display_page_seven,5] = "The Claw"
-o.display_description_item[o.display_page_seven,6] = "Computer Monitor"
-o.display_description_item[o.display_page_seven,7] = "Flight Monitor"
-o.display_description_item[o.display_page_seven,8] = "Observation Monitor"
-o.display_description_item[o.display_page_seven,9] = "Error Monitor"
-o.display_description_item[o.display_page_seven,10] = "Energized Railing"
-o.display_description_item[o.display_page_seven,11] = "Archeology Monitor"
-o.display_description_item[o.display_page_seven,12] = "Server"
-o.display_description_item[o.display_page_seven,13] = "Servers"
-o.display_description_item[o.display_page_seven,14] = "Plumbing"
-o.display_description_item[o.display_page_seven,15] = "Computer Terminal"
-o.display_description_item[o.display_page_seven,16] = "Energy Panel"
-o.display_description_item[o.display_page_seven,17] = "Electrical Panel 1"
-o.display_description_item[o.display_page_seven,18] = "Electrical Panel 2"
-o.display_description_item[o.display_page_seven,19] = "Electrical Panel 3"
+o.display_description_item[o.display_page_seven,0] = "Komora Operacyjna"
+o.display_description_item[o.display_page_seven,1] = "Okablowanie"
+o.display_description_item[o.display_page_seven,2] = "Odpady Biologiczne"
+o.display_description_item[o.display_page_seven,3] = "Ramię Produkcyjne"
+o.display_description_item[o.display_page_seven,4] = "Pręt Paliwowy"
+o.display_description_item[o.display_page_seven,5] = "Robołapa"
+o.display_description_item[o.display_page_seven,6] = "Monitor Komputerowy"
+o.display_description_item[o.display_page_seven,7] = "Monitor Lotu"
+o.display_description_item[o.display_page_seven,8] = "Monitor Obserwacyjny"
+o.display_description_item[o.display_page_seven,9] = "Monitor z Błędem"
+o.display_description_item[o.display_page_seven,10] = "Szyna pod Napięciem"
+o.display_description_item[o.display_page_seven,11] = "Monitor Archeologiczny"
+o.display_description_item[o.display_page_seven,12] = "Serwer"
+o.display_description_item[o.display_page_seven,13] = "Serwery"
+o.display_description_item[o.display_page_seven,14] = "Hydraulika"
+o.display_description_item[o.display_page_seven,15] = "Terminal Komputerowy"
+o.display_description_item[o.display_page_seven,16] = "Panel Energetyczny"
+o.display_description_item[o.display_page_seven,17] = "Panel Elektryczny 1"
+o.display_description_item[o.display_page_seven,18] = "Panel Elektryczny 2"
+o.display_description_item[o.display_page_seven,19] = "Panel Elektryczny 3"

@@ -7,7 +7,7 @@ o.display_page_description[0] = "Platformy"
 o.display_page_description[1] = "Sceneria"
 
 //Tile Descriptions (Page 1)
-o.display_description_item[o.display_page_one,0] = "Cieńka Ściana"
+o.display_description_item[o.display_page_one,0] = "Cienka Ściana"
 o.display_description_item[o.display_page_one,1] = "Czerwony Dywan"
 o.display_description_item[o.display_page_one,2] = "Duża Ściana"
 o.display_description_item[o.display_page_one,3] = "Trawiasta Podłoga 1"
