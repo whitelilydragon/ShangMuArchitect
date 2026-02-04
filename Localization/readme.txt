@@ -18,6 +18,7 @@ Q: Can I use Visual Studio Code, or another local app, to directly work on the l
 A: Yes, you can! If you are more-than-familiar with GitHub's workflow, as well as your most comfortable IDE of choice, I would also accept push/pull requests.
 
 Q: I am new to using GitHub, where can I ask questions if I am stuck?
-A: GitHub does not have a Direct Message feature (anymore), but our SMA Discord server is available for this purpose, where we all collaborate on the game together. If neither Twitter DMs or Discord is appealing, you may contact me via email!
+A: GitHub does not have a Direct Message feature (anymore), but we do have other options for you to contact me:
 Email Address: velacosmos @ proton.me
+Bluesky: bsky.app / profile / velacosmos . bsky . social
 SMA Discord: https://discord.gg/Z855AHw
