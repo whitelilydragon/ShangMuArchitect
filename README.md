@@ -17,11 +17,11 @@ https://github.com/Leo40Git/SMALauncher
 
 ### Can I report issues related to the fan game's accuracy to Freedom Planet?
 
-We are no longer accepting accuracy-related reports, especially now that Shang Mu Architect is a mix of Freedom Planet 1 and 2's gameplay, with some of its own intentional (and unintentional) improvements to FP's gameplay (Such as making FP1 speedrun tech easier to execute)
+We are no longer accepting accuracy-related reports now that Shang Mu Architect is a mix of Freedom Planet 1 and 2's gameplay, with some intentional improvements (and unintentional) changes to FP's gameplay (Such as making FP1 speedrun tech easier to execute)
 
 ### Why can't I tag my bug reports?
 
-For some reason, only contributors on a GitHub page can label posts, so don't worry about which bug classes your reports fit into! I or another contributor can label them appropriately for you. Just give us the details of the report, and we'll determine its severity/priority!
+Only contributors on a GitHub page can label posts, so don't worry about which bug classes your reports fit into! I or another contributor can label them appropriately for you. Just give us the details of the report, and we'll determine its severity/priority!
 
 ### Can I make a suggestion for the game?
 
@@ -29,7 +29,7 @@ Yes, you can! Simply make an open issue about your suggestion, and then, I will 
 
 https://github.com/whitelilydragon/ShangMuArchitect#accepted-suggestions-are-detailed-here
 
-Please check this to avoid duplicate requests, and perhaps feel validated in that you weren't the first to ask for certain features! The latter may likely mean that the suggested feature is already being worked on!
+Please check this to avoid duplicate requests, and feel validated if you weren't the first to ask for a feature! The latter likely means that the suggested feature is already being worked on!
 
 ### Windows tells me that the "page" is unavailable, or "Your IT Administrator has limited access to some areas of this app", and refuses the launch the fan game
 
@@ -37,27 +37,27 @@ This has been known by our community to trigger because of anti-virus apps, like
 
 ### Windows Smartscreen prevents me from running the game
 
-Click "more" on the prompt, then "run anyway" should appear. This has thus far only happened with installer packages for the game.
+Click "more" on the prompt, then "run anyway" should appear. This has only happened with installer packages for the game.
 
 ### The game is taking a while to launch when I click on it?
 
-This is a known bug with Game Maker Studio 1.4's runner for Game Maker games. Some audio devices or audio setups can cause a delay in games booting up in a more timely manner than 3 to 5 seconds; there is nothing I can do about this on my end, I apologize. On PCs with fewer connected audio devices, (and no hybrid audio systems, such as Intel/RealTek active simultaneously) the game should still load near-instantly, at least.
+This is a known bug with Game Maker Studio 1.4's runner for Game Maker games. Some audio devices or audio setups can cause a delay in games booting up in a more timely manner than 3 to 5 seconds; there is nothing I can do about this on my end, I apologize. On PCs with fewer connected audio devices, (and no hybrid audio systems, such as Intel/RealTek active simultaneously) the game should still load near-instantly.
 
 ### Will there be a Linux-native port?
 
-Despite Studio 1.4's advanced age, one of our contributors has found a way to build the game on Linux. And thus far, it works 1:1 with the Windows counterpart on Ubuntu-based Linux systems! Testing will remain tight-knit until we're sure it's ready for public consumption.
+Despite Studio 1.4's advanced age, one of our contributors has found a way to build the game on Linux. And thus far, it works 1:1 with the Windows counterpart on Ubuntu Linux systems! Testing will remain tight-knit until we're sure it's ready for public consumption.
 
-We appreciate any patience on your part in the meanwhile. For now, Wine and Proton are the most frictionless way to run this project on Linux and Valve's SteamDeck.
+We appreciate any patience on your part in the meanwhile. For now, Proton is the most frictionless way to run this project on Valve's SteamDeck. (Performance on your PC will vary with Wine's performance overhead.)
 
 ### Will there be an Android port? Mac OS and/or M1 Mac ports?
 
-While I do have legally-purchased exporters for some of these platforms, any ports beyond Linux are not in the plans. Game Maker Studio's Android exporter has a difficult history with the OS, and none of us have Macbooks to test prospective Mac ports.
+While I have purchased exporters for some of these platforms, any ports beyond Linux are not in the plans. Game Maker Studio's Android exporter has a difficult history with the OS, and none of us have Macbooks to test prospective Mac ports.
 
-Game Maker Studio not only requires a Macintosh computer to be live on the local network for the compilation process, I would like to assure Mac users that such a port works via thorough testing. I simply can't afford Apple's hardware, even from the aftermarket.
+Game Maker Studio not only requires a Macintosh computer to be live on the local network for the compilation process, I would like to assure Mac users that such a port works via thorough testing. I can't afford Apple's hardware at this time, even from the aftermarket.
 
-An M1 Mac port is also simply not possible with such an old version of Studio, as well. The modern Studio LTS does support M1 Mac computers, but this game is too reliant on 1.4's tile system to be ported easily to modern versions of Game Maker. I won't say an M1 port can't happen; any engineering challenge is surmountable with time and effort.
+An M1 Mac port is also not possible with such an old version of Studio. The modern Studio LTS does support M1 Mac computers, but this game is reliant on 1.4's legacy tile system, which complicates porting to modern versions of Game Maker. I won't say an M1 port can't happen; any engineering challenge is surmountable with time and effort.
 
-But for now, the challenge is beyond our available time and budget. Perhaps you could be the difference if you're an Apple developer and love Freedom Planet as much as we do? Contributors are always welcome!
+For now, the challenge is beyond our available time and budget. You could be the difference, if you're an Apple developer and love Freedom Planet as much as we do. Contributors are always welcome!
 
 **Bug Classes**
 ---------------
