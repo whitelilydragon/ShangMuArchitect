@@ -33,11 +33,11 @@ Please check this to avoid duplicate requests, and feel validated if you weren't
 
 ### Windows tells me that the "page" is unavailable, or "Your IT Administrator has limited access to some areas of this app", and refuses the launch the fan game
 
-This has been known by our community to trigger because of anti-virus apps, like AVG. You can create an exception for the game's directory from within your anti-virus's control panel, which will allow the fan game to run without these messages appearing.
+This has been known by our community to trigger because of anti-virus apps, like AVG. You can create an exception for the game's directory in your anti-virus's control panel. This allows the game to run without these messages appearing.
 
 ### Windows Smartscreen prevents me from running the game
 
-Click "more" on the prompt, then "run anyway" should appear. This has only happened with installer packages for the game.
+Click "more" on the prompt, then "run anyway" should appear. This has only happened with installer packages for the game. (Which are not supported at this time.)
 
 ### The game is taking a while to launch when I click on it?
 
