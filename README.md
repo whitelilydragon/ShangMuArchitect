@@ -74,7 +74,7 @@ Class B)
 Class C)
   Collision issues, such as clipping through floors or walls
   Graphical user interface problems
-  Enemies misbehave
+  Enemies, bosses, or gimmicks misbehave
 Class D)
   This bug may be seen as a minor nuisance, such as sound mastering issues
   A combat move is imbalanced
