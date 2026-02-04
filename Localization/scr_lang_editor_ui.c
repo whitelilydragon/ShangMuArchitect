@@ -130,6 +130,8 @@ lang_gui[0,127] = "Ship"
 lang_gui[0,128] = "Dreadnaught"
 lang_gui[0,129] = "Pangu Lagoon"
 lang_gui[0,130] = "Deadzone"
+lang_gui[0,131] = "Stage Music"
+lang_gui[0,132] = "Dragon Valley"
 
 //Portuguese
 lang_gui[1,0] = "Mais"
@@ -263,6 +265,8 @@ lang_gui[1,127] = "Ship"
 lang_gui[1,128] = "Dreadnaught"
 lang_gui[1,129] = "Pangu Lagoon"
 lang_gui[1,130] = "Deadzone"
+lang_gui[1,131] = "Stage Music"
+lang_gui[1,132] = "Dragon Valley"
 
 //Polish
 lang_gui[2,0]  = "Plik"
@@ -396,6 +400,8 @@ lang_gui[2,127] = "Statek"
 lang_gui[2,128] = "Dreadnaught"
 lang_gui[2,129] = "Laguna Pangu"
 lang_gui[2,130] = "Deadzone"
+lang_gui[2,131] = "Stage Music"
+lang_gui[2,132] = "Dragon Valley"
 
 //Spanish
 lang_gui[3,0]  = "Menú"
@@ -529,6 +535,8 @@ lang_gui[3,127] = "Ship"
 lang_gui[3,128] = "Dreadnaught"
 lang_gui[3,129] = "Pangu Lagoon"
 lang_gui[3,130] = "Deadzone"
+lang_gui[3,131] = "Stage Music"
+lang_gui[3,132] = "Dragon Valley"
 
 //German
 lang_gui[4,0]  = "Spiel"
@@ -662,6 +670,8 @@ lang_gui[4,127] = "Ship"
 lang_gui[4,128] = "Dreadnaught"
 lang_gui[4,129] = "Pangu Lagoon"
 lang_gui[4,130] = "Deadzone"
+lang_gui[4,131] = "Stage Music"
+lang_gui[4,132] = "Dragon Valley"
 
 //Russian
 lang_gui[5,0]  = "Файл"
@@ -795,3 +805,5 @@ lang_gui[5,127] = "Корабль"
 lang_gui[5,128] = "Dreadnaught"
 lang_gui[5,129] = "Pangu Lagoon"
 lang_gui[5,130] = "Deadzone"
+lang_gui[5,131] = "Stage Music"
+lang_gui[5,132] = "Dragon Valley"
