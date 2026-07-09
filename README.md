@@ -1,4 +1,4 @@
-# Freedom Planet: Shang Mu Architect
+# Freedom Planet Architect
 
 Release downloads, issue tracker, translation project, and suggestions page for the Freedom Planet fan game, Shang Mu Architect
 
@@ -15,9 +15,13 @@ https://github.com/Leo40Git/SMALauncher
 
 # Frequently Asked Questions
 
+### Where is Shang Mu Architect?
+
+It's all the same game, now rebranded to unify the name of the campaign (Academy) and the editor (Shang Mu Architect). Now the project is simply called "Freedom Planet Architect", further emphasizing the setting of the game, where the world of Avalice is rebuilding after its recent alien invasion. This premise has an overarching influence on the campaign's story.
+
 ### Can I report issues related to the fan game's accuracy to Freedom Planet?
 
-We are no longer accepting accuracy-related reports now that Shang Mu Architect is a mix of Freedom Planet 1 and 2's gameplay, with some intentional improvements (and unintentional) changes to FP's gameplay (Such as making FP1 speedrun tech easier to execute)
+We are no longer accepting accuracy-related reports now that Freedom Planet Architect is a mix of Freedom Planet 1 and 2's gameplay, with some intentional improvements (and unintentional) changes to FP's gameplay (Such as making FP1 speedrun tech easier to execute)
 
 ### Why can't I tag my bug reports?
 
