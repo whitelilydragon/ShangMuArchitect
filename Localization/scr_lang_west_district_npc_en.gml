@@ -1,0 +1,170 @@
+//For calling in Story Mode object only, call BEFORE NPC spawn scripts
+//Language Array; 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
+var lang_num = 0;
+//West District NPCs 1
+lang_npc[lang_num,0]  = "Ye! Them critters were rough ta take anywhere!"     //Clyde
+lang_npc[lang_num,1]  = "Them's why ah ain't got teeth worth a count, ha!"   //Clyde
+lang_npc[lang_num,2]  = "Of t'all tha pleasures of home, I missed trains!"   //Bucky
+lang_npc[lang_num,3]  = "Takes me back to mah emu wrestlin' days!"           //Bucky
+lang_npc[lang_num,4]  = "I'm sowwy, #Chiasa! I was #hungy!"                  //Marshmallow
+lang_npc[lang_num,5]  = "I'll share with #you!"                              //Marshmallow
+lang_npc[lang_num,6]  = "I don't understand... where did everyone go?"       //Candy
+lang_npc[lang_num,7]  = "Well, in case you haven't noticed!"                 //Allister
+lang_npc[lang_num,8]  = "A *tank* is rolling through town right now!"        //Allister
+lang_npc[lang_num,9]  = "What are we #waiting for?! #ACTION'S afoot!"        //Jett
+lang_npc[lang_num,10] = "Did they *really* have to put up a brick wall?"     //Trip
+lang_npc[lang_num,11] = "Grr..."                                             //Axl
+lang_npc[lang_num,12] = "That tank already destroyed the East bridge!"       //Lilac
+lang_npc[lang_num,13] = "We can't stand idly by..."                          //Lilac
+lang_npc[lang_num,14] = "I wanted a bite to eat before we ran off, but..."   //Carol
+lang_npc[lang_num,15] = "Those noises over there...I'm good now!"            //Carol
+lang_npc[lang_num,16] = "*disgusting raccoon noises*"                        //Trash Can
+lang_npc[lang_num,17] = "Hey kid! Lemme eat a prime muffler in peace!"       //Trash Can
+lang_npc[lang_num,18] = "This lady's snacks are weird! I bit into one..."    //Libbie Dark
+lang_npc[lang_num,19] = "And a tiny rain cloud appeared over my head!"       //Libbie Dark
+lang_npc[lang_num,20] = "Who says you can't buy a second lunch?"             //Tiwi
+lang_npc[lang_num,21] = "Who is in the mood for fresh plantain patties?"     //Harige
+lang_npc[lang_num,22] = "It's quite the staple in Parusa!"                   //Harige
+lang_npc[lang_num,23] = "I have *many* questions about this guy's food!"     //Astum
+lang_npc[lang_num,24] = "Fish fingers? Hotdog salad? Sourdough burritos?!"   //Astum
+lang_npc[lang_num,25] = "I feel so lost! I should ask for directions."       //Leela
+lang_npc[lang_num,26] = "But I don't want to talk to PEOPLE! Ugh!"           //Leela
+
+//West District NPCs 2
+lang_npc[lang_num,27] = "It's been a long #day, I'm almost #ready to go."    //Harige
+lang_npc[lang_num,28] = "Any last minute #customers?"                        //Harige
+lang_npc[lang_num,29] = "Yeah... I overdid #it with the ice #cream.."        //Shy
+lang_npc[lang_num,30] = "Maybe some real #food will help me #feel better?"   //Shy
+lang_npc[lang_num,31] = "Not sure about #Milla's new #potion!"               //Carol
+lang_npc[lang_num,32] = "I picked one up #and it blew out #the windows!"     //Carol
+lang_npc[lang_num,33] = "Phew! This should #be a safe place #to nap..."      //
+lang_npc[lang_num,34] = "This city is #exhausting to #explore!"              //
+lang_npc[lang_num,35] = "Visiting the city #was pretty fun! #Glad I went."   //Iris
+lang_npc[lang_num,36] = "I even got to #see girls #fighting tanks!"          //Iris
+lang_npc[lang_num,37] = "This place'll be #closin' soon, but #I don't mind." //Azuli
+lang_npc[lang_num,38] = "One more peek at #this view is all I #need!"        //Azuli
+lang_npc[lang_num,39] = "That's the last #time I leave the #bazooka at home" //Rhyme
+lang_npc[lang_num,40] = "Boy, am I glad #that tank is #gone!"                //Rhyme
+lang_npc[lang_num,41] = "Yun's might be #wonderin' how I'm #breathin'!"      //Bucky
+lang_npc[lang_num,42] = "Simple, ah don't! #Water's for #quitters! Hyuck!"   //Bucky
+lang_npc[lang_num,43] = "*Sigh* I wish I #knew another #way home..."         //Trip
+lang_npc[lang_num,44] = "This city's not been# the same since the war."      //Trip
+lang_npc[lang_num,45] = "Ya sure you #wanna go back #there, kid?"            //Clyde
+lang_npc[lang_num,46] = "Downtown's all #tore up with #tank treads"          //Clyde
+lang_npc[lang_num,47] = "Why are we here? #The Bouncer's on #east side!"     //Lilac
+lang_npc[lang_num,48] = "This part of #town is safe now!"                    //Lilac
+lang_npc[lang_num,49] = "That can is so #creepy!"                            //Chiasa
+lang_npc[lang_num,50] = "It tried to eat #my scooter's #lights!"             //Chiasa
+lang_npc[lang_num,51] = "Yuck! Headlights #don't taste like #they used to!!" //Trash Can
+lang_npc[lang_num,52] = "I smell a lead #for a new job #soon..."             //
+lang_npc[lang_num,53] = "Lots of incident #reports in the #sewers lately."   //
+lang_npc[lang_num,54] = "I want in on the #trouble brewing #on East side!"   //Jett
+lang_npc[lang_num,55] = "Well, *I* am #going to feed #the gulls myself!"     //Astum
+lang_npc[lang_num,56] = "What's so bad #about 'em #anyway?!"                 //Astum
+lang_npc[lang_num,57] = "OH BOY OH BOY, #even the trash #smells good here!"  //Marshmallow
+
+//West District NPCs 3
+lang_npc[lang_num,58] = "Something in the #trash can tried #to eat my hair!" //Lilac
+lang_npc[lang_num,59] = "Mmm! Tasted like #barbed wire and #motor oil!"      //Trash can
+lang_npc[lang_num,60] = "I'm trying to #clean up after #Jett's graffiti!"    //Marshmallow
+lang_npc[lang_num,61] = "She drew our #mayor as a #bowling pin!"             //Marshmallow
+lang_npc[lang_num,62] = "Well, it's time to #get going!"                     //Garrett
+lang_npc[lang_num,63] = "The bus sure is #taking its sweet #time!"           //Abby
+lang_npc[lang_num,64] = "Did the monster #eat the bus #too?!"                //Abby
+lang_npc[lang_num,65] = "Don't be silly, #Abby!"                             //Alexis
+lang_npc[lang_num,66] = "Wait..."                                            //Alexis
+lang_npc[lang_num,67] = "Oh, dear! I just #told my daughter #she's adopted!" //Vela
+lang_npc[lang_num,68] = "Her curiosity #got the better #of her..."           //Vela
+lang_npc[lang_num,69] = "*Cat.exe has #stopped #functioning*"                //Chiasa
+lang_npc[lang_num,70] = "Feeding the #seagulls is so #much fun!"             //Astum
+lang_npc[lang_num,71] = "I'm making many #birdy friends!"                    //Astum
+lang_npc[lang_num,72] = "I'm sorry if I'm #not at my stand #right now!"      //Milla
+lang_npc[lang_num,73] = "I was hungy!"                                       //Milla
+lang_npc[lang_num,74] = "I draw paths for #low-earth orbit! #(LEO)"          //Leo
+lang_npc[lang_num,75] = "But here I am #displaying a menu #for junk food!"   //Leo
+lang_npc[lang_num,76] = "Put another lolly #wrapper in me, #girly!"          //Cook
+lang_npc[lang_num,77] = "I'll show you who's# trash!"                        //Cook
+lang_npc[lang_num,78] = "Put another drink# cup in me, boy!"                 //Cook
+lang_npc[lang_num,79] = "It's still #closed?"                                //Azuli
+lang_npc[lang_num,80] = "Walking to my #side job was fun #last night!"       //Cassandre
+lang_npc[lang_num,81] = "Sorry boss, a #frog ate my car' #did NOT go well"   //Cassandre
+lang_npc[lang_num,82] = "Fresh plantains #and clam chowder #soup!"           //Harige
+lang_npc[lang_num,83] = "I specialize in #side dishes from #Purusa!"         //Harige
+lang_npc[lang_num,84] = "You know, I don't #think I ever #went to Purusa."   //Carol
+lang_npc[lang_num,85] = "But their food #sure smells good!"                  //Carol
+lang_npc[lang_num,86] = "I think I like #Milla's potatoes #more!"            //Carrie
+lang_npc[lang_num,87] = "My last potion #set a dumpster #on fire!"           //Carrie
+
+//West District NPCs 4
+lang_npc[lang_num,88]  = "That can is lucky #he's out of my #jurisdiction!"   //Bird Guard
+lang_npc[lang_num,89]  = "He ate a whole #bicycle..."                         //Bird Guard
+lang_npc[lang_num,90]  = "Ehehehehehehe..."                                   //Trash Can
+lang_npc[lang_num,91]  = "Psst! Hey, kid! #You want turnip #stocks?"          //Boss
+lang_npc[lang_num,92]  = "Not chicken, are #ya?"                              //Boss
+lang_npc[lang_num,93]  = "That was some #big news on the #TV last night!"     //Axl
+lang_npc[lang_num,94]  = "You do pretty #good, kid!"                          //Axl
+lang_npc[lang_num,95]  = "Siopaos are sooo #good..."                          //Carrie
+lang_npc[lang_num,96]  = "I missed all the #fun last night!"                  //Rhyme
+lang_npc[lang_num,97]  = "I'm so jealous..."                                  //Rhyme
+lang_npc[lang_num,98]  = "Can you order me #a cheeseburger, #Milla?"          //Stumpy
+lang_npc[lang_num,99]  = "That was a good #lunch break. #Right back to it!"   //Beibo
+lang_npc[lang_num,100] = "Ice cream ice #cream, I scream #for ice cream!"     //Milla
+lang_npc[lang_num,101] = "AAAAAAAAAAAAA#AAAAAAAAAAAAA#AAAAAAAAAAAAA"          //Milla
+lang_npc[lang_num,102] = "Look at her! I #think she's #eating the bowl!"      //Carol
+lang_npc[lang_num,103] = "I love and hate #how topsy-turvy #this city is."      //Kusei
+lang_npc[lang_num,104] = "Boring 3 months, #way too exciting #for 3 minutes..." //Kusei
+lang_npc[lang_num,105] = "You should try #Shuigang! Never #a boring day, aha"   //Millie
+lang_npc[lang_num,106] = "Ahaha..."                                             //Millie
+lang_npc[lang_num,107] = "Not everyday #your HR office is #eaten by a toad."    //Guage
+lang_npc[lang_num,108] = "Welcome to Zao's #Ice Cream #Parlor!"                 //Leo
+lang_npc[lang_num,109] = "And no, we're out #of strawberries #today, sorry!"    //Leo
+lang_npc[lang_num,110] = "Hey kid, wanna #1v1 at the #arcade?"                  //Flavio
+lang_npc[lang_num,111] = "Bet you can't #beat my high #score at Sumo F1!"       //Flavio
+
+//West District NPCs 5
+lang_npc[lang_num,112] = "Why did nobody #tell me that can #was sentient!"      //Flavio
+lang_npc[lang_num,113] = "It ate my #GameBee..."                                //Flavio
+lang_npc[lang_num,114] = "Scram kid! #This is MY scrap!"                        //Trash Can
+lang_npc[lang_num,115] = "Mmm! Bet your #hair would taste #good deep-fried!"    //Trash Can
+lang_npc[lang_num,116] = "*evil racoon #chewing noises*"                        //Trash Can
+lang_npc[lang_num,117] = "Ugh... Guess I #gotta take the #clown bike again."    //Mirdin
+lang_npc[lang_num,118] = "*honk honk*"                                          //Mirdin
+lang_npc[lang_num,119] = "Still not up for #those turnip #stocks, huh?"         //Boss
+lang_npc[lang_num,120] = "Ya gotta ride #this peak, kid! #It's free lunch."     //Boss
+lang_npc[lang_num,121] = "Hmm, somebody #keeps smashing #up my car..."          //Garrett
+lang_npc[lang_num,122] = "oi, Milla! Me wan #hotcat on a bun, #please, hehe!"   //Pummpy
+lang_npc[lang_num,123] = "Dad can we get #seconds?! This is #AWESOME!!!"        //Zeia
+lang_npc[lang_num,124] = "Heh, what am I #going to do with #you, Zeia?"         //Guage
+lang_npc[lang_num,125] = "Mornin', kids! #School let out #already?"             //Millie
+lang_npc[lang_num,126] = "We still need to #check out #Wuzhen Temple..."        //Lilac
+lang_npc[lang_num,127] = "Milla, I want to #see the #mountain!"                 //Stumpy
+lang_npc[lang_num,128] = "I'll take five #plaintains, #pretty please!"          //Tiwi
+lang_npc[lang_num,129] = "Heh, you're keeping #Tri-Kingdom News busy!"          //Axl
+
+//West District NPCs 6
+lang_npc[lang_num,130] = "'ey Candy, it'd be #fun to steal this #in broad daylight" //Umi
+lang_npc[lang_num,131] = "You can never #have too many #stop signs!"                //Umi
+lang_npc[lang_num,132] = "Umi, don't you #commit enough #crimes?!"                  //Candy
+lang_npc[lang_num,133] = "I'm taking this #creature with #me!"                      //Neera
+lang_npc[lang_num,134] = "He's wanted in #all four kingdoms!"                       //Neera
+lang_npc[lang_num,135] = "*evil raccoon #sadness*"                                  //Trash Can
+lang_npc[lang_num,136] = "I think I got #lost already... #Hmm."                     //Tanner
+lang_npc[lang_num,137] = "oi, Milla! Me wan #hotcat on a bun, #please, hehe!"       //Pummpy
+lang_npc[lang_num,138] = "Mornin', kids! #Enjoying the weekend?"                    //Millie
+lang_npc[lang_num,139] = "Milla, I want to #see the #beach!"                        //Milla
+
+//West District NPCs 7
+lang_npc[lang_num,140] = "Okay, fine, I #won't steal the #stop sign!"               //Umi
+lang_npc[lang_num,141] = "I guess our #shack IS getting #kinda crowded..."          //Umi
+lang_npc[lang_num,142] = "Now that's more #like it! Let's go #home, Umi."           //Candy
+lang_npc[lang_num,143] = "oi, Milla! Me wan #humboiger, #please, hehe!"             //Pumppy
+lang_npc[lang_num,144] = "Mmm! This ice #cream is the #best in town!"               //Marshmallow
+lang_npc[lang_num,145] = "I want seconds!"                                          //Marshmallow
+lang_npc[lang_num,146] = "Oh, my dear... You #bring me true #contentment."          //Bird Guard (Female)
+lang_npc[lang_num,147] = "Weh"                                                      //Bird Guard (Male)
+lang_npc[lang_num,148] = "Ooh! I love #plantains! I'll #take three."                //
+lang_npc[lang_num,149] = "Oh... That's why #you don't feed #the seagulls..."        //Astum
+lang_npc[lang_num,150] = "They pecked at #my knees for #HOURS!!! OW!!!"             //Astum
+lang_npc[lang_num,151] = "Not nearly #enough!"                                      //Abby
+lang_npc[lang_num,152] = "Did we annoy the #babysitter #enough?!"                   //Alexis
+
