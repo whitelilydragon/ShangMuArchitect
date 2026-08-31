@@ -898,4 +898,4 @@ lang_gui_desc[lang_num,441] = "Ten obiekt pozwala Pixel opętać (wspieranych) p
 lang_gui_name[lang_num,442] = "Tawny"
 lang_gui_desc[lang_num,442] = ""
 lang_gui_name[lang_num,443] = "Ciel"
-lang_gui_desc[lang_num,443] = ""
+lang_gui_desc[lang_num,443] = "Ciel to rozmowna nietoperzyca, która lubi dzielić się swoimi zainteresowaniami ze znajomymi. Po spędzeniu całości Shuigańskiej nocy polarnej w pracy, Ciel spędza lato na wakacjach z nadzieją uniknięcia nieoczekiwanych przygód."
