@@ -41,7 +41,7 @@ This has been known by our community to trigger because of anti-virus apps, like
 
 ### Is AI used in this game project?
 
-No AI is used in Freedom Planet Architect, because we are not clowns. Reasons why we don't use or allow AI for this project can be found here:
+No AI is used in Freedom Planet Architect, because we are not lazy people who hate working. Reasons why we don't use or allow AI for this project can be found here:
 https://github.com/whitelilydragon/ShangMuArchitect?tab=contributing-ov-file
 
 ### Windows Smartscreen prevents me from running the game
