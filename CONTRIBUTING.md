@@ -6,7 +6,7 @@ Formally speaking, AI-generated code is based on sources of unknown origins and 
 
 In addition to these coding inabilities of AI, it has no artistic reasoning. AI emphasizes flashy polish and excessive detail-work over fundamentals, (to mask its lacking fundamentals) which leads to art that is only average in quality or worse. An intermediate art hobbyist can see this as well as any professional.
 
-AI is a data science machine, while art is not a math equation to be "solved". The artist's journey of self-improvement deepens creativity, inspiration, and technique, which leads to stronger ideas worth expressing in the form of art and music.
+AI is a data science machine, while art is not a science or a math equation to be "solved". The artist's journey of self-improvement deepens creativity, inspiration, and technique, which leads to stronger ideas worth expressing in the form of art and music.
 
 Armchair game developers using AI willfully choose not to understand this outwardly. It would be an admission that, by skipping the artist's journey, their visual imagination is lacking and so are their ideas, in all faculties of inspiration. This gross, uninformed attitude is not allowed in Freedom Planet Architect's development.
 
