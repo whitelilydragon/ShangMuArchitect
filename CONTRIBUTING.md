@@ -4,7 +4,7 @@ AI is not allowed for generating code, art, music, sound effects, translations (
 
 Formally speaking, AI-generated code is based on sources of unknown origins and may not be compatible with the license of the project. Furthermore, it has never shown to understand the reason behind the issues that users may encounter. It has always come up with incorrect solutions that lead to performance regressions and unmaintainable code.
 
-In addition to these coding inabilities of AI, it has no artistic reasoning. AI emphasizes flashy polish and excessive detail-work over fundamentals, (to mask its lacking fundamentals) which leads to art that is only average in quality or worse. An intermediate art hobbyist can see this as well as any professional.
+In addition to these coding inabilities of AI, it has no artistic reasoning. AI emphasizes flashy polish and excessive detail-work over fundamentals, (to mask its lacking fundamentals) which leads to art that is only average in quality or worse. This is in spite of AI crawling the entire Internet for "training data". An intermediate art hobbyist can see this as well as any professional.
 
 AI is a data science machine, while art is not a science or a math equation to be "solved". The artist's journey of self-improvement deepens creativity, inspiration, and technique, which leads to stronger ideas worth expressing in the form of art and music.
 
