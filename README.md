@@ -39,6 +39,11 @@ Please check this to avoid duplicate requests, and feel validated if you weren't
 
 This has been known by our community to trigger because of anti-virus apps, like AVG. You can create an exception for the game's directory in your anti-virus's control panel. This allows the game to run without these messages appearing.
 
+### Is AI used in this game project?
+
+No AI is used in Freedom Planet Architect, because we are not clowns. Reasons why we don't use or allow AI for this project can be found here:
+https://github.com/whitelilydragon/ShangMuArchitect?tab=contributing-ov-file
+
 ### Windows Smartscreen prevents me from running the game
 
 Click "more" on the prompt, then "run anyway" should appear. This has only happened with installer packages for the game. (Which are not supported at this time.)
