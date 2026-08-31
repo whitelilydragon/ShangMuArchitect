@@ -8,7 +8,7 @@ In addition to these coding inabilities of AI, it has no artistic reasoning. AI 
 
 AI is a data science machine, while art is not a math equation to be "solved". The artist's journey of self-improvement deepens creativity, inspiration, and technique, which leads to stronger ideas worth expressing in the form of art and music.
 
-Armchair game developers willfully choose not to understand this outwardly. It would be an admission that, by skipping the artist's journey, their visual imagination is lacking and so are their ideas, in all faculties of inspiration. This gross, uninformed attitude is not allowed in Freedom Planet Architect's development.
+Armchair game developers using AI willfully choose not to understand this outwardly. It would be an admission that, by skipping the artist's journey, their visual imagination is lacking and so are their ideas, in all faculties of inspiration. This gross, uninformed attitude is not allowed in Freedom Planet Architect's development.
 
 (CONTRIBUTING.md based in part on Zelda64recomp project's.)
 
