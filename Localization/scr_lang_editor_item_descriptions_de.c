@@ -901,4 +901,4 @@ lang_gui_desc[lang_num,441] = "This version of the Pixel drone can be used to po
 lang_gui_name[lang_num,442] = "Tawny"
 lang_gui_desc[lang_num,442] = ""
 lang_gui_name[lang_num,443] = "Ciel"
-lang_gui_desc[lang_num,443] = ""
+lang_gui_desc[lang_num,443] = "Ciel is a chatty bat who tends to stay out of trouble's way. After spending Shuigang's long polar night at work, she's taking a long deserved vacation time. She loves talking about her interests to anyone she considers a friend."
