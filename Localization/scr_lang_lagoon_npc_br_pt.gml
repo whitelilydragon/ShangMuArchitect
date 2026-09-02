@@ -2,9 +2,9 @@
 //Language Array; 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
 var lang_num = 1;
 //Liyu Lagoon NPCs 1
-lang_npc[lang_num,0]  = "Diversifying my #child's diet is #proving difficult"           //Vela
-lang_npc[lang_num,1]  = "She jumped 30m #when I showed #her a hotdog..."                //Vela
-lang_npc[lang_num,2]  = "Don't worry, it's #not for a prank #or anything..."            //Vivid
+lang_npc[lang_num,0]  = "Diversificar a dieta da #minha filha está #provando ser difícil" //Vela
+lang_npc[lang_num,1]  = "Ela pulou 30m #Quando eu mostrei a ela #um hotdog..."          //Vela
+lang_npc[lang_num,2]  = "Não se preocupe, não é #para alguma pegadinha #ou coisa do tipo..." //Vivid
 lang_npc[lang_num,3]  = "What's a great #way to attract #seagulls?"                     //Vivid
 lang_npc[lang_num,4]  = "I'm so jealous #of this tree, #Milla!*"                        //Stumpy
 lang_npc[lang_num,5]  = "*They got a big #head with fruit!*"                            //Stumpy
