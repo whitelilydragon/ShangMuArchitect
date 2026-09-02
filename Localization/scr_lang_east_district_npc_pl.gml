@@ -84,5 +84,5 @@ lang_npc[lang_num,70] = "W sklepie #z kanapkami!"                               
 lang_npc[lang_num,71] = "Tak! Nadal tu siedzę!"                                 //Bucky
 lang_npc[lang_num,72] = "Czekam aż #Clyde znajdzie jakiego #majstra!"           //Bucky
 lang_npc[lang_num,73] = "Był tam ogromny #rekin i nikt mi o tym #nie powiedział?"      //Maika
-lang_npc[lang_num,73] = "Ehhh. Nie wierzę #że Shy tam #wlazła!"           //Ryusei
-lang_npc[lang_num,74] = "Nie wygadaj #nikomu że #planuję iść za nią."            //Ryusei
+lang_npc[lang_num,74] = "Ehhh. Nie wierzę #że Shy tam #wlazła!"           //Ryusei
+lang_npc[lang_num,75] = "Nie wygadaj #nikomu że #planuję iść za nią."            //Ryusei
