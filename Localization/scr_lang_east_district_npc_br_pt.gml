@@ -26,7 +26,7 @@ lang_npc[lang_num,20] = "Eu tô perdida! #Não sei achar #nosso apartmento!"   /
 
 //East District NPCs 2
 lang_npc[lang_num,21] = "Não tinha #nenhum fantasma #nos egostos!"           //Jett
-lang_npc[lang_num,22] = "Só um sapo #chato e enorme! Ugh!                    //Jett
+lang_npc[lang_num,22] = "Só um sapo #chato e enorme! Ugh!"                  //Jett
 lang_npc[lang_num,23] = "Espero que ele #não importe se #eu mecher um pouco."//Carol
 lang_npc[lang_num,24] = "Vou jogar uma #partidinha de #Fist of Frog!"        //Carol
 lang_npc[lang_num,25] = "Parece que# quem dorme, perde# por aqui!"           //Marshmallow
