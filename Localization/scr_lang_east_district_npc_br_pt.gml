@@ -26,7 +26,7 @@ lang_npc[lang_num,20] = "Eu tô perdida! #Não sei achar #nosso apartmento!"   /
 
 //East District NPCs 2
 lang_npc[lang_num,21] = "Não tinha #nenhum fantasma #nos egostos!"           //Jett
-lang_npc[lang_num,22] = "Só um sapo #chato e enorme! Ugh!"                  //Jett
+lang_npc[lang_num,22] = "Só um sapo #chato e enorme! Ugh!"                   //Jett
 lang_npc[lang_num,23] = "Espero que ele #não importe se #eu mecher um pouco."//Carol
 lang_npc[lang_num,24] = "Vou jogar uma #partidinha de #Fist of Frog!"        //Carol
 lang_npc[lang_num,25] = "Parece que# quem dorme, perde# por aqui!"           //Marshmallow
@@ -42,7 +42,7 @@ lang_npc[lang_num,34] = "Eu quero ver a #lua em mais #detalhes!"             //A
 lang_npc[lang_num,35] = "Eu nem consegui #dormir ontem! #Ugh!"               //Libbie
 lang_npc[lang_num,36] = "E eu tenho que #ir trabalhar assim!"                //Libbie
 lang_npc[lang_num,37] = "Umi, você vai #assustar todos #com essa cara!"      //Candy
-lang_npc[lang_num,38] = "Todos? Só vou assustar #os fantasmas #Mwahaha!"     //Umi
+lang_npc[lang_num,38] = "Todos? Só vou assustar #os fantasmas! #Mwahaha!"    //Umi
 
 //East District NPCs 3
 lang_npc[lang_num,39] = "That rascally #varmint got #away!"                   //Bucky
