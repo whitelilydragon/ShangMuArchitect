@@ -2,27 +2,27 @@
 //Language Array; 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
 var lang_num = 1;
 //East District NPCs 1
-lang_npc[lang_num,0]  = "Hello! Would you #mind filling out a #survey?"      //Maria
-lang_npc[lang_num,1]  = "We're running a #poll for Proposal #33!"            //Maria
-lang_npc[lang_num,2]  = "Do you feel the #eery wind coming #from the sewer?" //Jett
-lang_npc[lang_num,3]  = "Ghosts or not, #they're about to #be afraid of ME!" //Jett
-lang_npc[lang_num,4]  = "I'm not sure #what to smell #first here!"           //Marshmallow
-lang_npc[lang_num,5]  = "Or test the #structural #integrity of!!!"           //Marshmallow
-lang_npc[lang_num,6]  = "That tank's #lucky I was on #East side!"            //Maria
-lang_npc[lang_num,7]  = "I could've sent #it to space in 10 #seconds flat!"  //Maria
-lang_npc[lang_num,8]  = "I have trust #issues with #trash cans now!"         //Ryusei
-lang_npc[lang_num,9]  = "Do YOU have a #knife on you #too? HUH?!?!?!"        //Ryusei
-lang_npc[lang_num,10] = "Where's all the #action? Not even #a bike shop?!"  //Tsuki
-lang_npc[lang_num,11] = "This side of town #is lame!"                       //Tsuki
-lang_npc[lang_num,12] = "'Don't feed the #gulls?'"                          //Astum
-lang_npc[lang_num,13] = "It's so obvious! #Who needs to be #told?"          //Astum
-lang_npc[lang_num,14] = "Oh! The tide is #lovely tonight!"                  //Ness
-lang_npc[lang_num,15] = "You can't see #the pain behind #this glass wall."  //Leo
-lang_npc[lang_num,16] = "Oh? A game of #checkers? Okay"                     //Leo
-lang_npc[lang_num,17] = "Oh, hey! The new #kid at the #academy. Wait..."    //Allister
-lang_npc[lang_num,18] = "I didn't lock the #front door #again, didn't I?"   //Allister
-lang_npc[lang_num,19] = "I'm calling big #sis to come get #me!"             //Libbie Dark
-lang_npc[lang_num,20] = "I'm so lost! I #can't find our #apartment!"        //Libbie Dark
+lang_npc[lang_num,0]  = "Boa noite! Se importa #de fazer uma #pesquisa?"     //Maria
+lang_npc[lang_num,1]  = "Estamos com uma #votação sobre a Proposta #33!"     //Maria
+lang_npc[lang_num,2]  = "Tá sentindo um #vento estranho vindo #do esgoto?"   //Jett
+lang_npc[lang_num,3]  = "Fantasma ou não, #eles vão sentir #medo de MIM!"    //Jett
+lang_npc[lang_num,4]  = "Eu não sei #que cheiro sentir #primeiro!"           //Marshmallow
+lang_npc[lang_num,5]  = "Ou do que testar a #integridade #estrutural!!!"     //Marshmallow
+lang_npc[lang_num,6]  = "Esse tanque #Teve sorte que #eu tava na ala Oeste!" //Maika
+lang_npc[lang_num,7]  = "Eu poderia #mandar ele pros ares em #10 segundos!"  //Maika
+lang_npc[lang_num,8]  = "Eu estou com #problemas em confiar #em lixeiras!"   //Ryusei
+lang_npc[lang_num,9]  = "VOCÊ tem #uma faca #também? HEIN?!?!?!"             //Ryusei
+lang_npc[lang_num,10] = "Cadê toda a #ação? Nem mesmo #uma loja de bikes?!"  //Tsuki
+lang_npc[lang_num,11] = "Esse lado da #cidade é um nojo!"                    //Tsuki
+lang_npc[lang_num,12] = "'Não alimente #as gaivotas?'"                       //Astum
+lang_npc[lang_num,13] = "Óbvio né! #E precisa #dizer?"                       //Astum
+lang_npc[lang_num,14] = "Oh! A maré está #tão linda hoje!"                   //Ness
+lang_npc[lang_num,15] = "Você não pode ver #a trsiteza atrás #dessa tela."   //Leo
+lang_npc[lang_num,16] = "Oh? Partida de damas? #Okay."                       //Leo
+lang_npc[lang_num,17] = "Opa, oi! Rostinho #novo da #academia. Peraí..."     //Allister
+lang_npc[lang_num,18] = "Eu não tranquei #a porta da frente #de novo, né?"   //Allister
+lang_npc[lang_num,19] = "Vou chamar #irmãzona para #me buscar!"              //Libbie Dark
+lang_npc[lang_num,20] = "Eu tô perdida! #Não sei achar #nosso apartmento!"   //Libbie Dark
 
 //East District NPCs 2
 lang_npc[lang_num,21] = "There were no #ghosts to bust #in the sewers!"      //Jett
