@@ -25,24 +25,24 @@ lang_npc[lang_num,19] = "Vou chamar #irmãzona para #me buscar!"              //
 lang_npc[lang_num,20] = "Eu tô perdida! #Não sei achar #nosso apartmento!"   //Libbie Dark
 
 //East District NPCs 2
-lang_npc[lang_num,21] = "There were no #ghosts to bust #in the sewers!"      //Jett
-lang_npc[lang_num,22] = "Just a big dumb #frog! Ugh!"                        //Jett
-lang_npc[lang_num,23] = "Hope that kid #doesn't mind me #on his computer."   //Carol
-lang_npc[lang_num,24] = "I wanna play a #quick game of #Fist of Frog!"       //Carol
-lang_npc[lang_num,25] = "You snooze, you #lose around this #town!"           //Marshmallow
-lang_npc[lang_num,26] = "What do you mean #we had a giant #toad last night?" //Marshmallow
-lang_npc[lang_num,27] = "I have trust #issues with #trash cans now!"         //Ryusei
-lang_npc[lang_num,28] = "Do YOU have a #knife on you #too? HUH?!?!?!"        //Ryusei
-lang_npc[lang_num,29] = "I like watching #the seagulls!"                     //Astum
-lang_npc[lang_num,30] = "They really are #flying rats! It's #awesome!"       //Astum
-lang_npc[lang_num,31] = "What do you #mean? I am one #of many Leos!"         //Leo
-lang_npc[lang_num,32] = "I would like a #unique paint job, #though!"         //Leo
-lang_npc[lang_num,33] = "One of these #days, I want a #bigger telescope"     //Allister
-lang_npc[lang_num,34] = "I want to see #the moon in even #more detail!"      //Allister
-lang_npc[lang_num,35] = "I didn't get any #sleep last night! #Ugh!"          //Libbie
-lang_npc[lang_num,36] = "I have to go to #work like this!"                   //Libbie
-lang_npc[lang_num,37] = "Umi, you're going #to scare kids #with that face!"  //Candy
-lang_npc[lang_num,38] = "Kids? I'm warding #off ghosts! #Mwahaha!"           //Umi
+lang_npc[lang_num,21] = "Não tinha #nenhum fantasma #nos egostos!"           //Jett
+lang_npc[lang_num,22] = "Só um sapo #chato e enorme! Ugh!                    //Jett
+lang_npc[lang_num,23] = "Espero que ele #não importe se #eu mecher um pouco."//Carol
+lang_npc[lang_num,24] = "Vou jogar uma #partidinha de #Fist of Frog!"        //Carol
+lang_npc[lang_num,25] = "Parece que# quem dorme, perde# por aqui!"           //Marshmallow
+lang_npc[lang_num,26] = "Como assim um #sapo gigante #ontem a noite?"        //Marshmallow
+lang_npc[lang_num,27] = "Eu estou com #problemas em confiar #em lixeiras!"   //Ryusei
+lang_npc[lang_num,28] = "VOCÊ tem #uma faca #também? HEIN?!?!?!"             //Ryusei
+lang_npc[lang_num,29] = "Eu gosto de #ver as gaivotas!"                      //Astum
+lang_npc[lang_num,30] = "Elas realmente #são ratos voadores. #Bem legal!"    //Astum
+lang_npc[lang_num,31] = "Como assim? #Eu sou um de #muitos Leos!"            //Leo
+lang_npc[lang_num,32] = "Pelo menos, #queria um gabinete #novo!"             //Leo
+lang_npc[lang_num,33] = "Algum desses #eu queria um #telescopio maior!"      //Allister
+lang_npc[lang_num,34] = "Eu quero ver a #lua em mais #detalhes!"             //Allister
+lang_npc[lang_num,35] = "Eu nem consegui #dormir ontem! #Ugh!"               //Libbie
+lang_npc[lang_num,36] = "E eu tenho que #ir trabalhar assim!"                //Libbie
+lang_npc[lang_num,37] = "Umi, você vai #assustar todos #com essa cara!"      //Candy
+lang_npc[lang_num,38] = "Todos? Só vou assustar #os fantasmas #Mwahaha!"     //Umi
 
 //East District NPCs 3
 lang_npc[lang_num,39] = "That rascally #varmint got #away!"                   //Bucky
