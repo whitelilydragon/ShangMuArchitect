@@ -45,24 +45,24 @@ lang_npc[lang_num,37] = "Umi, você vai #assustar todos #com essa cara!"      //
 lang_npc[lang_num,38] = "Todos? Só vou assustar #os fantasmas! #Mwahaha!"    //Umi
 
 //East District NPCs 3
-lang_npc[lang_num,39] = "That rascally #varmint got #away!"                   //Bucky
-lang_npc[lang_num,40] = "He ate me saddle #clean off!"                        //Bucky
-lang_npc[lang_num,41] = "So many people #ignore that sign."                   //Kusei
-lang_npc[lang_num,42] = "Don't you think #about it, though! #It's not safe."  //Kusei
-lang_npc[lang_num,43] = "I got a contract #to take pictures #of the trains!"  //Uny
-lang_npc[lang_num,44] = "That guy really #loved trains! #*click*"             //Uny
-lang_npc[lang_num,45] = "You girls kicked #that thing's tail!"                //Maria
-lang_npc[lang_num,46] = "Would you mind if #we had a quick #interview?"       //Maria
-lang_npc[lang_num,47] = "Those girls must #be close! I need #my next scoop."  //Maria
-lang_npc[lang_num,48] = "I can't believe #they fired my #director!"           //Maika
-lang_npc[lang_num,49] = "Oh, they'll have #fun watching the #ratings drop!"   //Maika
-lang_npc[lang_num,50] = "Wow! There's a CD #player in the #dumpster!"         //Tsuki
-lang_npc[lang_num,51] = "Ne'er been a city #slick myself, but #this is nice." //Clyde
-lang_npc[lang_num,52] = "Real hard to find #some quiet #'round here!"         //Clyde
-lang_npc[lang_num,53] = "Hey! Wanna play #Starbuster?"                        //Leo
-lang_npc[lang_num,54] = "I wish! I can #only play #Asteroids..."              //Leo
-lang_npc[lang_num,55] = "I think I've #figured out #where it is!"             //Allister
-lang_npc[lang_num,56] = "Ehehehehehehehe#heheehehehehe! #I've got it!"        //Allister
+lang_npc[lang_num,39] = "Aquele verme #miserento já #cascou fora!"            //Bucky
+lang_npc[lang_num,40] = "Ele cumeu mia #sela todinha!"                        //Bucky
+lang_npc[lang_num,41] = "Muita gente #ignora o aviso."                        //Kusei
+lang_npc[lang_num,42] = "Mas nem pense #nisso, viu? #Não é seguro!"           //Kusei
+lang_npc[lang_num,43] = "Fui contratado #para tirar fotos #dos trens!"        //Uny
+lang_npc[lang_num,44] = "Aquele cara #realmente gosta #de trens. *click*"     //Uny
+lang_npc[lang_num,45] = "Garotas, vocês #chutaram a cauda #daquela coisa!"    //Maria
+lang_npc[lang_num,46] = "Se importariam #de fazer uma #entrevista?"           //Maria
+lang_npc[lang_num,47] = "Aquelas jovens devem #estar perto! Preciso vê-las!"  //Maria
+lang_npc[lang_num,48] = "Cara, eles #demitiram meu #diretor!"                 //Maika
+lang_npc[lang_num,49] = "Hah, aposto que #vão gostar da #queda de audiência!" //Maika
+lang_npc[lang_num,50] = "Nossa! Tem um Leitor #de CDs no #lixo!"              //Tsuki
+lang_npc[lang_num,51] = "Nunca fui um #moço de cidade, mais #isso é bão."     //Clyde
+lang_npc[lang_num,52] = "Difícil memo achar #um sossego #pur' aqui!"           //Clyde
+lang_npc[lang_num,53] = "Ei! Quer jogar #Starbuster?"                         //Leo
+lang_npc[lang_num,54] = "Quem dera! Eu #só tenho #Asteroids..."               //Leo
+lang_npc[lang_num,55] = "Eu acho que #já descobri #onde fica!"                //Allister
+lang_npc[lang_num,56] = "Ehehehehehehehe#heheehehehehe! #Eu achei!"           //Allister
 
 //East District NPCs 4
 lang_npc[lang_num,57] = "A lil' help over #'ere! Oh lawd..."                   //Bucky
