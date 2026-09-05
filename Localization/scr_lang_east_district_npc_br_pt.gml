@@ -2,7 +2,7 @@
 //Language Array; 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
 var lang_num = 1;
 //East District NPCs 1
-lang_npc[lang_num,0]  = "Boa noite! Se importa #de fazer uma #pesquisa?"     //Maria
+lang_npc[lang_num,0]  = "Boa noite! Se #importa de fazer #uma pesquisa?"     //Maria
 lang_npc[lang_num,1]  = "Estamos com uma #votação sobre a Proposta #33!"     //Maria
 lang_npc[lang_num,2]  = "Tá sentindo um #vento estranho vindo #do esgoto?"   //Jett
 lang_npc[lang_num,3]  = "Fantasma ou não, #eles vão sentir #medo de MIM!"    //Jett
@@ -58,31 +58,31 @@ lang_npc[lang_num,48] = "Cara, eles #demitiram meu #diretor!"                 //
 lang_npc[lang_num,49] = "Hah, aposto que #vão gostar da #queda de audiência!" //Maika
 lang_npc[lang_num,50] = "Nossa! Tem um Leitor #de CDs no #lixo!"              //Tsuki
 lang_npc[lang_num,51] = "Nunca fui um #moço de cidade, mais #isso é bão."     //Clyde
-lang_npc[lang_num,52] = "Difícil memo achar #um sossego #pur' aqui!"           //Clyde
+lang_npc[lang_num,52] = "Difícil memo achar #um sossego #pur' aqui!"          //Clyde
 lang_npc[lang_num,53] = "Ei! Quer jogar #Starbuster?"                         //Leo
 lang_npc[lang_num,54] = "Quem dera! Eu #só tenho #Asteroids..."               //Leo
 lang_npc[lang_num,55] = "Eu acho que #já descobri #onde fica!"                //Allister
 lang_npc[lang_num,56] = "Ehehehehehehehe#heheehehehehe! #Eu achei!"           //Allister
 
 //East District NPCs 4
-lang_npc[lang_num,57] = "A lil' help over #'ere! Oh lawd..."                   //Bucky
-lang_npc[lang_num,58] = "Ain't the #sidewinder ah #though ah was!"             //Bucky
-lang_npc[lang_num,59] = "We need to go to #Taishan Mountain #today!"           //Lilac
-lang_npc[lang_num,60] = "Wow... I heard #some girls #fought a dragon!"         //Maika
-lang_npc[lang_num,61] = "A real dragon! I #just play fight #on a set all day." //Maika
-lang_npc[lang_num,62] = "Oh lawd, Bucky... #Age ain't taught #yun's a thang!"  //Clyde
-lang_npc[lang_num,63] = "Oh! I saw a large #robot soar over #the sky!"         //Ness
-lang_npc[lang_num,64] = "*this note is so #hastily written, #you can't read it" //Paper note on the floor
-lang_npc[lang_num,65] = "Real worried #about the kid."                          //Leo
-lang_npc[lang_num,66] = "Said something #about mountains #then ran off!"        //Leo
-lang_npc[lang_num,67] = "I'm a little #worried about #Allister..."              //Kyomi
-lang_npc[lang_num,68] = "He's usually home #for practice by #now!"              //Kyomi
-lang_npc[lang_num,69] = "I'm going to eat #somewhere #special today!"           //Tiwi
-lang_npc[lang_num,70] = "The sandwich #shop!"                                   //Tiwi
+lang_npc[lang_num,57] = "Uma' judinha #'qui! Eita preula..."                   //Bucky
+lang_npc[lang_num,58] = "Num sô o #espertaião qui eu #pensei qui era!"         //Bucky
+lang_npc[lang_num,59] = "Precisamos ir #para as Montanhas #Taishan hoje!"      //Lilac
+lang_npc[lang_num,60] = "Ouvi falar que #umas garotas #venceram de um dragão!" //Maika
+lang_npc[lang_num,61] = "Um dragão real! #Eu só interpreto #coisas do tipo!"   //Maika
+lang_npc[lang_num,62] = "Eita preula, Bucky... #Ficá véio nun #tin'ssinô nada!"//Clyde
+lang_npc[lang_num,63] = "Oh! Eu vi um grande #robô sobrevoando #o céu!"        //Ness
+lang_npc[lang_num,64] = "*O recado foi #escrito tão depressa, #não tem como ler" //Paper note on the floor
+lang_npc[lang_num,65] = "Estou preocupado #com o garoto."                       //Leo
+lang_npc[lang_num,66] = "Ele disse algo #sobre montanhas #e sumiu!"             //Leo
+lang_npc[lang_num,67] = "Estou um pouquinho #preocupada com #o Allister..."     //Kyomi
+lang_npc[lang_num,68] = "Ele geralmente #está em casa #por essas horas."        //Kyomi
+lang_npc[lang_num,69] = "Eu vou comer #em um lugar #especial hoje!"             //Tiwi
+lang_npc[lang_num,70] = "A loja de #sanduiches!"                                //Tiwi
 
 //East District NPCs 5
-lang_npc[lang_num,71] = "Yep! Still stuck!"                                     //Bucky
-lang_npc[lang_num,72] = "Here's hopin' #Clyde can find a #plumber!"             //Bucky
-lang_npc[lang_num,73] = "What do you mean a flying shark attacked today?!"      //Maika
-lang_npc[lang_num,74] = "Ugh! I can't #believe Shy went #down there!"           //Ryusei
-lang_npc[lang_num,75 = "Don't  tell #anybody I'm #going after her."             //Ryusei
+lang_npc[lang_num,71] = "É! Tô preso ainda!"                                     //Bucky
+lang_npc[lang_num,72] = "Esperanu o #Clyde achá um #encanador!"                  //Bucky
+lang_npc[lang_num,73] = "Como assim um #tubarão voador #atacou hoje?!"            //Maika
+lang_npc[lang_num,74] = "Ugh! Eu não #acredito que a Shy #foi para lá!"           //Ryusei
+lang_npc[lang_num,75 = "Não conta pra #ninguém que #Tô indo buscar ela!"          //Ryusei
