@@ -85,4 +85,4 @@ lang_npc[lang_num,71] = "É! Tô preso ainda!"                                  
 lang_npc[lang_num,72] = "Esperanu o #Clyde achá um #encanador!"                  //Bucky
 lang_npc[lang_num,73] = "Como assim um #tubarão voador #atacou hoje?!"            //Maika
 lang_npc[lang_num,74] = "Ugh! Eu não #acredito que a Shy #foi para lá!"           //Ryusei
-lang_npc[lang_num,75 = "Não conta pra #ninguém que #Tô indo buscar ela!"          //Ryusei
+lang_npc[lang_num,75] = "Não conta pra #ninguém que #Tô indo buscar ela!"         //Ryusei
