@@ -2,13 +2,13 @@
 //Language Array; 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
 var lang_num = 1;
 //Taishan Peaks NPCs 1
-lang_npc[lang_num,0]   = "*Hooy, Milla! Why #not ring the #boll?*"          //Pumppy
-lang_npc[lang_num,1]   = "*It makes a BIG #long noise, hehe, #it's fun!*"   //Pumppy
-lang_npc[lang_num,2]   = "*lost in #meditation*"                            //Alan
-lang_npc[lang_num,3]   = "Oh! A visitor at #this hour of the #night?"       //Kyoti
-lang_npc[lang_num,4]   = "You are still #welcome to pray #here, child."     //Kyoti
+lang_npc[lang_num,0]   = "*Oieeee, Milla! que #tal bater o #sino?*"         //Pumppy
+lang_npc[lang_num,1]   = "*Ele faz um #BARULHÃO, hehe, #bem legal!*"        //Pumppy
+lang_npc[lang_num,2]   = "*Em transe #meditando*"                           //Alan
+lang_npc[lang_num,3]   = "Oh! Um visitante #a essa hora da #noite?"         //Kyoti
+lang_npc[lang_num,4]   = "Você está convidada #para orar aqui #minha jovem."//Kyoti
 lang_npc[lang_num,5]   = "Can't sleep... #Maybe I should #practice?"        //Kyomi
-lang_npc[lang_num,6]   = "This will make #a great long exposure!"           //Uny
+lang_npc[lang_num,6]   = "Isso vai dar uma #bela foto de longa exposição!"  //Uny
 lang_npc[lang_num,7]   = "*click!*"                                         //Uny
 
 //Taishan Peaks NPCs 2
