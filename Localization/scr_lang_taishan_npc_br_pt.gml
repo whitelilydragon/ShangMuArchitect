@@ -7,7 +7,7 @@ lang_npc[lang_num,1]   = "*Ele faz um #BARULHÃO, hehe, #bem legal!*"        //P
 lang_npc[lang_num,2]   = "*Em transe #meditando*"                           //Alan
 lang_npc[lang_num,3]   = "Oh! Um visitante #a essa hora da #noite?"         //Kyoti
 lang_npc[lang_num,4]   = "Você está convidada #para orar aqui #minha jovem."//Kyoti
-lang_npc[lang_num,5]   = "Can't sleep... #Maybe I should #practice?"        //Kyomi
+lang_npc[lang_num,5]   = "Não consigo dormir... #Talvez eu deva #practicar?"//Kyomi
 lang_npc[lang_num,6]   = "Isso vai dar uma #bela foto de longa exposição!"  //Uny
 lang_npc[lang_num,7]   = "*click!*"                                         //Uny
 
