@@ -3,12 +3,12 @@
 var lang_num = 2;
 
 //Train Station NPCs 1
-lang_npc[lang_num,0]  = "I can't wait to #catch up on my #shows!"               //Lilac
-lang_npc[lang_num,1]  = "I missed the #quiet and fresh #air, Carol."            //Lilac
-lang_npc[lang_num,2]  = "No place like #home!"                                  //Lilac
-lang_npc[lang_num,3]  = "Welcome home, #Milla! Wanna play #board games?"        //Lilac
-lang_npc[lang_num,4]  = "Spade, how did #you find my #house?"                   //Lilac
-lang_npc[lang_num,5]  = "Ah! Home sweet #home, messy just #the way I like it!"  //Carol
-lang_npc[lang_num,6]  = "I'm gonna take a #nap."                                //Carol
-lang_npc[lang_num,7]  = "Ooh, decorating #is so much fun, #hehe!"               //Milla
-lang_npc[lang_num,8]  = "I wanna play the #Mega Neptune!"                       //Milla
+lang_npc[lang_num,0]  = "Nie mogę doczekać się nadganiania moich ulubionych programów!"               //Lilac
+lang_npc[lang_num,1]  = "Stęskniłam się za tą ciszą i świeżym powietrzem."            //Lilac
+lang_npc[lang_num,2]  = "Nie ma to jak w domu!"                                  //Lilac
+lang_npc[lang_num,3]  = "Witaj w domu Milla! Chcesz zagrać w gry planszowe?"        //Lilac
+lang_npc[lang_num,4]  = "Spade, w jaki sposób znalazłeś nasz dom?"                   //Lilac
+lang_npc[lang_num,5]  = "Ach! Nie ma to jak w starym dobrym domu!"  //Carol
+lang_npc[lang_num,6]  = "Idę mieć drzemkę."                                //Carol
+lang_npc[lang_num,7]  = "Ooch, dekorowanie jest świetną zabawą, hihi!"               //Milla
+lang_npc[lang_num,8]  = "Chcę zagrać na #Mega Neptunie!"                       //Milla
