@@ -1,4 +1,4 @@
-# Freedom Planet: Shang Mu Architect
+# Freedom Planet Architect
 ### Localization Project
 
 # Questions and Answers
@@ -21,4 +21,4 @@ Q: I am new to using GitHub, where can I ask questions if I am stuck?
 A: GitHub does not have a Direct Message feature (anymore), but we do have other options for you to contact me:
 Email Address: velacosmos @ proton.me
 Bluesky: bsky.app / profile / velacosmos . bsky . social
-SMA Discord: https://discord.gg/Z855AHw
+FPA Discord: https://discord.gg/Z855AHw
