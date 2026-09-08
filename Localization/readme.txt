@@ -8,7 +8,7 @@ Q: Why are all files labeled as C header files, when this is a Game Maker projec
 A: This is for improved syntax highlighting; GitHub does not have, at the present time, readable syntax highlighting for Game Maker strings
 
 Q: How do I contribute to this project?
-A: Contact me via Twitter or our SMA Discord server, and we can add you as a contributor to this project!
+A: Contact me via BlueSky or our FPA Discord server, and we can add you as a contributor to this project!
 Server Link: https://discord.gg/Z855AHw
 
 Q: How do I look at both the English scripts and my own language's scripts at the same time?
