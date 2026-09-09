@@ -2,8 +2,8 @@
 //Language Array; 0 = English; 1 = Portuguese; 2 = Polish; 3 = Spanish; 4 = German; 5 = Russian
 var lang_num = 2;
 //West District NPCs 1
-lang_npc[lang_num,0]  = "Ta! Te dziady nigdzie mnie nie przegonią!"     //Clyde
-lang_npc[lang_num,1]  = "Nie mają nico za zębami, i w głowach!"   //Clyde
+lang_npc[lang_num,0]  = "Ta! Zaciągnięcie tych stworów gdziekolwiek jest ciężkim wyzwaniem!"     //Clyde
+lang_npc[lang_num,1]  = "Stąd brakuje mi paru zębów!"   //Clyde
 lang_npc[lang_num,2]  = "Ze wszystkich cudów miasta, najbardziej tęskniłem za pociągami!"   //Bucky
 lang_npc[lang_num,3]  = "Przypominają mi stare czasy w wrestlingu!"           //Bucky
 lang_npc[lang_num,4]  = "Przepraszam, Chiasa! Byłem głodnyy!"                  //Marshmallow

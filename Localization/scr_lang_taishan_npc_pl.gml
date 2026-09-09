@@ -14,7 +14,7 @@ lang_npc[lang_num,7]   = "*klik!*"                                         //Uny
 //Taishan Peaks NPCs 2
 lang_npc[lang_num,8]   = "Zwykle doceniam towarzystwo..."                   //Alan
 lang_npc[lang_num,9]   = "Ale czy możecie dać mi chwilę na modlitwę przy dzwonie?"   //Alan
-lang_npc[lang_num,10]  = "Witaj w naszej Taishańskiej Wsi, #dziecię!"                     //Kyoti
+lang_npc[lang_num,10]  = "Witaj w naszej Taishańskiej Wsi, moje dziecię!"                     //Kyoti
 lang_npc[lang_num,11]  = "Nasza świątynia wita wszystkich, tak jak nasze miasteczko!"       //Kyoti
 lang_npc[lang_num,12]  = "Nie mogę drzemać... Może powinienem potrenować?"                  //Kymoi
 lang_npc[lang_num,13]  = "Mam jeszcze kilka rolek filmu, więc czemu nie?"                //Uny
