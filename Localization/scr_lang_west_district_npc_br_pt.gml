@@ -142,29 +142,29 @@ lang_npc[lang_num,128] = "Eu vou querer cinco de suas bananas, por favorzinho!" 
 lang_npc[lang_num,129] = "Heh, você está deixando o Reino-Tri News ocupado!"    //Axl
 
 //West District NPCs 6
-lang_npc[lang_num,130] = "'ey Candy, it'd be #fun to steal this #in broad daylight" //Umi
-lang_npc[lang_num,131] = "You can never #have too many #stop signs!"                //Umi
-lang_npc[lang_num,132] = "Umi, don't you #commit enough #crimes?!"                  //Candy
-lang_npc[lang_num,133] = "I'm taking this #creature with #me!"                      //Neera
-lang_npc[lang_num,134] = "He's wanted in #all four kingdoms!"                       //Neera
-lang_npc[lang_num,135] = "*evil raccoon #sadness*"                                  //Trash Can
-lang_npc[lang_num,136] = "I think I got #lost already... #Hmm."                     //Tanner
-lang_npc[lang_num,137] = "oi, Milla! Me wan #hotcat on a bun, #please, hehe!"       //Pummpy
-lang_npc[lang_num,138] = "Mornin', kids! #Enjoying the weekend?"                    //Millie
-lang_npc[lang_num,139] = "Milla, I want to #see the #beach!"                        //Milla
+lang_npc[lang_num,130] = "Ou Candy, seria bem legal roubar isso daqui em pleno dia."//Umi
+lang_npc[lang_num,131] = "Ter placas de Pare nunca é de mais!"                      //Umi
+lang_npc[lang_num,132] = "Umi, você já não comete crimes o bastante?!"              //Candy
+lang_npc[lang_num,133] = "Irei levar esta criatura comigo!"                         //Neera
+lang_npc[lang_num,134] = "Ele é procurado em todos os três reinos!"                 //Neera
+lang_npc[lang_num,135] = "*sons de guaxinim maligno triste*"                        //Trash Can
+lang_npc[lang_num,136] = "Eu acho que já me perdi... Hmm."                          //Tanner
+lang_npc[lang_num,137] = "Oi, Milla! quero cachilo-quente num paum, por favor, hehe!" //Pummpy
+lang_npc[lang_num,138] = "Bom dia, crianças, aproveitando o fim de semana?"         //Millie
+lang_npc[lang_num,139] = "Milla, Eu quero ver a praia!"                             //Milla
 
 //West District NPCs 7
-lang_npc[lang_num,140] = "Okay, fine, I #won't steal the #stop sign!"               //Umi
-lang_npc[lang_num,141] = "I guess our #shack IS getting #kinda crowded..."          //Umi
-lang_npc[lang_num,142] = "Now that's more #like it! Let's go #home, Umi."           //Candy
-lang_npc[lang_num,143] = "oi, Milla! Me wan #humboiger, #please, hehe!"             //Pumppy
-lang_npc[lang_num,144] = "Mmm! This ice #cream is the #best in town!"               //Marshmallow
-lang_npc[lang_num,145] = "I want seconds!"                                          //Marshmallow
-lang_npc[lang_num,146] = "Oh, my dear... You #bring me true #contentment."          //Bird Guard (Female)
-lang_npc[lang_num,147] = "Weh"                                                      //Bird Guard (Male)
-lang_npc[lang_num,148] = "Ooh! I love #plantains! I'll #take three."                //
-lang_npc[lang_num,149] = "Oh... That's why #you don't feed #the seagulls..."        //Astum
-lang_npc[lang_num,150] = "They pecked at #my knees for #HOURS!!! OW!!!"             //Astum
-lang_npc[lang_num,151] = "Not nearly #enough!"                                      //Abby
+lang_npc[lang_num,140] = "Okay, certo, eu não vou roubar a placa de pare!"          //Umi
+lang_npc[lang_num,141] = "Talvez nossa cabana ESTEJA ficando um pouco cheio..."     //Umi
+lang_npc[lang_num,142] = "Agora sim! Vamos para casa, Umi."                         //Candy
+lang_npc[lang_num,143] = "Oi, Milla! Eu quero um burgum, 'favor, hehe!"             //Pumppy
+lang_npc[lang_num,144] = "Mmm! Esse sorvete é o melhor sorvete da cidade!"          //Marshmallow
+lang_npc[lang_num,145] = "Eu quero segundos!"                                       //Marshmallow
+lang_npc[lang_num,146] = "Oh, meu querido... Você me traz verdadeiro contentamento." //Bird Guard (Female)
+lang_npc[lang_num,147] = "Qua"                                                      //Bird Guard (Male)
+lang_npc[lang_num,148] = "Ooh! Eu amo bananas! Vou levar três."                     //
+lang_npc[lang_num,149] = "Oh... É por isso que você não deve alimentar as gaivotas..." //Astum
+lang_npc[lang_num,150] = "Eles bicaram meus joelhos por HORAS!!! AI!!!"             //Astum
+lang_npc[lang_num,151] = "Não o suficiente!"                                        //Abby
 lang_npc[lang_num,152] = "Did we annoy the #babysitter #enough?!"                   //Alexis
 
