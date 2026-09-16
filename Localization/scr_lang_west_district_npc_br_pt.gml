@@ -166,5 +166,5 @@ lang_npc[lang_num,148] = "Ooh! Eu amo bananas! Vou levar três."                
 lang_npc[lang_num,149] = "Oh... É por isso que você não deve alimentar as gaivotas..." //Astum
 lang_npc[lang_num,150] = "Eles bicaram meus joelhos por HORAS!!! AI!!!"             //Astum
 lang_npc[lang_num,151] = "Não o suficiente!"                                        //Abby
-lang_npc[lang_num,152] = "Did we annoy the #babysitter #enough?!"                   //Alexis
+lang_npc[lang_num,152] = "Será que a gente não irritou a babá o bastante?!"         //Alexis
 
