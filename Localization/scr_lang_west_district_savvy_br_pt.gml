@@ -10,3 +10,4 @@ lang_npc[lang_num,4]  = "VOCÊ AGORA O EMBOSCOU!!! AAAAAAA!!!"       //Savvy
 lang_npc[lang_num,5]  = "ME PÕE NO CHÃO, POR FAVOR!!!"              //Savvy
 lang_npc[lang_num,6]  = "Quanto de gasolina tem nessa coisa?!"      //Savvy
 lang_npc[lang_num,7]  = "AAAAAAAAAAAAAAAAAAAAAAAAA"                 //Savvy
+lang_npc[lang_num,8]  = "JÓIAS DO CÉUS VOCÊ É INCRÍVEL, ME COLOQUE NO CHÃO!!!" //Savvy
