@@ -3,20 +3,20 @@
 var lang_num = 1;
 
 //Train Station NPCs 1
-lang_npc[lang_num,0]  = "Regrettin' sellin' #mah vacation #hours..."            //Jamie
-lang_npc[lang_num,1]  = "Oh! Jamie! I #haven't seen you #in a while."           //Stella
-lang_npc[lang_num,2]  = "How are you this #evening?"                            //Stella
-lang_npc[lang_num,3]  = "Excuse me! Have #you seen the #monster?"               //Maria
-lang_npc[lang_num,4]  = "We have a bounty #for any photos #and sketches!"       //Maria
-lang_npc[lang_num,5]  = "Why do I see #this poster #everywhere?"                //Garrett
-lang_npc[lang_num,6]  = "Does the sub #title mean there #is a game, too?"       //Garrett
+lang_npc[lang_num,0]  = "Me arrependo ter vendido minhas férias..."             //Jamie
+lang_npc[lang_num,1]  = "Oh! Jamie! Tem tempo que não vejo você."               //Stella
+lang_npc[lang_num,2]  = "Como você está nessa tarde?"                           //Stella
+lang_npc[lang_num,3]  = "Com licensa! Por acaso você viu o monstro?"            //Maria
+lang_npc[lang_num,4]  = "Iremos recompensar por qualquer foto e sketches!"      //Maria
+lang_npc[lang_num,5]  = "Por que eu fico vendo este poster em todo lugar?"      //Garrett
+lang_npc[lang_num,6]  = "Esse sub-título significa que tem um jogo, também?"    //Garrett
 
 //Train Station NPCs 2
 lang_npc[lang_num,7]  = "Shang Mu is so #much fun for #R&R! No regrets!"        //Bird Guard (Female)
-lang_npc[lang_num,8]  = "Oh! I mean, #*wah*!"                                   //Bird Guard (Female)
-lang_npc[lang_num,9]  = "Tired of waiting #for the bridge, #so here I am!"      //Trip
-lang_npc[lang_num,10] = "These ticket #prices are #highway robbery!"            //Trip
-lang_npc[lang_num,11] = "Trip, there are #worse things #about this town!"       //Axl
+lang_npc[lang_num,8]  = "Uh! quer dizer, *Qua*!"                                //Bird Guard (Female)
+lang_npc[lang_num,9]  = "Cansei de esperar pela ponte, então aqui estou!"       //Trip
+lang_npc[lang_num,10] = "O preço desses tickets são um roubo!"                  //Trip
+lang_npc[lang_num,11] = "Trip, tem coisas piores nessa cidade!"                 //Axl
 lang_npc[lang_num,12] = "Like how my side #gig pays me in #coupons! Ugh!"       //Axl
 lang_npc[lang_num,13] = "Now that was a #fun night of #reporting!"              //Maria
 lang_npc[lang_num,14] = "I can't wait to #do it all again #after some rest!"    //Maria
