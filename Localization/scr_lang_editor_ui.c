@@ -132,6 +132,7 @@ lang_gui[0,129] = "Pangu Lagoon"
 lang_gui[0,130] = "Deadzone"
 lang_gui[0,131] = "Stage Music"
 lang_gui[0,132] = "Dragon Valley"
+lang_gui[0,133] = "Star Card Manager"
 
 //Portuguese
 lang_gui[1,0] = "Mais"
@@ -267,6 +268,7 @@ lang_gui[1,129] = "Laguna Pangu"
 lang_gui[1,130] = "Zona Morta"
 lang_gui[1,131] = "Música da Fase"
 lang_gui[1,132] = "Vale do Dragão"
+lang_gui[1,133] = "Star Card Manager"
 
 //Polish
 lang_gui[2,0]  = "Plik"
@@ -402,6 +404,7 @@ lang_gui[2,129] = "Laguna Pangu"
 lang_gui[2,130] = "Pustkowie"
 lang_gui[2,131] = "Utwór w Tle"
 lang_gui[2,132] = "Smocza Dolina"
+lang_gui[2,133] = "Star Card Manager"  
 
 //Spanish
 lang_gui[3,0]  = "Menú"
@@ -537,6 +540,7 @@ lang_gui[3,129] = "Laguna Pangu"
 lang_gui[3,130] = "Zona Muerta"
 lang_gui[3,131] = "Música del Nivel"
 lang_gui[3,132] = "Valle del Dragón"
+lang_gui[3,133] = "Star Card Manager"
 
 //German
 lang_gui[4,0]  = "Spiel"
@@ -672,6 +676,7 @@ lang_gui[4,129] = "Pangu Lagoon"
 lang_gui[4,130] = "Deadzone"
 lang_gui[4,131] = "Stage Music"
 lang_gui[4,132] = "Dragon Valley"
+lang_gui[4,133] = "Star Card Manager"
 
 //Russian
 lang_gui[5,0]  = "Файл"
@@ -807,3 +812,4 @@ lang_gui[5,129] = "Pangu Lagoon"
 lang_gui[5,130] = "Deadzone"
 lang_gui[5,131] = "Stage Music"
 lang_gui[5,132] = "Dragon Valley"
+lang_gui[5,133] = "Star Card Manager"
