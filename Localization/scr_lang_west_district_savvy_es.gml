@@ -11,3 +11,5 @@ lang_npc[lang_num,5]  = "GET ME DOWN, PLEASE!!!"                         //Savvy
 lang_npc[lang_num,6]  = "How much gas is in it?!"                        //Savvy
 lang_npc[lang_num,7]  = "AAAAAAAAAAAAAAAAAAAAAAAAA"                      //Savvy
 lang_npc[lang_num,8]  = "HEAVEN'S STONES YOU'RE AMAZING, GET ME DOWN!!!" //Savvy
+lang_npc[lang_num,9]  = "I CAN'T FEEL MY LEGS!!!"                        //Savvy
+lang_npc[lang_num,10] = "WE'RE DRIVING INTO ONCOMING TRAFFIC?!?!"        //Savvy
