@@ -11,3 +11,5 @@ lang_npc[lang_num,5]  = "ODCZEP MNIE OD TEGO CZEGOŚ, PROSZĘ!!!"               
 lang_npc[lang_num,6]  = "Ile to coś ma paliwa?!"                                   //Savvy
 lang_npc[lang_num,7]  = "AAAAAAAAAAAAAAAAAAAAAAAAA"                                //Savvy
 lang_npc[lang_num,8]  = "ŚWIĘTE KAMIENIE JESTEŚ WSPANIAŁA, ZDEJMIJ MNIE Z TEGO!!!" //Savvy
+lang_npc[lang_num,9]  = "I CAN'T FEEL MY LEGS!!!"                                  //Savvy
+lang_npc[lang_num,10] = "WE'RE DRIVING INTO ONCOMING TRAFFIC?!?!"                  //Savvy
